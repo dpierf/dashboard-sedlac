@@ -77,8 +77,8 @@ pip install pandas openpyxl
 python sedlac_parser.py
 ```
 
-Sugere-se salvar os arquivos de entrada em `data/raw/`, enquanto os arquivos
-gerados podem ser salvos em `data/parsed/`, para facilitar a identificação posterior.
+Este código busco os arquivos de entrada em `data/raw/`, enquanto os arquivos
+gerados serão salvos em `data/parsed/`, para facilitar a identificação posterior.
 
 ---
 
