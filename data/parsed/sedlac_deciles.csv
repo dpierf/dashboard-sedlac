@@ -1,0 +1,5061 @@
+country;region;year;decile;share
+Argentina;15 main cities;1992;d1;1,7895876
+Argentina;15 main cities;1992;d10;34,12178
+Argentina;15 main cities;1992;d2;3,0443568
+Argentina;15 main cities;1992;d3;4,1015978
+Argentina;15 main cities;1992;d4;5,1351891
+Argentina;15 main cities;1992;d5;6,2195916
+Argentina;15 main cities;1992;d6;7,6461763
+Argentina;15 main cities;1992;d7;9,3936987
+Argentina;15 main cities;1992;d8;12,036181
+Argentina;15 main cities;1992;d9;16,511839
+Argentina;15 main cities;1992;ratio_10_1;19,055777
+Argentina;15 main cities;1993;d1;1,6636386
+Argentina;15 main cities;1993;d10;33,040504
+Argentina;15 main cities;1993;d2;3,0172698
+Argentina;15 main cities;1993;d3;4,1365824
+Argentina;15 main cities;1993;d4;5,2320261
+Argentina;15 main cities;1993;d5;6,427146
+Argentina;15 main cities;1993;d6;7,8901811
+Argentina;15 main cities;1993;d7;9,6560774
+Argentina;15 main cities;1993;d8;12,300373
+Argentina;15 main cities;1993;d9;16,636202
+Argentina;15 main cities;1993;ratio_10_1;19,846268
+Argentina;15 main cities;1994;d1;1,7459918
+Argentina;15 main cities;1994;d10;34,215008
+Argentina;15 main cities;1994;d2;2,9417427
+Argentina;15 main cities;1994;d3;4,0118008
+Argentina;15 main cities;1994;d4;5,0919552
+Argentina;15 main cities;1994;d5;6,3215108
+Argentina;15 main cities;1994;d6;7,7116647
+Argentina;15 main cities;1994;d7;9,4786329
+Argentina;15 main cities;1994;d8;12,049682
+Argentina;15 main cities;1994;d9;16,432013
+Argentina;15 main cities;1994;ratio_10_1;19,596169
+Argentina;15 main cities;1995;d1;1,4236557
+Argentina;15 main cities;1995;d10;36,664745
+Argentina;15 main cities;1995;d2;2,7241399
+Argentina;15 main cities;1995;d3;3,7470069
+Argentina;15 main cities;1995;d4;4,7580333
+Argentina;15 main cities;1995;d5;5,9498758
+Argentina;15 main cities;1995;d6;7,3408179
+Argentina;15 main cities;1995;d7;9,0478306
+Argentina;15 main cities;1995;d8;11,631355
+Argentina;15 main cities;1995;d9;16,71254
+Argentina;15 main cities;1995;ratio_10_1;25,727472
+Argentina;15 main cities;1996;d1;1,3781022
+Argentina;15 main cities;1996;d10;36,497799
+Argentina;15 main cities;1996;d2;2,6062393
+Argentina;15 main cities;1996;d3;3,6358089
+Argentina;15 main cities;1996;d4;4,6872048
+Argentina;15 main cities;1996;d5;5,8651266
+Argentina;15 main cities;1996;d6;7,289556
+Argentina;15 main cities;1996;d7;9,1733418
+Argentina;15 main cities;1996;d8;11,92013
+Argentina;15 main cities;1996;d9;16,946695
+Argentina;15 main cities;1996;ratio_10_1;26,464559
+Argentina;15 main cities;1997;d1;1,3495703
+Argentina;15 main cities;1997;d10;36,063602
+Argentina;15 main cities;1997;d2;2,5557222
+Argentina;15 main cities;1997;d3;3,5884826
+Argentina;15 main cities;1997;d4;4,7308569
+Argentina;15 main cities;1997;d5;5,9580269
+Argentina;15 main cities;1997;d6;7,3059068
+Argentina;15 main cities;1997;d7;9,2470379
+Argentina;15 main cities;1997;d8;12,027238
+Argentina;15 main cities;1997;d9;17,173557
+Argentina;15 main cities;1997;ratio_10_1;26,693546
+Argentina;15 main cities;1998;d1;1,2507274
+Argentina;15 main cities;1998;d10;37,729462
+Argentina;15 main cities;1998;d2;2,398006
+Argentina;15 main cities;1998;d3;3,3979113
+Argentina;15 main cities;1998;d4;4,4646487
+Argentina;15 main cities;1998;d5;5,6514368
+Argentina;15 main cities;1998;d6;7,032505
+Argentina;15 main cities;1998;d7;9,0259762
+Argentina;15 main cities;1998;d8;11,98149
+Argentina;15 main cities;1998;d9;17,067839
+Argentina;15 main cities;1998;ratio_10_1;30,155757
+Argentina;28 main cities;1998;d1;1,2641518
+Argentina;28 main cities;1998;d10;37,789944
+Argentina;28 main cities;1998;d2;2,4173169
+Argentina;28 main cities;1998;d3;3,4142849
+Argentina;28 main cities;1998;d4;4,4719195
+Argentina;28 main cities;1998;d5;5,6468921
+Argentina;28 main cities;1998;d6;7,0718279
+Argentina;28 main cities;1998;d7;9,0371742
+Argentina;28 main cities;1998;d8;11,922506
+Argentina;28 main cities;1998;d9;16,947815
+Argentina;28 main cities;1998;ratio_10_1;29,886892
+Argentina;28 main cities;1999;d1;1,3147655
+Argentina;28 main cities;1999;d10;36,745449
+Argentina;28 main cities;1999;d2;2,5117471
+Argentina;28 main cities;1999;d3;3,5265307
+Argentina;28 main cities;1999;d4;4,556273
+Argentina;28 main cities;1999;d5;5,8275542
+Argentina;28 main cities;1999;d6;7,2873945
+Argentina;28 main cities;1999;d7;9,170742
+Argentina;28 main cities;1999;d8;12,0418
+Argentina;28 main cities;1999;d9;17,017746
+Argentina;28 main cities;1999;ratio_10_1;27,94066
+Argentina;28 main cities;2000;d1;1,1655892
+Argentina;28 main cities;2000;d10;37,412014
+Argentina;28 main cities;2000;d2;2,3217678
+Argentina;28 main cities;2000;d3;3,3020704
+Argentina;28 main cities;2000;d4;4,377636
+Argentina;28 main cities;2000;d5;5,6247015
+Argentina;28 main cities;2000;d6;7,1809268
+Argentina;28 main cities;2000;d7;9,0906305
+Argentina;28 main cities;2000;d8;12,166335
+Argentina;28 main cities;2000;d9;17,358328
+Argentina;28 main cities;2000;ratio_10_1;32,087987
+Argentina;28 main cities;2001;d1;0,97197098
+Argentina;28 main cities;2001;d10;38,94577
+Argentina;28 main cities;2001;d2;2,1036439
+Argentina;28 main cities;2001;d3;3,1283767
+Argentina;28 main cities;2001;d4;4,1470399
+Argentina;28 main cities;2001;d5;5,3974791
+Argentina;28 main cities;2001;d6;6,938344
+Argentina;28 main cities;2001;d7;8,9755735
+Argentina;28 main cities;2001;d8;12,01826
+Argentina;28 main cities;2001;d9;17,373541
+Argentina;28 main cities;2001;ratio_10_1;40,065142
+Argentina;28 main cities;2002;d1;1,0221286
+Argentina;28 main cities;2002;d10;40,275959
+Argentina;28 main cities;2002;d2;1,9522129
+Argentina;28 main cities;2002;d3;2,956398
+Argentina;28 main cities;2002;d4;4,0827055
+Argentina;28 main cities;2002;d5;5,3533392
+Argentina;28 main cities;2002;d6;6,8484044
+Argentina;28 main cities;2002;d7;8,6815929
+Argentina;28 main cities;2002;d8;11,62849
+Argentina;28 main cities;2002;d9;17,198767
+Argentina;28 main cities;2002;ratio_10_1;39,382544
+Argentina;28 main cities;2003;d1;1,1434911
+Argentina;28 main cities;2003;d10;39,748779
+Argentina;28 main cities;2003;d2;2,0931454
+Argentina;28 main cities;2003;d3;2,9977596
+Argentina;28 main cities;2003;d4;4,0115499
+Argentina;28 main cities;2003;d5;5,2450695
+Argentina;28 main cities;2003;d6;6,8336797
+Argentina;28 main cities;2003;d7;8,7875223
+Argentina;28 main cities;2003;d8;11,845736
+Argentina;28 main cities;2003;d9;17,293268
+Argentina;28 main cities;2003;ratio_10_1;34,755263
+Argentina;EPHC;2003;d1;1,119894
+Argentina;EPHC;2003;d10;37,676349
+Argentina;EPHC;2003;d2;2,2402928
+Argentina;EPHC;2003;d3;3,226355
+Argentina;EPHC;2003;d4;4,3720058
+Argentina;EPHC;2003;d5;5,5748686
+Argentina;EPHC;2003;d6;7,1227667
+Argentina;EPHC;2003;d7;9,2389772
+Argentina;EPHC;2003;d8;12,240792
+Argentina;EPHC;2003;d9;17,187699
+Argentina;EPHC;2003;ratio_10_1;33,636651
+Argentina;EPHC;2004;d1;1,1892311
+Argentina;EPHC;2004;d1;1,2362392
+Argentina;EPHC;2004;d10;36,355902
+Argentina;EPHC;2004;d10;35,251946
+Argentina;EPHC;2004;d2;2,377165
+Argentina;EPHC;2004;d2;2,3973022
+Argentina;EPHC;2004;d3;3,4000032
+Argentina;EPHC;2004;d3;3,4758091
+Argentina;EPHC;2004;d4;4,4697414
+Argentina;EPHC;2004;d4;4,6435881
+Argentina;EPHC;2004;d5;5,7532047
+Argentina;EPHC;2004;d5;6,0043136
+Argentina;EPHC;2004;d6;7,3762732
+Argentina;EPHC;2004;d6;7,5662126
+Argentina;EPHC;2004;d7;9,4101352
+Argentina;EPHC;2004;d7;9,5617068
+Argentina;EPHC;2004;d8;12,364709
+Argentina;EPHC;2004;d8;12,537174
+Argentina;EPHC;2004;d9;17,303635
+Argentina;EPHC;2004;d9;17,325709
+Argentina;EPHC;2004;ratio_10_1;30,569201
+Argentina;EPHC;2004;ratio_10_1;28,512554
+Argentina;EPHC;2005;d1;1,2779841
+Argentina;EPHC;2005;d1;1,2916103
+Argentina;EPHC;2005;d10;35,105534
+Argentina;EPHC;2005;d10;34,922704
+Argentina;EPHC;2005;d2;2,5164202
+Argentina;EPHC;2005;d2;2,5073385
+Argentina;EPHC;2005;d3;3,6282683
+Argentina;EPHC;2005;d3;3,5809992
+Argentina;EPHC;2005;d4;4,7172416
+Argentina;EPHC;2005;d4;4,766123
+Argentina;EPHC;2005;d5;5,9829134
+Argentina;EPHC;2005;d5;6,0887913
+Argentina;EPHC;2005;d6;7,5802382
+Argentina;EPHC;2005;d6;7,6409659
+Argentina;EPHC;2005;d7;9,6064883
+Argentina;EPHC;2005;d7;9,632616
+Argentina;EPHC;2005;d8;12,423584
+Argentina;EPHC;2005;d8;12,442428
+Argentina;EPHC;2005;d9;17,161328
+Argentina;EPHC;2005;d9;17,126424
+Argentina;EPHC;2005;ratio_10_1;27,465552
+Argentina;EPHC;2005;ratio_10_1;27,030647
+Argentina;EPHC;2006;d1;1,283154
+Argentina;EPHC;2006;d1;1,3115487
+Argentina;EPHC;2006;d10;33,829982
+Argentina;EPHC;2006;d10;33,770041
+Argentina;EPHC;2006;d2;2,5572876
+Argentina;EPHC;2006;d2;2,6290264
+Argentina;EPHC;2006;d3;3,6300055
+Argentina;EPHC;2006;d3;3,753965
+Argentina;EPHC;2006;d4;4,8694403
+Argentina;EPHC;2006;d4;4,9450472
+Argentina;EPHC;2006;d5;6,269497
+Argentina;EPHC;2006;d5;6,2945098
+Argentina;EPHC;2006;d6;7,8354652
+Argentina;EPHC;2006;d6;7,8955787
+Argentina;EPHC;2006;d7;9,832442
+Argentina;EPHC;2006;d7;9,9278294
+Argentina;EPHC;2006;d8;12,625681
+Argentina;EPHC;2006;d8;12,558877
+Argentina;EPHC;2006;d9;17,267045
+Argentina;EPHC;2006;d9;16,913577
+Argentina;EPHC;2006;ratio_10_1;26,362742
+Argentina;EPHC;2006;ratio_10_1;25,739426
+Argentina;EPHC;2007;d1;1,4000498
+Argentina;EPHC;2007;d1;1,4342595
+Argentina;EPHC;2007;d10;32,630477
+Argentina;EPHC;2007;d10;33,695149
+Argentina;EPHC;2007;d2;2,6985097
+Argentina;EPHC;2007;d2;2,6821384
+Argentina;EPHC;2007;d3;3,8363049
+Argentina;EPHC;2007;d3;3,7233733
+Argentina;EPHC;2007;d4;5,0383832
+Argentina;EPHC;2007;d4;4,9357749
+Argentina;EPHC;2007;d5;6,3821808
+Argentina;EPHC;2007;d5;6,296177
+Argentina;EPHC;2007;d6;7,9817869
+Argentina;EPHC;2007;d6;7,8858969
+Argentina;EPHC;2007;d7;9,9706958
+Argentina;EPHC;2007;d7;9,9042128
+Argentina;EPHC;2007;d8;12,778515
+Argentina;EPHC;2007;d8;12,508446
+Argentina;EPHC;2007;d9;17,283097
+Argentina;EPHC;2007;d9;16,934572
+Argentina;EPHC;2007;ratio_10_1;23,303639
+Argentina;EPHC;2007;ratio_10_1;23,490111
+Argentina;EPHC;2008;d1;1,3964898
+Argentina;EPHC;2008;d1;1,4361716
+Argentina;EPHC;2008;d10;31,864837
+Argentina;EPHC;2008;d10;32,439267
+Argentina;EPHC;2008;d2;2,8038921
+Argentina;EPHC;2008;d2;2,7878637
+Argentina;EPHC;2008;d3;3,9912769
+Argentina;EPHC;2008;d3;3,9485279
+Argentina;EPHC;2008;d4;5,2632706
+Argentina;EPHC;2008;d4;5,1501038
+Argentina;EPHC;2008;d5;6,5899484
+Argentina;EPHC;2008;d5;6,4643513
+Argentina;EPHC;2008;d6;8,1692507
+Argentina;EPHC;2008;d6;8,0353468
+Argentina;EPHC;2008;d7;10,191009
+Argentina;EPHC;2008;d7;9,9901814
+Argentina;EPHC;2008;d8;12,806593
+Argentina;EPHC;2008;d8;12,737064
+Argentina;EPHC;2008;d9;16,923433
+Argentina;EPHC;2008;d9;17,011122
+Argentina;EPHC;2008;ratio_10_1;22,816164
+Argentina;EPHC;2008;ratio_10_1;22,580707
+Argentina;EPHC;2009;d1;1,4136043
+Argentina;EPHC;2009;d1;1,4791838
+Argentina;EPHC;2009;d10;32,116401
+Argentina;EPHC;2009;d10;31,283877
+Argentina;EPHC;2009;d2;2,8090324
+Argentina;EPHC;2009;d2;2,864826
+Argentina;EPHC;2009;d3;3,9837008
+Argentina;EPHC;2009;d3;4,0800278
+Argentina;EPHC;2009;d4;5,2053389
+Argentina;EPHC;2009;d4;5,3196046
+Argentina;EPHC;2009;d5;6,5641208
+Argentina;EPHC;2009;d5;6,6989456
+Argentina;EPHC;2009;d6;8,1276239
+Argentina;EPHC;2009;d6;8,2571631
+Argentina;EPHC;2009;d7;10,076931
+Argentina;EPHC;2009;d7;10,160817
+Argentina;EPHC;2009;d8;12,682426
+Argentina;EPHC;2009;d8;12,803066
+Argentina;EPHC;2009;d9;17,020822
+Argentina;EPHC;2009;d9;17,052489
+Argentina;EPHC;2009;ratio_10_1;22,712261
+Argentina;EPHC;2009;ratio_10_1;21,147296
+Argentina;EPHC;2010;d1;1,5631193
+Argentina;EPHC;2010;d1;1,6108714
+Argentina;EPHC;2010;d10;31,26559
+Argentina;EPHC;2010;d10;31,739833
+Argentina;EPHC;2010;d2;2,9320625
+Argentina;EPHC;2010;d2;2,9674616
+Argentina;EPHC;2010;d3;4,0999234
+Argentina;EPHC;2010;d3;4,0888259
+Argentina;EPHC;2010;d4;5,3187783
+Argentina;EPHC;2010;d4;5,3024302
+Argentina;EPHC;2010;d5;6,6448732
+Argentina;EPHC;2010;d5;6,646824
+Argentina;EPHC;2010;d6;8,2044798
+Argentina;EPHC;2010;d6;8,2122557
+Argentina;EPHC;2010;d7;10,156767
+Argentina;EPHC;2010;d7;10,042022
+Argentina;EPHC;2010;d8;12,795558
+Argentina;EPHC;2010;d8;12,521097
+Argentina;EPHC;2010;d9;17,018848
+Argentina;EPHC;2010;d9;16,868379
+Argentina;EPHC;2010;ratio_10_1;19,9928
+Argentina;EPHC;2010;ratio_10_1;19,696773
+Argentina;EPHC;2011;d1;1,6838512
+Argentina;EPHC;2011;d1;1,7289457
+Argentina;EPHC;2011;d10;30,608613
+Argentina;EPHC;2011;d10;30,993015
+Argentina;EPHC;2011;d2;3,0864441
+Argentina;EPHC;2011;d2;3,0697346
+Argentina;EPHC;2011;d3;4,2169663
+Argentina;EPHC;2011;d3;4,202485
+Argentina;EPHC;2011;d4;5,4341628
+Argentina;EPHC;2011;d4;5,4162887
+Argentina;EPHC;2011;d5;6,7611154
+Argentina;EPHC;2011;d5;6,7219775
+Argentina;EPHC;2011;d6;8,3089217
+Argentina;EPHC;2011;d6;8,286608
+Argentina;EPHC;2011;d7;10,223907
+Argentina;EPHC;2011;d7;10,105652
+Argentina;EPHC;2011;d8;12,771059
+Argentina;EPHC;2011;d8;12,630355
+Argentina;EPHC;2011;d9;16,904959
+Argentina;EPHC;2011;d9;16,844939
+Argentina;EPHC;2011;ratio_10_1;18,173278
+Argentina;EPHC;2011;ratio_10_1;17,9221
+Argentina;EPHC;2012;d1;1,7296157
+Argentina;EPHC;2012;d1;1,7552575
+Argentina;EPHC;2012;d10;29,833128
+Argentina;EPHC;2012;d10;29,740746
+Argentina;EPHC;2012;d2;3,1103476
+Argentina;EPHC;2012;d2;3,2276698
+Argentina;EPHC;2012;d3;4,2683745
+Argentina;EPHC;2012;d3;4,3637758
+Argentina;EPHC;2012;d4;5,5478876
+Argentina;EPHC;2012;d4;5,5598398
+Argentina;EPHC;2012;d5;6,9500206
+Argentina;EPHC;2012;d5;6,8825703
+Argentina;EPHC;2012;d6;8,5376276
+Argentina;EPHC;2012;d6;8,4828186
+Argentina;EPHC;2012;d7;10,378348
+Argentina;EPHC;2012;d7;10,351679
+Argentina;EPHC;2012;d8;12,826201
+Argentina;EPHC;2012;d8;12,812349
+Argentina;EPHC;2012;d9;16,818449
+Argentina;EPHC;2012;d9;16,823294
+Argentina;EPHC;2012;ratio_10_1;17,244988
+Argentina;EPHC;2012;ratio_10_1;16,943089
+Argentina;EPHC;2013;d1;1,8036504
+Argentina;EPHC;2013;d1;1,803061
+Argentina;EPHC;2013;d10;30,492379
+Argentina;EPHC;2013;d10;29,445773
+Argentina;EPHC;2013;d2;3,1614878
+Argentina;EPHC;2013;d2;3,2333153
+Argentina;EPHC;2013;d3;4,3393653
+Argentina;EPHC;2013;d3;4,3794325
+Argentina;EPHC;2013;d4;5,5644297
+Argentina;EPHC;2013;d4;5,6095273
+Argentina;EPHC;2013;d5;6,8414042
+Argentina;EPHC;2013;d5;6,9768601
+Argentina;EPHC;2013;d6;8,4124434
+Argentina;EPHC;2013;d6;8,5568339
+Argentina;EPHC;2013;d7;10,279182
+Argentina;EPHC;2013;d7;10,40715
+Argentina;EPHC;2013;d8;12,637077
+Argentina;EPHC;2013;d8;12,838672
+Argentina;EPHC;2013;d9;16,468581
+Argentina;EPHC;2013;d9;16,749376
+Argentina;EPHC;2013;ratio_10_1;16,899247
+Argentina;EPHC;2013;ratio_10_1;16,320787
+Argentina;EPHC;2014;d1;1,8503332
+Argentina;EPHC;2014;d1;1,8468011
+Argentina;EPHC;2014;d10;29,614636
+Argentina;EPHC;2014;d10;30,054862
+Argentina;EPHC;2014;d2;3,2652005
+Argentina;EPHC;2014;d2;3,2075217
+Argentina;EPHC;2014;d3;4,3652983
+Argentina;EPHC;2014;d3;4,3024119
+Argentina;EPHC;2014;d4;5,5604684
+Argentina;EPHC;2014;d4;5,4235623
+Argentina;EPHC;2014;d5;6,8846437
+Argentina;EPHC;2014;d5;6,7969928
+Argentina;EPHC;2014;d6;8,4363309
+Argentina;EPHC;2014;d6;8,3462061
+Argentina;EPHC;2014;d7;10,309924
+Argentina;EPHC;2014;d7;10,266712
+Argentina;EPHC;2014;d8;12,861944
+Argentina;EPHC;2014;d8;12,824594
+Argentina;EPHC;2014;d9;16,851221
+Argentina;EPHC;2014;d9;16,930336
+Argentina;EPHC;2014;ratio_10_1;16,002282
+Argentina;EPHC;2014;ratio_10_1;16,2724
+Argentina;EPHC;2015;d1;1,8963051
+Argentina;EPHC;2015;d10;29,418488
+Argentina;EPHC;2015;d2;3,2636435
+Argentina;EPHC;2015;d3;4,3781628
+Argentina;EPHC;2015;d4;5,560706
+Argentina;EPHC;2015;d5;6,913836
+Argentina;EPHC;2015;d6;8,4860764
+Argentina;EPHC;2015;d7;10,379415
+Argentina;EPHC;2015;d8;12,87936
+Argentina;EPHC;2015;d9;16,824006
+Argentina;EPHC;2015;ratio_10_1;15,51012
+Argentina;EPHC;2016;d1;1,7665802
+Argentina;EPHC;2016;d10;30,687695
+Argentina;EPHC;2016;d2;3,135355
+Argentina;EPHC;2016;d3;4,2685265
+Argentina;EPHC;2016;d4;5,4501381
+Argentina;EPHC;2016;d5;6,7748366
+Argentina;EPHC;2016;d6;8,3037756
+Argentina;EPHC;2016;d7;10,115108
+Argentina;EPHC;2016;d8;12,699341
+Argentina;EPHC;2016;d9;16,798644
+Argentina;EPHC;2016;ratio_10_1;17,364664
+Argentina;EPHC;2017;d1;1,6478872
+Argentina;EPHC;2017;d1;1,7839307
+Argentina;EPHC;2017;d10;30,129886
+Argentina;EPHC;2017;d10;29,93034
+Argentina;EPHC;2017;d2;3,1530456
+Argentina;EPHC;2017;d2;3,2633025
+Argentina;EPHC;2017;d3;4,3228395
+Argentina;EPHC;2017;d3;4,4026251
+Argentina;EPHC;2017;d4;5,4632011
+Argentina;EPHC;2017;d4;5,5728399
+Argentina;EPHC;2017;d5;6,8137456
+Argentina;EPHC;2017;d5;6,8989554
+Argentina;EPHC;2017;d6;8,3818332
+Argentina;EPHC;2017;d6;8,4108422
+Argentina;EPHC;2017;d7;10,230788
+Argentina;EPHC;2017;d7;10,248119
+Argentina;EPHC;2017;d8;12,784316
+Argentina;EPHC;2017;d8;12,720193
+Argentina;EPHC;2017;d9;17,072457
+Argentina;EPHC;2017;d9;16,768852
+Argentina;EPHC;2017;ratio_10_1;18,279014
+Argentina;EPHC;2017;ratio_10_1;16,774072
+Argentina;EPHC;2018;d1;1,7717301
+Argentina;EPHC;2018;d1;1,7367365
+Argentina;EPHC;2018;d10;30,629247
+Argentina;EPHC;2018;d10;30,129547
+Argentina;EPHC;2018;d2;3,1730513
+Argentina;EPHC;2018;d2;3,1856949
+Argentina;EPHC;2018;d3;4,3206539
+Argentina;EPHC;2018;d3;4,3741172
+Argentina;EPHC;2018;d4;5,5011249
+Argentina;EPHC;2018;d4;5,5570272
+Argentina;EPHC;2018;d5;6,7891724
+Argentina;EPHC;2018;d5;6,863403
+Argentina;EPHC;2018;d6;8,3109112
+Argentina;EPHC;2018;d6;8,4413332
+Argentina;EPHC;2018;d7;10,138748
+Argentina;EPHC;2018;d7;10,2335
+Argentina;EPHC;2018;d8;12,618964
+Argentina;EPHC;2018;d8;12,75067
+Argentina;EPHC;2018;d9;16,746398
+Argentina;EPHC;2018;d9;16,727971
+Argentina;EPHC;2018;ratio_10_1;17,284679
+Argentina;EPHC;2018;ratio_10_1;17,3403
+Argentina;EPHC;2019;d1;1,6710555
+Argentina;EPHC;2019;d1;1,6446265
+Argentina;EPHC;2019;d10;31,048869
+Argentina;EPHC;2019;d10;31,330022
+Argentina;EPHC;2019;d2;3,0658263
+Argentina;EPHC;2019;d2;3,0079684
+Argentina;EPHC;2019;d3;4,2138196
+Argentina;EPHC;2019;d3;4,1523253
+Argentina;EPHC;2019;d4;5,3741314
+Argentina;EPHC;2019;d4;5,3178207
+Argentina;EPHC;2019;d5;6,6838309
+Argentina;EPHC;2019;d5;6,6557229
+Argentina;EPHC;2019;d6;8,2182488
+Argentina;EPHC;2019;d6;8,2239818
+Argentina;EPHC;2019;d7;10,088476
+Argentina;EPHC;2019;d7;10,083134
+Argentina;EPHC;2019;d8;12,622659
+Argentina;EPHC;2019;d8;12,688975
+Argentina;EPHC;2019;d9;17,013084
+Argentina;EPHC;2019;d9;16,895423
+Argentina;EPHC;2019;ratio_10_1;18,568484
+Argentina;EPHC;2019;ratio_10_1;19,039421
+Argentina;EPHC;2020;d1;1,6732562
+Argentina;EPHC;2020;d1;1,745507
+Argentina;EPHC;2020;d10;31,147902
+Argentina;EPHC;2020;d10;30,594463
+Argentina;EPHC;2020;d2;3,016866
+Argentina;EPHC;2020;d2;3,0404444
+Argentina;EPHC;2020;d3;4,151685
+Argentina;EPHC;2020;d3;4,1604383
+Argentina;EPHC;2020;d4;5,3422231
+Argentina;EPHC;2020;d4;5,2961571
+Argentina;EPHC;2020;d5;6,5776733
+Argentina;EPHC;2020;d5;6,6891996
+Argentina;EPHC;2020;d6;8,1336656
+Argentina;EPHC;2020;d6;8,2782179
+Argentina;EPHC;2020;d7;10,114341
+Argentina;EPHC;2020;d7;10,30318
+Argentina;EPHC;2020;d8;12,753936
+Argentina;EPHC;2020;d8;12,833606
+Argentina;EPHC;2020;d9;17,088452
+Argentina;EPHC;2020;d9;17,058787
+Argentina;EPHC;2020;ratio_10_1;18,610243
+Argentina;EPHC;2020;ratio_10_1;17,522172
+Argentina;EPHC;2021;d1;1,8153901
+Argentina;EPHC;2021;d1;1,8132329
+Argentina;EPHC;2021;d10;30,458732
+Argentina;EPHC;2021;d10;31,233105
+Argentina;EPHC;2021;d2;3,1802899
+Argentina;EPHC;2021;d2;3,2338904
+Argentina;EPHC;2021;d3;4,2349979
+Argentina;EPHC;2021;d3;4,3223021
+Argentina;EPHC;2021;d4;5,4812537
+Argentina;EPHC;2021;d4;5,453703
+Argentina;EPHC;2021;d5;6,815375
+Argentina;EPHC;2021;d5;6,6746148
+Argentina;EPHC;2021;d6;8,2610762
+Argentina;EPHC;2021;d6;8,2047409
+Argentina;EPHC;2021;d7;10,192283
+Argentina;EPHC;2021;d7;10,042382
+Argentina;EPHC;2021;d8;12,732412
+Argentina;EPHC;2021;d8;12,481528
+Argentina;EPHC;2021;d9;16,828191
+Argentina;EPHC;2021;d9;16,540501
+Argentina;EPHC;2021;ratio_10_1;16,764939
+Argentina;EPHC;2021;ratio_10_1;17,222183
+Argentina;EPHC;2022;d1;1,9926337
+Argentina;EPHC;2022;d1;2,0275685
+Argentina;EPHC;2022;d10;30,002224
+Argentina;EPHC;2022;d10;29,808938
+Argentina;EPHC;2022;d2;3,3210618
+Argentina;EPHC;2022;d2;3,4355813
+Argentina;EPHC;2022;d3;4,4262755
+Argentina;EPHC;2022;d3;4,5149968
+Argentina;EPHC;2022;d4;5,5222483
+Argentina;EPHC;2022;d4;5,6071794
+Argentina;EPHC;2022;d5;6,8075876
+Argentina;EPHC;2022;d5;6,84779
+Argentina;EPHC;2022;d6;8,316731
+Argentina;EPHC;2022;d6;8,3266114
+Argentina;EPHC;2022;d7;10,187717
+Argentina;EPHC;2022;d7;10,112032
+Argentina;EPHC;2022;d8;12,659264
+Argentina;EPHC;2022;d8;12,571898
+Argentina;EPHC;2022;d9;16,764257
+Argentina;EPHC;2022;d9;16,747404
+Argentina;EPHC;2022;ratio_10_1;15,055362
+Argentina;EPHC;2022;ratio_10_1;14,69807
+Argentina;EPHC;2023;d1;2,0
+Argentina;EPHC;2023;d1;1,9
+Argentina;EPHC;2023;d10;30,6
+Argentina;EPHC;2023;d10;31,0
+Argentina;EPHC;2023;d2;3,3
+Argentina;EPHC;2023;d2;3,2
+Argentina;EPHC;2023;d3;4,4
+Argentina;EPHC;2023;d3;4,2
+Argentina;EPHC;2023;d4;5,5
+Argentina;EPHC;2023;d4;5,4
+Argentina;EPHC;2023;d5;6,7
+Argentina;EPHC;2023;d5;6,7
+Argentina;EPHC;2023;d6;8,2
+Argentina;EPHC;2023;d6;8,2
+Argentina;EPHC;2023;d7;10,1
+Argentina;EPHC;2023;d7;10,1
+Argentina;EPHC;2023;d8;12,6
+Argentina;EPHC;2023;d8;12,6
+Argentina;EPHC;2023;d9;16,6
+Argentina;EPHC;2023;d9;16,8
+Argentina;EPHC;2023;ratio_10_1;15,3
+Argentina;EPHC;2023;ratio_10_1;16,0
+Argentina;EPHC;2024;d1;1,9
+Argentina;EPHC;2024;d10;32,6
+Argentina;EPHC;2024;d2;3,1
+Argentina;EPHC;2024;d3;4,1
+Argentina;EPHC;2024;d4;5,2
+Argentina;EPHC;2024;d5;6,5
+Argentina;EPHC;2024;d6;7,9
+Argentina;EPHC;2024;d7;9,8
+Argentina;EPHC;2024;d8;12,4
+Argentina;EPHC;2024;d9;16,5
+Argentina;EPHC;2024;ratio_10_1;17,1
+Argentina;Greater Buenos Aires;1974;d1;2,7611895
+Argentina;Greater Buenos Aires;1974;d10;26,289913
+Argentina;Greater Buenos Aires;1974;d2;4,3649983
+Argentina;Greater Buenos Aires;1974;d3;5,3508406
+Argentina;Greater Buenos Aires;1974;d4;6,4833217
+Argentina;Greater Buenos Aires;1974;d5;7,5959854
+Argentina;Greater Buenos Aires;1974;d6;8,9100294
+Argentina;Greater Buenos Aires;1974;d7;10,362015
+Argentina;Greater Buenos Aires;1974;d8;12,340915
+Argentina;Greater Buenos Aires;1974;d9;15,540792
+Argentina;Greater Buenos Aires;1974;ratio_10_1;9,5131269
+Argentina;Greater Buenos Aires;1980;d1;2,2459946
+Argentina;Greater Buenos Aires;1980;d10;29,190651
+Argentina;Greater Buenos Aires;1980;d2;3,6767023
+Argentina;Greater Buenos Aires;1980;d3;4,7217088
+Argentina;Greater Buenos Aires;1980;d4;5,821022
+Argentina;Greater Buenos Aires;1980;d5;6,994885
+Argentina;Greater Buenos Aires;1980;d6;8,3502827
+Argentina;Greater Buenos Aires;1980;d7;10,039063
+Argentina;Greater Buenos Aires;1980;d8;12,493534
+Argentina;Greater Buenos Aires;1980;d9;16,466156
+Argentina;Greater Buenos Aires;1980;ratio_10_1;12,982631
+Argentina;Greater Buenos Aires;1986;d1;2,050431
+Argentina;Greater Buenos Aires;1986;d10;32,000813
+Argentina;Greater Buenos Aires;1986;d2;3,4125609
+Argentina;Greater Buenos Aires;1986;d3;4,3999538
+Argentina;Greater Buenos Aires;1986;d4;5,5370584
+Argentina;Greater Buenos Aires;1986;d5;6,6591172
+Argentina;Greater Buenos Aires;1986;d6;7,9712129
+Argentina;Greater Buenos Aires;1986;d7;9,7023401
+Argentina;Greater Buenos Aires;1986;d8;12,03399
+Argentina;Greater Buenos Aires;1986;d9;16,232521
+Argentina;Greater Buenos Aires;1986;ratio_10_1;15,585423
+Argentina;Greater Buenos Aires;1987;d1;1,7326196
+Argentina;Greater Buenos Aires;1987;d10;34,103092
+Argentina;Greater Buenos Aires;1987;d2;3,0745974
+Argentina;Greater Buenos Aires;1987;d3;4,1448684
+Argentina;Greater Buenos Aires;1987;d4;5,2083507
+Argentina;Greater Buenos Aires;1987;d5;6,3410339
+Argentina;Greater Buenos Aires;1987;d6;7,7169538
+Argentina;Greater Buenos Aires;1987;d7;9,4975195
+Argentina;Greater Buenos Aires;1987;d8;11,905532
+Argentina;Greater Buenos Aires;1987;d9;16,275434
+Argentina;Greater Buenos Aires;1987;ratio_10_1;19,660994
+Argentina;Greater Buenos Aires;1988;d1;1,5659879
+Argentina;Greater Buenos Aires;1988;d10;33,931213
+Argentina;Greater Buenos Aires;1988;d2;2,834233
+Argentina;Greater Buenos Aires;1988;d3;3,9725568
+Argentina;Greater Buenos Aires;1988;d4;5,0861859
+Argentina;Greater Buenos Aires;1988;d5;6,3496342
+Argentina;Greater Buenos Aires;1988;d6;7,7057037
+Argentina;Greater Buenos Aires;1988;d7;9,6263094
+Argentina;Greater Buenos Aires;1988;d8;12,253791
+Argentina;Greater Buenos Aires;1988;d9;16,674387
+Argentina;Greater Buenos Aires;1988;ratio_10_1;21,652839
+Argentina;Greater Buenos Aires;1991;d1;1,8474015
+Argentina;Greater Buenos Aires;1991;d10;36,528294
+Argentina;Greater Buenos Aires;1991;d2;3,0756807
+Argentina;Greater Buenos Aires;1991;d3;4,0729451
+Argentina;Greater Buenos Aires;1991;d4;5,0112762
+Argentina;Greater Buenos Aires;1991;d5;6,0591769
+Argentina;Greater Buenos Aires;1991;d6;7,2343068
+Argentina;Greater Buenos Aires;1991;d7;8,877305
+Argentina;Greater Buenos Aires;1991;d8;11,396006
+Argentina;Greater Buenos Aires;1991;d9;15,897609
+Argentina;Greater Buenos Aires;1991;ratio_10_1;19,763304
+Argentina;Greater Buenos Aires;1992;d1;1,9053147
+Argentina;Greater Buenos Aires;1992;d10;33,65469
+Argentina;Greater Buenos Aires;1992;d2;3,1298656
+Argentina;Greater Buenos Aires;1992;d3;4,2156301
+Argentina;Greater Buenos Aires;1992;d4;5,0959268
+Argentina;Greater Buenos Aires;1992;d5;6,3288097
+Argentina;Greater Buenos Aires;1992;d6;7,6747756
+Argentina;Greater Buenos Aires;1992;d7;9,3435516
+Argentina;Greater Buenos Aires;1992;d8;12,075003
+Argentina;Greater Buenos Aires;1992;d9;16,576435
+Argentina;Greater Buenos Aires;1992;ratio_10_1;17,647811
+Bolivia;National;1997;d1;0,51952207
+Bolivia;National;1997;d10;45,265457
+Bolivia;National;1997;d2;1,5847087
+Bolivia;National;1997;d3;2,6614857
+Bolivia;National;1997;d4;3,7366767
+Bolivia;National;1997;d5;4,8994865
+Bolivia;National;1997;d6;6,225215
+Bolivia;National;1997;d7;8,000226
+Bolivia;National;1997;d8;10,83398
+Bolivia;National;1997;d9;16,273241
+Bolivia;National;1997;ratio_10_1;87,103075
+Bolivia;National;1999;d1;0,28451663
+Bolivia;National;1999;d10;42,486019
+Bolivia;National;1999;d2;1,0587698
+Bolivia;National;1999;d3;2,2754493
+Bolivia;National;1999;d4;3,5242419
+Bolivia;National;1999;d5;4,9715233
+Bolivia;National;1999;d6;6,7056398
+Bolivia;National;1999;d7;8,9082346
+Bolivia;National;1999;d8;11,894134
+Bolivia;National;1999;d9;17,891474
+Bolivia;National;1999;ratio_10_1;149,2441
+Bolivia;National;2000;d1;0,25510922
+Bolivia;National;2000;d10;47,831722
+Bolivia;National;2000;d2;0,86707491
+Bolivia;National;2000;d3;2,0603771
+Bolivia;National;2000;d4;3,2674904
+Bolivia;National;2000;d5;4,6432161
+Bolivia;National;2000;d6;6,0499701
+Bolivia;National;2000;d7;7,8995862
+Bolivia;National;2000;d8;10,909556
+Bolivia;National;2000;d9;16,215899
+Bolivia;National;2000;ratio_10_1;186,65172
+Bolivia;National;2001;d1;0,48205864
+Bolivia;National;2001;d10;44,126629
+Bolivia;National;2001;d2;1,4403449
+Bolivia;National;2001;d3;2,6304047
+Bolivia;National;2001;d4;3,852921
+Bolivia;National;2001;d5;5,067883
+Bolivia;National;2001;d6;6,5101447
+Bolivia;National;2001;d7;8,2692099
+Bolivia;National;2001;d8;11,182668
+Bolivia;National;2001;d9;16,437738
+Bolivia;National;2001;ratio_10_1;91,424033
+Bolivia;National;2002;d1;0,3791987
+Bolivia;National;2002;d10;46,604733
+Bolivia;National;2002;d2;1,31733
+Bolivia;National;2002;d3;2,4405165
+Bolivia;National;2002;d4;3,6197884
+Bolivia;National;2002;d5;4,8367
+Bolivia;National;2002;d6;6,2047691
+Bolivia;National;2002;d7;8,0220814
+Bolivia;National;2002;d8;10,833252
+Bolivia;National;2002;d9;15,741632
+Bolivia;National;2002;ratio_10_1;122,79303
+Bolivia;National;2005;d1;0,50771922
+Bolivia;National;2005;d10;45,267506
+Bolivia;National;2005;d2;1,4663556
+Bolivia;National;2005;d3;2,5416434
+Bolivia;National;2005;d4;3,586313
+Bolivia;National;2005;d5;4,6639709
+Bolivia;National;2005;d6;6,120142
+Bolivia;National;2005;d7;8,0410442
+Bolivia;National;2005;d8;11,129368
+Bolivia;National;2005;d9;16,675936
+Bolivia;National;2005;ratio_10_1;89,120282
+Bolivia;National;2006;d1;0,59016854
+Bolivia;National;2006;d10;43,525776
+Bolivia;National;2006;d2;1,6997494
+Bolivia;National;2006;d3;2,7292435
+Bolivia;National;2006;d4;3,7517023
+Bolivia;National;2006;d5;4,9412045
+Bolivia;National;2006;d6;6,4055843
+Bolivia;National;2006;d7;8,3857002
+Bolivia;National;2006;d8;11,408932
+Bolivia;National;2006;d9;16,561941
+Bolivia;National;2006;ratio_10_1;73,244708
+Bolivia;National;2007;d1;0,79392952
+Bolivia;National;2007;d10;41,839249
+Bolivia;National;2007;d2;2,1127732
+Bolivia;National;2007;d3;2,9708571
+Bolivia;National;2007;d4;3,8491204
+Bolivia;National;2007;d5;5,1781812
+Bolivia;National;2007;d6;6,6493058
+Bolivia;National;2007;d7;8,5802565
+Bolivia;National;2007;d8;11,197043
+Bolivia;National;2007;d9;16,829285
+Bolivia;National;2007;ratio_10_1;52,696528
+Bolivia;National;2008;d1;0,87737817
+Bolivia;National;2008;d10;38,546936
+Bolivia;National;2008;d2;2,2889822
+Bolivia;National;2008;d3;3,455512
+Bolivia;National;2008;d4;4,5395732
+Bolivia;National;2008;d5;5,8236823
+Bolivia;National;2008;d6;7,2559228
+Bolivia;National;2008;d7;9,136632
+Bolivia;National;2008;d8;11,785549
+Bolivia;National;2008;d9;16,289835
+Bolivia;National;2008;ratio_10_1;43,888513
+Bolivia;National;2009;d1;0,8441186
+Bolivia;National;2009;d10;36,904247
+Bolivia;National;2009;d2;2,3448365
+Bolivia;National;2009;d3;3,6982543
+Bolivia;National;2009;d4;4,842124
+Bolivia;National;2009;d5;6,1828113
+Bolivia;National;2009;d6;7,6736994
+Bolivia;National;2009;d7;9,4084978
+Bolivia;National;2009;d8;11,864219
+Bolivia;National;2009;d9;16,23719
+Bolivia;National;2009;ratio_10_1;43,709096
+Bolivia;National;2011;d1;1,1192065
+Bolivia;National;2011;d10;33,683651
+Bolivia;National;2011;d2;2,6603105
+Bolivia;National;2011;d3;3,9751308
+Bolivia;National;2011;d4;5,2124462
+Bolivia;National;2011;d5;6,4120975
+Bolivia;National;2011;d6;7,869173
+Bolivia;National;2011;d7;9,8253088
+Bolivia;National;2011;d8;12,345237
+Bolivia;National;2011;d9;16,89744
+Bolivia;National;2011;ratio_10_1;30,084304
+Bolivia;National;2012;d1;0,93538839
+Bolivia;National;2012;d10;33,654278
+Bolivia;National;2012;d2;2,5308037
+Bolivia;National;2012;d3;3,8545122
+Bolivia;National;2012;d4;5,1548457
+Bolivia;National;2012;d5;6,4594545
+Bolivia;National;2012;d6;7,9984279
+Bolivia;National;2012;d7;9,9787617
+Bolivia;National;2012;d8;12,478761
+Bolivia;National;2012;d9;16,954765
+Bolivia;National;2012;ratio_10_1;35,97231
+Bolivia;National;2013;d1;1,0110029
+Bolivia;National;2013;d10;35,223217
+Bolivia;National;2013;d2;2,5627666
+Bolivia;National;2013;d3;3,7598345
+Bolivia;National;2013;d4;5,0091324
+Bolivia;National;2013;d5;6,2917533
+Bolivia;National;2013;d6;7,7563848
+Bolivia;National;2013;d7;9,5242558
+Bolivia;National;2013;d8;12,154213
+Bolivia;National;2013;d9;16,707439
+Bolivia;National;2013;ratio_10_1;34,831667
+Bolivia;National;2014;d1;1,1234229
+Bolivia;National;2014;d10;36,038151
+Bolivia;National;2014;d2;2,6491024
+Bolivia;National;2014;d3;3,8505111
+Bolivia;National;2014;d4;4,9783916
+Bolivia;National;2014;d5;6,1974483
+Bolivia;National;2014;d6;7,6193886
+Bolivia;National;2014;d7;9,3641729
+Bolivia;National;2014;d8;11,904685
+Bolivia;National;2014;d9;16,274727
+Bolivia;National;2014;ratio_10_1;32,06572
+Bolivia;National;2015;d1;1,1215303
+Bolivia;National;2015;d10;34,793339
+Bolivia;National;2015;d2;2,7584326
+Bolivia;National;2015;d3;3,9340684
+Bolivia;National;2015;d4;5,0916996
+Bolivia;National;2015;d5;6,3401551
+Bolivia;National;2015;d6;7,8099656
+Bolivia;National;2015;d7;9,63167
+Bolivia;National;2015;d8;12,15968
+Bolivia;National;2015;d9;16,359463
+Bolivia;National;2015;ratio_10_1;31,016521
+Bolivia;National;2016;d1;1,0302976
+Bolivia;National;2016;d10;32,408947
+Bolivia;National;2016;d2;2,7156653
+Bolivia;National;2016;d3;4,0385752
+Bolivia;National;2016;d4;5,2912416
+Bolivia;National;2016;d5;6,6176877
+Bolivia;National;2016;d6;8,104785
+Bolivia;National;2016;d7;10,034714
+Bolivia;National;2016;d8;12,752271
+Bolivia;National;2016;d9;17,005816
+Bolivia;National;2016;ratio_10_1;31,440098
+Bolivia;National;2017;d1;1,1399956
+Bolivia;National;2017;d10;31,999823
+Bolivia;National;2017;d2;2,7808135
+Bolivia;National;2017;d3;4,0717263
+Bolivia;National;2017;d4;5,3326936
+Bolivia;National;2017;d5;6,6552372
+Bolivia;National;2017;d6;8,1958847
+Bolivia;National;2017;d7;10,12936
+Bolivia;National;2017;d8;12,744741
+Bolivia;National;2017;d9;16,949724
+Bolivia;National;2017;ratio_10_1;28,044089
+Bolivia;National;2018;d1;1,4024897
+Bolivia;National;2018;d10;30,58687
+Bolivia;National;2018;d2;3,0583487
+Bolivia;National;2018;d3;4,3819366
+Bolivia;National;2018;d4;5,6045785
+Bolivia;National;2018;d5;6,8480692
+Bolivia;National;2018;d6;8,3123484
+Bolivia;National;2018;d7;10,159275
+Bolivia;National;2018;d8;12,761365
+Bolivia;National;2018;d9;16,884722
+Bolivia;National;2018;ratio_10_1;21,805053
+Bolivia;National;2019;d1;1,7162333
+Bolivia;National;2019;d10;30,844168
+Bolivia;National;2019;d2;3,3834364
+Bolivia;National;2019;d3;4,609611
+Bolivia;National;2019;d4;5,6521759
+Bolivia;National;2019;d5;6,8086948
+Bolivia;National;2019;d6;8,205533
+Bolivia;National;2019;d7;9,9535494
+Bolivia;National;2019;d8;12,416359
+Bolivia;National;2019;d9;16,410242
+Bolivia;National;2019;ratio_10_1;17,968688
+Bolivia;National;2020;d1;1,5195494
+Bolivia;National;2020;d10;32,56197
+Bolivia;National;2020;d2;3,1995051
+Bolivia;National;2020;d3;4,3843451
+Bolivia;National;2020;d4;5,4084086
+Bolivia;National;2020;d5;6,5345674
+Bolivia;National;2020;d6;7,9254885
+Bolivia;National;2020;d7;9,8086128
+Bolivia;National;2020;d8;12,252331
+Bolivia;National;2020;d9;16,405224
+Bolivia;National;2020;ratio_10_1;21,422529
+Bolivia;National;2021;d1;1,7743694
+Bolivia;National;2021;d10;30,275626
+Bolivia;National;2021;d2;3,4996745
+Bolivia;National;2021;d3;4,618854
+Bolivia;National;2021;d4;5,7381877
+Bolivia;National;2021;d5;6,9350729
+Bolivia;National;2021;d6;8,3350134
+Bolivia;National;2021;d7;9,9730835
+Bolivia;National;2021;d8;12,427516
+Bolivia;National;2021;d9;16,422603
+Bolivia;National;2021;ratio_10_1;17,05807
+Bolivia;National;2022;d1;1,7088022
+Bolivia;National;2022;d10;30,402649
+Bolivia;National;2022;d2;3,4335122
+Bolivia;National;2022;d3;4,5906386
+Bolivia;National;2022;d4;5,7056689
+Bolivia;National;2022;d5;6,8882933
+Bolivia;National;2022;d6;8,3317699
+Bolivia;National;2022;d7;10,150451
+Bolivia;National;2022;d8;12,473401
+Bolivia;National;2022;d9;16,314814
+Bolivia;National;2022;ratio_10_1;17,784843
+Bolivia;National;2023;d1;1,7554086
+Bolivia;National;2023;d10;31,285126
+Bolivia;National;2023;d2;3,4201744
+Bolivia;National;2023;d3;4,4644427
+Bolivia;National;2023;d4;5,5512834
+Bolivia;National;2023;d5;6,7120991
+Bolivia;National;2023;d6;8,111824
+Bolivia;National;2023;d7;9,9310532
+Bolivia;National;2023;d8;12,31977
+Bolivia;National;2023;d9;16,44882
+Bolivia;National;2023;ratio_10_1;17,820775
+Bolivia;Urban;1992;d1;1,8438171
+Bolivia;Urban;1992;d10;38,987892
+Bolivia;Urban;1992;d2;2,9705772
+Bolivia;Urban;1992;d3;3,8044431
+Bolivia;Urban;1992;d4;4,7205496
+Bolivia;Urban;1992;d5;5,654387
+Bolivia;Urban;1992;d6;6,8743386
+Bolivia;Urban;1992;d7;8,5438547
+Bolivia;Urban;1992;d8;11,09142
+Bolivia;Urban;1992;d9;15,508718
+Bolivia;Urban;1992;ratio_10_1;21,140789
+Bolivia;Urban;1993;d1;1,4821914
+Bolivia;Urban;1993;d10;42,886925
+Bolivia;Urban;1993;d2;2,5047576
+Bolivia;Urban;1993;d3;3,3820052
+Bolivia;Urban;1993;d4;4,2130857
+Bolivia;Urban;1993;d5;5,1827502
+Bolivia;Urban;1993;d6;6,3670087
+Bolivia;Urban;1993;d7;8,1049023
+Bolivia;Urban;1993;d8;10,658286
+Bolivia;Urban;1993;d9;15,21809
+Bolivia;Urban;1993;ratio_10_1;28,921046
+Bolivia;Urban;1997;d1;1,3736993
+Bolivia;Urban;1997;d10;41,735313
+Bolivia;Urban;1997;d2;2,4725909
+Bolivia;Urban;1997;d3;3,3344617
+Bolivia;Urban;1997;d4;4,2478514
+Bolivia;Urban;1997;d5;5,2408109
+Bolivia;Urban;1997;d6;6,4366794
+Bolivia;Urban;1997;d7;8,2071295
+Bolivia;Urban;1997;d8;10,973622
+Bolivia;Urban;1997;d9;15,977841
+Bolivia;Urban;1997;ratio_10_1;30,355899
+Brazil;New PNAD;1993;d1;0,81547558
+Brazil;New PNAD;1993;d10;48,208866
+Brazil;New PNAD;1993;d2;1,709946
+Brazil;New PNAD;1993;d3;2,5063086
+Brazil;New PNAD;1993;d4;3,3729625
+Brazil;New PNAD;1993;d5;4,3947196
+Brazil;New PNAD;1993;d6;5,6984868
+Brazil;New PNAD;1993;d7;7,3761406
+Brazil;New PNAD;1993;d8;10,113603
+Brazil;New PNAD;1993;d9;15,780005
+Brazil;New PNAD;1993;ratio_10_1;59,118118
+Brazil;New PNAD;1995;d1;0,89952159
+Brazil;New PNAD;1995;d10;47,259422
+Brazil;New PNAD;1995;d2;1,7376857
+Brazil;New PNAD;1995;d3;2,5090191
+Brazil;New PNAD;1995;d4;3,3797209
+Brazil;New PNAD;1995;d5;4,4243965
+Brazil;New PNAD;1995;d6;5,6704893
+Brazil;New PNAD;1995;d7;7,4776711
+Brazil;New PNAD;1995;d8;10,375432
+Brazil;New PNAD;1995;d9;16,249561
+Brazil;New PNAD;1995;ratio_10_1;52,535788
+Brazil;New PNAD;1996;d1;0,84324169
+Brazil;New PNAD;1996;d10;46,947472
+Brazil;New PNAD;1996;d2;1,6692678
+Brazil;New PNAD;1996;d3;2,4500937
+Brazil;New PNAD;1996;d4;3,3442585
+Brazil;New PNAD;1996;d5;4,404058
+Brazil;New PNAD;1996;d6;5,6804676
+Brazil;New PNAD;1996;d7;7,5793543
+Brazil;New PNAD;1996;d8;10,576926
+Brazil;New PNAD;1996;d9;16,456894
+Brazil;New PNAD;1996;ratio_10_1;55,675625
+Brazil;New PNAD;1997;d1;0,8439039
+Brazil;New PNAD;1997;d10;47,05164
+Brazil;New PNAD;1997;d2;1,6844146
+Brazil;New PNAD;1997;d3;2,4546161
+Brazil;New PNAD;1997;d4;3,3337398
+Brazil;New PNAD;1997;d5;4,4089565
+Brazil;New PNAD;1997;d6;5,6875763
+Brazil;New PNAD;1997;d7;7,5830331
+Brazil;New PNAD;1997;d8;10,554266
+Brazil;New PNAD;1997;d9;16,361849
+Brazil;New PNAD;1997;ratio_10_1;55,754534
+Brazil;New PNAD;1998;d1;0,90744579
+Brazil;New PNAD;1998;d10;47,302048
+Brazil;New PNAD;1998;d2;1,7363563
+Brazil;New PNAD;1998;d3;2,5182536
+Brazil;New PNAD;1998;d4;3,3873439
+Brazil;New PNAD;1998;d5;4,4211726
+Brazil;New PNAD;1998;d6;5,6633849
+Brazil;New PNAD;1998;d7;7,5148926
+Brazil;New PNAD;1998;d8;10,372557
+Brazil;New PNAD;1998;d9;16,176544
+Brazil;New PNAD;1998;ratio_10_1;52,122186
+Brazil;New PNAD;1999;d1;0,93413389
+Brazil;New PNAD;1999;d10;46,673523
+Brazil;New PNAD;1999;d2;1,7844414
+Brazil;New PNAD;1999;d3;2,5751662
+Brazil;New PNAD;1999;d4;3,4560821
+Brazil;New PNAD;1999;d5;4,5271754
+Brazil;New PNAD;1999;d6;5,7563272
+Brazil;New PNAD;1999;d7;7,5479064
+Brazil;New PNAD;1999;d8;10,437332
+Brazil;New PNAD;1999;d9;16,251408
+Brazil;New PNAD;1999;ratio_10_1;49,964807
+Brazil;New PNAD;2001;d1;0,80806816
+Brazil;New PNAD;2001;d10;46,046387
+Brazil;New PNAD;2001;d2;1,7085985
+Brazil;New PNAD;2001;d3;2,5410302
+Brazil;New PNAD;2001;d4;3,4757805
+Brazil;New PNAD;2001;d5;4,5724587
+Brazil;New PNAD;2001;d6;5,9640837
+Brazil;New PNAD;2001;d7;7,7847519
+Brazil;New PNAD;2001;d8;10,675213
+Brazil;New PNAD;2001;d9;16,423628
+Brazil;New PNAD;2001;ratio_10_1;56,981441
+Brazil;New PNAD;2002;d1;0,88668591
+Brazil;New PNAD;2002;d10;46,088203
+Brazil;New PNAD;2002;d2;1,7846581
+Brazil;New PNAD;2002;d3;2,5883479
+Brazil;New PNAD;2002;d4;3,4974864
+Brazil;New PNAD;2002;d5;4,5896425
+Brazil;New PNAD;2002;d6;5,9542732
+Brazil;New PNAD;2002;d7;7,7475386
+Brazil;New PNAD;2002;d8;10,596279
+Brazil;New PNAD;2002;d9;16,266886
+Brazil;New PNAD;2002;ratio_10_1;51,977232
+Brazil;New PNAD;2003;d1;0,87390733
+Brazil;New PNAD;2003;d10;45,366253
+Brazil;New PNAD;2003;d2;1,8064278
+Brazil;New PNAD;2003;d3;2,6363549
+Brazil;New PNAD;2003;d4;3,5747623
+Brazil;New PNAD;2003;d5;4,6665125
+Brazil;New PNAD;2003;d6;6,0746946
+Brazil;New PNAD;2003;d7;7,9101577
+Brazil;New PNAD;2003;d8;10,746695
+Brazil;New PNAD;2003;d9;16,344236
+Brazil;New PNAD;2003;ratio_10_1;51,91052
+Brazil;New PNAD;2004;d1;0,95947987
+Brazil;New PNAD;2004;d10;44,35392
+Brazil;New PNAD;2004;d2;1,9418136
+Brazil;New PNAD;2004;d3;2,7843819
+Brazil;New PNAD;2004;d4;3,721045
+Brazil;New PNAD;2004;d5;4,8186941
+Brazil;New PNAD;2004;d6;6,2137847
+Brazil;New PNAD;2004;d7;8,0264702
+Brazil;New PNAD;2004;d8;10,808952
+Brazil;New PNAD;2004;d9;16,304478
+Brazil;New PNAD;2004;ratio_10_1;46,228833
+Brazil;PNAD;1981;d1;1,023903
+Brazil;PNAD;1981;d10;45,586739
+Brazil;PNAD;1981;d2;1,9021509
+Brazil;PNAD;1981;d3;2,6822581
+Brazil;PNAD;1981;d4;3,5645595
+Brazil;PNAD;1981;d5;4,6018586
+Brazil;PNAD;1981;d6;5,9012036
+Brazil;PNAD;1981;d7;7,7359324
+Brazil;PNAD;1981;d8;10,639524
+Brazil;PNAD;1981;d9;16,361874
+Brazil;PNAD;1981;ratio_10_1;44,520953
+Brazil;PNAD;1982;d1;1,0048994
+Brazil;PNAD;1982;d10;45,876575
+Brazil;PNAD;1982;d2;1,8365775
+Brazil;PNAD;1982;d3;2,5979917
+Brazil;PNAD;1982;d4;3,4848516
+Brazil;PNAD;1982;d5;4,5173192
+Brazil;PNAD;1982;d6;5,8408237
+Brazil;PNAD;1982;d7;7,6913295
+Brazil;PNAD;1982;d8;10,622712
+Brazil;PNAD;1982;d9;16,457644
+Brazil;PNAD;1982;ratio_10_1;45,652337
+Brazil;PNAD;1983;d1;1,0341698
+Brazil;PNAD;1983;d10;46,461048
+Brazil;PNAD;1983;d2;1,8375973
+Brazil;PNAD;1983;d3;2,5599787
+Brazil;PNAD;1983;d4;3,3981087
+Brazil;PNAD;1983;d5;4,3883023
+Brazil;PNAD;1983;d6;5,6757336
+Brazil;PNAD;1983;d7;7,5520368
+Brazil;PNAD;1983;d8;10,530115
+Brazil;PNAD;1983;d9;16,562908
+Brazil;PNAD;1983;ratio_10_1;44,925861
+Brazil;PNAD;1984;d1;1,0651386
+Brazil;PNAD;1984;d10;46,241138
+Brazil;PNAD;1984;d2;1,9121493
+Brazil;PNAD;1984;d3;2,6368682
+Brazil;PNAD;1984;d4;3,4853833
+Brazil;PNAD;1984;d5;4,4661007
+Brazil;PNAD;1984;d6;5,7746849
+Brazil;PNAD;1984;d7;7,607584
+Brazil;PNAD;1984;d8;10,491539
+Brazil;PNAD;1984;d9;16,319416
+Brazil;PNAD;1984;ratio_10_1;43,411209
+Brazil;PNAD;1985;d1;1,0863642
+Brazil;PNAD;1985;d10;42,300533
+Brazil;PNAD;1985;d2;1,9949356
+Brazil;PNAD;1985;d3;2,7955794
+Brazil;PNAD;1985;d4;3,7328455
+Brazil;PNAD;1985;d5;4,7992001
+Brazil;PNAD;1985;d6;6,2639399
+Brazil;PNAD;1985;d7;8,2714138
+Brazil;PNAD;1985;d8;11,363523
+Brazil;PNAD;1985;d9;17,387615
+Brazil;PNAD;1985;ratio_10_1;38,93621
+Brazil;PNAD;1986;d1;1,0054927
+Brazil;PNAD;1986;d10;46,282005
+Brazil;PNAD;1986;d2;1,8459398
+Brazil;PNAD;1986;d3;2,6336832
+Brazil;PNAD;1986;d4;3,475976
+Brazil;PNAD;1986;d5;4,5138674
+Brazil;PNAD;1986;d6;5,8386416
+Brazil;PNAD;1986;d7;7,688169
+Brazil;PNAD;1986;d8;10,47097
+Brazil;PNAD;1986;d9;16,194456
+Brazil;PNAD;1986;ratio_10_1;46,029612
+Brazil;PNAD;1987;d1;0,88608015
+Brazil;PNAD;1987;d10;47,053352
+Brazil;PNAD;1987;d2;1,6950072
+Brazil;PNAD;1987;d3;2,4620125
+Brazil;PNAD;1987;d4;3,3193796
+Brazil;PNAD;1987;d5;4,3816037
+Brazil;PNAD;1987;d6;5,7270031
+Brazil;PNAD;1987;d7;7,6125269
+Brazil;PNAD;1987;d8;10,500527
+Brazil;PNAD;1987;d9;16,303558
+Brazil;PNAD;1987;ratio_10_1;53,10268
+Brazil;PNAD;1988;d1;0,77518052
+Brazil;PNAD;1988;d10;48,907948
+Brazil;PNAD;1988;d2;1,5607587
+Brazil;PNAD;1988;d3;2,2888067
+Brazil;PNAD;1988;d4;3,1235917
+Brazil;PNAD;1988;d5;4,1371751
+Brazil;PNAD;1988;d6;5,4600043
+Brazil;PNAD;1988;d7;7,290575
+Brazil;PNAD;1988;d8;10,209052
+Brazil;PNAD;1988;d9;16,246912
+Brazil;PNAD;1988;ratio_10_1;63,088264
+Brazil;PNAD;1989;d1;0,73765117
+Brazil;PNAD;1989;d10;50,400875
+Brazil;PNAD;1989;d2;1,4509757
+Brazil;PNAD;1989;d3;2,1370707
+Brazil;PNAD;1989;d4;2,9044054
+Brazil;PNAD;1989;d5;3,8483951
+Brazil;PNAD;1989;d6;5,1187739
+Brazil;PNAD;1989;d7;6,9284201
+Brazil;PNAD;1989;d8;9,9085102
+Brazil;PNAD;1989;d9;16,123634
+Brazil;PNAD;1989;ratio_10_1;68,327091
+Brazil;PNAD;1990;d1;0,84160739
+Brazil;PNAD;1990;d10;47,780449
+Brazil;PNAD;1990;d2;1,6035595
+Brazil;PNAD;1990;d3;2,3464878
+Brazil;PNAD;1990;d4;3,1671579
+Brazil;PNAD;1990;d5;4,2120671
+Brazil;PNAD;1990;d6;5,5369821
+Brazil;PNAD;1990;d7;7,4418297
+Brazil;PNAD;1990;d8;10,434099
+Brazil;PNAD;1990;d9;16,507431
+Brazil;PNAD;1990;ratio_10_1;56,775246
+Brazil;PNADC;2012;d1;1,1315869
+Brazil;PNADC;2012;d10;42,34166
+Brazil;PNADC;2012;d2;2,2682462
+Brazil;PNADC;2012;d3;3,1930144
+Brazil;PNADC;2012;d4;4,1821909
+Brazil;PNADC;2012;d5;5,3198547
+Brazil;PNADC;2012;d6;6,6737099
+Brazil;PNADC;2012;d7;8,3681765
+Brazil;PNADC;2012;d8;10,845428
+Brazil;PNADC;2012;d9;15,676135
+Brazil;PNADC;2012;ratio_10_1;37,41576
+Brazil;PNADC;2013;d1;1,1976482
+Brazil;PNADC;2013;d10;41,704281
+Brazil;PNADC;2013;d2;2,3206465
+Brazil;PNADC;2013;d3;3,272233
+Brazil;PNADC;2013;d4;4,2756643
+Brazil;PNADC;2013;d5;5,4094748
+Brazil;PNADC;2013;d6;6,7605066
+Brazil;PNADC;2013;d7;8,4237595
+Brazil;PNADC;2013;d8;10,897213
+Brazil;PNADC;2013;d9;15,738574
+Brazil;PNADC;2013;ratio_10_1;34,820479
+Brazil;PNADC;2014;d1;1,2521049
+Brazil;PNADC;2014;d10;41,010601
+Brazil;PNADC;2014;d2;2,4015601
+Brazil;PNADC;2014;d3;3,3403323
+Brazil;PNADC;2014;d4;4,3488293
+Brazil;PNADC;2014;d5;5,4844055
+Brazil;PNADC;2014;d6;6,7916465
+Brazil;PNADC;2014;d7;8,4948053
+Brazil;PNADC;2014;d8;11,005403
+Brazil;PNADC;2014;d9;15,870313
+Brazil;PNADC;2014;ratio_10_1;32,75159
+Brazil;PNADC;2015;d1;1,2169219
+Brazil;PNADC;2015;d10;40,804577
+Brazil;PNADC;2015;d2;2,3915927
+Brazil;PNADC;2015;d3;3,3486431
+Brazil;PNADC;2015;d4;4,3809333
+Brazil;PNADC;2015;d5;5,5258317
+Brazil;PNADC;2015;d6;6,8670831
+Brazil;PNADC;2015;d7;8,5578175
+Brazil;PNADC;2015;d8;11,030678
+Brazil;PNADC;2015;d9;15,872071
+Brazil;PNADC;2015;ratio_10_1;33,528574
+Brazil;PNADC;2016;d1;1,08803
+Brazil;PNADC;2016;d10;41,983372
+Brazil;PNADC;2016;d2;2,2321122
+Brazil;PNADC;2016;d3;3,1866333
+Brazil;PNADC;2016;d4;4,2102718
+Brazil;PNADC;2016;d5;5,3345852
+Brazil;PNADC;2016;d6;6,7195959
+Brazil;PNADC;2016;d7;8,4036798
+Brazil;PNADC;2016;d8;10,888903
+Brazil;PNADC;2016;d9;15,952816
+Brazil;PNADC;2016;ratio_10_1;38,582625
+Brazil;PNADC;2017;d1;1,0350289
+Brazil;PNADC;2017;d10;41,93737
+Brazil;PNADC;2017;d2;2,2169785
+Brazil;PNADC;2017;d3;3,1858194
+Brazil;PNADC;2017;d4;4,2271872
+Brazil;PNADC;2017;d5;5,3679414
+Brazil;PNADC;2017;d6;6,7769728
+Brazil;PNADC;2017;d7;8,5136251
+Brazil;PNADC;2017;d8;10,908209
+Brazil;PNADC;2017;d9;15,830866
+Brazil;PNADC;2017;ratio_10_1;40,516902
+Brazil;PNADC;2018;d1;0,99918842
+Brazil;PNADC;2018;d10;42,409431
+Brazil;PNADC;2018;d2;2,1676271
+Brazil;PNADC;2018;d3;3,120856
+Brazil;PNADC;2018;d4;4,1579537
+Brazil;PNADC;2018;d5;5,3107777
+Brazil;PNADC;2018;d6;6,7151022
+Brazil;PNADC;2018;d7;8,3896608
+Brazil;PNADC;2018;d8;10,890697
+Brazil;PNADC;2018;d9;15,838704
+Brazil;PNADC;2018;ratio_10_1;42,443583
+Brazil;PNADC;2019;d1;0,98250312
+Brazil;PNADC;2019;d10;41,876347
+Brazil;PNADC;2019;d2;2,1632357
+Brazil;PNADC;2019;d3;3,1520169
+Brazil;PNADC;2019;d4;4,215457
+Brazil;PNADC;2019;d5;5,3987355
+Brazil;PNADC;2019;d6;6,8541598
+Brazil;PNADC;2019;d7;8,5039196
+Brazil;PNADC;2019;d8;11,007051
+Brazil;PNADC;2019;d9;15,846574
+Brazil;PNADC;2019;ratio_10_1;42,620779
+Brazil;PNADC;2020;d1;1,5938245
+Brazil;PNADC;2020;d10;39,431652
+Brazil;PNADC;2020;d2;2,8993618
+Brazil;PNADC;2020;d3;3,8807831
+Brazil;PNADC;2020;d4;4,8249798
+Brazil;PNADC;2020;d5;5,8593378
+Brazil;PNADC;2020;d6;7,0117693
+Brazil;PNADC;2020;d7;8,511097
+Brazil;PNADC;2020;d8;10,772119
+Brazil;PNADC;2020;d9;15,215075
+Brazil;PNADC;2020;ratio_10_1;24,739475
+Brazil;PNADC;2021;d1;0,94831008
+Brazil;PNADC;2021;d10;41,703606
+Brazil;PNADC;2021;d2;2,1590691
+Brazil;PNADC;2021;d3;3,1577985
+Brazil;PNADC;2021;d4;4,206955
+Brazil;PNADC;2021;d5;5,3885627
+Brazil;PNADC;2021;d6;6,7691774
+Brazil;PNADC;2021;d7;8,5562992
+Brazil;PNADC;2021;d8;11,127913
+Brazil;PNADC;2021;d9;15,982306
+Brazil;PNADC;2021;ratio_10_1;43,975225
+Brazil;PNADC;2022;d1;1,2308706
+Brazil;PNADC;2022;d10;40,922506
+Brazil;PNADC;2022;d2;2,4098331
+Brazil;PNADC;2022;d3;3,374227
+Brazil;PNADC;2022;d4;4,3523966
+Brazil;PNADC;2022;d5;5,4674532
+Brazil;PNADC;2022;d6;6,8487465
+Brazil;PNADC;2022;d7;8,4815467
+Brazil;PNADC;2022;d8;10,977376
+Brazil;PNADC;2022;d9;15,935044
+Brazil;PNADC;2022;ratio_10_1;33,246116
+Brazil;PNADC;2023;d1;1,2918173
+Brazil;PNADC;2023;d10;40,74612
+Brazil;PNADC;2023;d2;2,445534
+Brazil;PNADC;2023;d3;3,4051263
+Brazil;PNADC;2023;d4;4,3813338
+Brazil;PNADC;2023;d5;5,5532603
+Brazil;PNADC;2023;d6;6,9291611
+Brazil;PNADC;2023;d7;8,4587307
+Brazil;PNADC;2023;d8;10,940722
+Brazil;PNADC;2023;d9;15,840212
+Brazil;PNADC;2023;ratio_10_1;31,540364
+Brazil;With Rural North;2004;d1;0,95913374
+Brazil;With Rural North;2004;d10;44,440292
+Brazil;With Rural North;2004;d2;1,9349027
+Brazil;With Rural North;2004;d3;2,7741628
+Brazil;With Rural North;2004;d4;3,7070565
+Brazil;With Rural North;2004;d5;4,8059487
+Brazil;With Rural North;2004;d6;6,2012134
+Brazil;With Rural North;2004;d7;8,0177879
+Brazil;With Rural North;2004;d8;10,797292
+Brazil;With Rural North;2004;d9;16,295996
+Brazil;With Rural North;2004;ratio_10_1;46,333618
+Brazil;With Rural North;2005;d1;0,98596519
+Brazil;With Rural North;2005;d10;44,601658
+Brazil;With Rural North;2005;d2;1,9689654
+Brazil;With Rural North;2005;d3;2,8044155
+Brazil;With Rural North;2005;d4;3,7455547
+Brazil;With Rural North;2005;d5;4,8428888
+Brazil;With Rural North;2005;d6;6,2419977
+Brazil;With Rural North;2005;d7;8,014884
+Brazil;With Rural North;2005;d8;10,720447
+Brazil;With Rural North;2005;d9;16,073227
+Brazil;With Rural North;2005;ratio_10_1;45,234994
+Brazil;With Rural North;2006;d1;1,0164002
+Brazil;With Rural North;2006;d10;44,025173
+Brazil;With Rural North;2006;d2;2,0374739
+Brazil;With Rural North;2006;d3;2,9026496
+Brazil;With Rural North;2006;d4;3,8491809
+Brazil;With Rural North;2006;d5;4,9390311
+Brazil;With Rural North;2006;d6;6,3024249
+Brazil;With Rural North;2006;d7;8,096386
+Brazil;With Rural North;2006;d8;10,747248
+Brazil;With Rural North;2006;d9;16,084036
+Brazil;With Rural North;2006;ratio_10_1;43,312997
+Brazil;With Rural North;2007;d1;0,99769098
+Brazil;With Rural North;2007;d10;43,110252
+Brazil;With Rural North;2007;d2;2,07342
+Brazil;With Rural North;2007;d3;2,9588816
+Brazil;With Rural North;2007;d4;3,9486408
+Brazil;With Rural North;2007;d5;5,0971727
+Brazil;With Rural North;2007;d6;6,520227
+Brazil;With Rural North;2007;d7;8,2724476
+Brazil;With Rural North;2007;d8;10,90905
+Brazil;With Rural North;2007;d9;16,078482
+Brazil;With Rural North;2007;ratio_10_1;43,211015
+Brazil;With Rural North;2008;d1;1,073779
+Brazil;With Rural North;2008;d10;42,442692
+Brazil;With Rural North;2008;d2;2,1569524
+Brazil;With Rural North;2008;d3;3,0807581
+Brazil;With Rural North;2008;d4;4,0689759
+Brazil;With Rural North;2008;d5;5,2092099
+Brazil;With Rural North;2008;d6;6,6161938
+Brazil;With Rural North;2008;d7;8,3310251
+Brazil;With Rural North;2008;d8;10,940817
+Brazil;With Rural North;2008;d9;16,053196
+Brazil;With Rural North;2008;ratio_10_1;39,525703
+Brazil;With Rural North;2009;d1;1,0739117
+Brazil;With Rural North;2009;d10;42,081516
+Brazil;With Rural North;2009;d2;2,1866145
+Brazil;With Rural North;2009;d3;3,122786
+Brazil;With Rural North;2009;d4;4,1373014
+Brazil;With Rural North;2009;d5;5,2764478
+Brazil;With Rural North;2009;d6;6,6795101
+Brazil;With Rural North;2009;d7;8,3979988
+Brazil;With Rural North;2009;d8;10,980214
+Brazil;With Rural North;2009;d9;16,022173
+Brazil;With Rural North;2009;ratio_10_1;39,18474
+Brazil;With Rural North;2011;d1;1,1046857
+Brazil;With Rural North;2011;d10;41,653976
+Brazil;With Rural North;2011;d2;2,2781355
+Brazil;With Rural North;2011;d3;3,2409258
+Brazil;With Rural North;2011;d4;4,2576523
+Brazil;With Rural North;2011;d5;5,4046898
+Brazil;With Rural North;2011;d6;6,8356457
+Brazil;With Rural North;2011;d7;8,4934406
+Brazil;With Rural North;2011;d8;10,961779
+Brazil;With Rural North;2011;d9;15,769069
+Brazil;With Rural North;2011;ratio_10_1;37,705884
+Brazil;With Rural North;2012;d1;1,1706028
+Brazil;With Rural North;2012;d10;41,465851
+Brazil;With Rural North;2012;d2;2,3384824
+Brazil;With Rural North;2012;d3;3,2938042
+Brazil;With Rural North;2012;d4;4,311111
+Brazil;With Rural North;2012;d5;5,4659491
+Brazil;With Rural North;2012;d6;6,8630943
+Brazil;With Rural North;2012;d7;8,4708843
+Brazil;With Rural North;2012;d8;10,927956
+Brazil;With Rural North;2012;d9;15,617164
+Brazil;With Rural North;2012;ratio_10_1;35,423558
+Brazil;With Rural North;2013;d1;1,1303381
+Brazil;With Rural North;2013;d10;41,620289
+Brazil;With Rural North;2013;d2;2,3109756
+Brazil;With Rural North;2013;d3;3,2783983
+Brazil;With Rural North;2013;d4;4,2928467
+Brazil;With Rural North;2013;d5;5,4469643
+Brazil;With Rural North;2013;d6;6,8544326
+Brazil;With Rural North;2013;d7;8,4520655
+Brazil;With Rural North;2013;d8;10,91037
+Brazil;With Rural North;2013;d9;15,690811
+Brazil;With Rural North;2013;ratio_10_1;36,821065
+Brazil;With Rural North;2014;d1;1,265855
+Brazil;With Rural North;2014;d10;40,532375
+Brazil;With Rural North;2014;d2;2,4359493
+Brazil;With Rural North;2014;d3;3,4140642
+Brazil;With Rural North;2014;d4;4,4235253
+Brazil;With Rural North;2014;d5;5,5680141
+Brazil;With Rural North;2014;d6;6,9789872
+Brazil;With Rural North;2014;d7;8,5884142
+Brazil;With Rural North;2014;d8;11,067397
+Brazil;With Rural North;2014;d9;15,725421
+Brazil;With Rural North;2014;ratio_10_1;32,017815
+Brazil;With Rural North;2015;d1;1,2233069
+Brazil;With Rural North;2015;d10;40,293385
+Brazil;With Rural North;2015;d2;2,4281771
+Brazil;With Rural North;2015;d3;3,4314489
+Brazil;With Rural North;2015;d4;4,4577117
+Brazil;With Rural North;2015;d5;5,6220837
+Brazil;With Rural North;2015;d6;7,0419426
+Brazil;With Rural North;2015;d7;8,6475391
+Brazil;With Rural North;2015;d8;11,05616
+Brazil;With Rural North;2015;d9;15,759033
+Brazil;With Rural North;2015;ratio_10_1;32,938757
+Chile;New Income Methodology;2000;d1;1,3771569
+Chile;New Income Methodology;2000;d10;42,505992
+Chile;New Income Methodology;2000;d2;2,5423502
+Chile;New Income Methodology;2000;d3;3,417413
+Chile;New Income Methodology;2000;d4;4,2905561
+Chile;New Income Methodology;2000;d5;5,2889551
+Chile;New Income Methodology;2000;d6;6,5030972
+Chile;New Income Methodology;2000;d7;8,118722
+Chile;New Income Methodology;2000;d8;10,56681
+Chile;New Income Methodology;2000;d9;15,388947
+Chile;New Income Methodology;2000;ratio_10_1;30,862377
+Chile;New Income Methodology;2003;d1;1,4580768
+Chile;New Income Methodology;2003;d10;41,10472
+Chile;New Income Methodology;2003;d2;2,6703874
+Chile;New Income Methodology;2003;d3;3,5398515
+Chile;New Income Methodology;2003;d4;4,4568389
+Chile;New Income Methodology;2003;d5;5,5055908
+Chile;New Income Methodology;2003;d6;6,7405875
+Chile;New Income Methodology;2003;d7;8,3500408
+Chile;New Income Methodology;2003;d8;10,754862
+Chile;New Income Methodology;2003;d9;15,419044
+Chile;New Income Methodology;2003;ratio_10_1;28,190286
+Chile;New Income Methodology;2006;d1;1,8450269
+Chile;New Income Methodology;2006;d10;38,186999
+Chile;New Income Methodology;2006;d2;3,0653754
+Chile;New Income Methodology;2006;d3;3,9592678
+Chile;New Income Methodology;2006;d4;4,8612969
+Chile;New Income Methodology;2006;d5;5,8715649
+Chile;New Income Methodology;2006;d6;7,062266
+Chile;New Income Methodology;2006;d7;8,5967802
+Chile;New Income Methodology;2006;d8;10,968089
+Chile;New Income Methodology;2006;d9;15,583334
+Chile;New Income Methodology;2006;ratio_10_1;20,696215
+Chile;New Income Methodology;2009;d1;1,9292285
+Chile;New Income Methodology;2009;d10;38,365832
+Chile;New Income Methodology;2009;d2;3,1864895
+Chile;New Income Methodology;2009;d3;4,0353081
+Chile;New Income Methodology;2009;d4;4,8985429
+Chile;New Income Methodology;2009;d5;5,8761392
+Chile;New Income Methodology;2009;d6;7,0269843
+Chile;New Income Methodology;2009;d7;8,5258657
+Chile;New Income Methodology;2009;d8;10,798944
+Chile;New Income Methodology;2009;d9;15,356666
+Chile;New Income Methodology;2009;ratio_10_1;19,883734
+Chile;New Income Methodology;2011;d1;2,0247979
+Chile;New Income Methodology;2011;d10;38,031562
+Chile;New Income Methodology;2011;d2;3,2258617
+Chile;New Income Methodology;2011;d3;4,0893622
+Chile;New Income Methodology;2011;d4;4,9766564
+Chile;New Income Methodology;2011;d5;5,9005641
+Chile;New Income Methodology;2011;d6;7,0124183
+Chile;New Income Methodology;2011;d7;8,5333717
+Chile;New Income Methodology;2011;d8;10,812186
+Chile;New Income Methodology;2011;d9;15,39322
+Chile;New Income Methodology;2011;ratio_10_1;18,780979
+Chile;New Income Methodology;2013;d1;2,0964585
+Chile;New Income Methodology;2013;d10;38,197475
+Chile;New Income Methodology;2013;d2;3,2747011
+Chile;New Income Methodology;2013;d3;4,0943678
+Chile;New Income Methodology;2013;d4;4,9486446
+Chile;New Income Methodology;2013;d5;5,8909452
+Chile;New Income Methodology;2013;d6;7,0036476
+Chile;New Income Methodology;2013;d7;8,438283
+Chile;New Income Methodology;2013;d8;10,712258
+Chile;New Income Methodology;2013;d9;15,34322
+Chile;New Income Methodology;2013;ratio_10_1;18,214911
+Chile;New Income Methodology;2015;d1;2,1923448
+Chile;New Income Methodology;2015;d10;36,818061
+Chile;New Income Methodology;2015;d2;3,4021507
+Chile;New Income Methodology;2015;d3;4,2807333
+Chile;New Income Methodology;2015;d4;5,137205
+Chile;New Income Methodology;2015;d5;6,0702899
+Chile;New Income Methodology;2015;d6;7,2058114
+Chile;New Income Methodology;2015;d7;8,6981996
+Chile;New Income Methodology;2015;d8;10,929435
+Chile;New Income Methodology;2015;d9;15,265769
+Chile;New Income Methodology;2015;ratio_10_1;16,791479
+Chile;New Income Methodology;2017;d1;2,2256379
+Chile;New Income Methodology;2017;d10;36,932366
+Chile;New Income Methodology;2017;d2;3,4142053
+Chile;New Income Methodology;2017;d3;4,293092
+Chile;New Income Methodology;2017;d4;5,1534386
+Chile;New Income Methodology;2017;d5;6,1082031
+Chile;New Income Methodology;2017;d6;7,2364949
+Chile;New Income Methodology;2017;d7;8,69015
+Chile;New Income Methodology;2017;d8;10,860619
+Chile;New Income Methodology;2017;d9;15,085792
+Chile;New Income Methodology;2017;ratio_10_1;16,586462
+Chile;New Income Methodology;2020;d1;1,8580116
+Chile;New Income Methodology;2020;d10;37,165114
+Chile;New Income Methodology;2020;d2;3,1939397
+Chile;New Income Methodology;2020;d3;4,0935676
+Chile;New Income Methodology;2020;d4;4,9788731
+Chile;New Income Methodology;2020;d5;5,9212446
+Chile;New Income Methodology;2020;d6;7,1144422
+Chile;New Income Methodology;2020;d7;8,6394128
+Chile;New Income Methodology;2020;d8;11,059011
+Chile;New Income Methodology;2020;d9;15,976383
+Chile;New Income Methodology;2020;ratio_10_1;20,00174
+Chile;New Income Methodology;2022;d1;2,30727
+Chile;New Income Methodology;2022;d10;34,493219
+Chile;New Income Methodology;2022;d2;3,5953821
+Chile;New Income Methodology;2022;d3;4,5153163
+Chile;New Income Methodology;2022;d4;5,4164187
+Chile;New Income Methodology;2022;d5;6,4163016
+Chile;New Income Methodology;2022;d6;7,5736685
+Chile;New Income Methodology;2022;d7;9,0419085
+Chile;New Income Methodology;2022;d8;11,237795
+Chile;New Income Methodology;2022;d9;15,402721
+Chile;New Income Methodology;2022;ratio_10_1;14,949083
+Chile;;1987;d1;1,2030584
+Chile;;1987;d10;45,335754
+Chile;;1987;d2;2,1947815
+Chile;;1987;d3;2,9499927
+Chile;;1987;d4;3,764946
+Chile;;1987;d5;4,7095718
+Chile;;1987;d6;5,9136839
+Chile;;1987;d7;7,6161866
+Chile;;1987;d8;10,312331
+Chile;;1987;d9;15,999696
+Chile;;1987;ratio_10_1;37,680309
+Chile;;1990;d1;1,2304993
+Chile;;1990;d10;46,996761
+Chile;;1990;d2;2,1809976
+Chile;;1990;d3;2,9014668
+Chile;;1990;d4;3,678534
+Chile;;1990;d5;4,5758247
+Chile;;1990;d6;5,7444563
+Chile;;1990;d7;7,379015
+Chile;;1990;d8;9,9140272
+Chile;;1990;d9;15,398417
+Chile;;1990;ratio_10_1;38,185176
+Chile;;1992;d1;1,4572841
+Chile;;1992;d10;45,033051
+Chile;;1992;d2;2,4234331
+Chile;;1992;d3;3,1995435
+Chile;;1992;d4;3,9828508
+Chile;;1992;d5;4,8980951
+Chile;;1992;d6;6,1057858
+Chile;;1992;d7;7,745934
+Chile;;1992;d8;10,173897
+Chile;;1992;d9;14,980124
+Chile;;1992;ratio_10_1;30,897869
+Chile;;1994;d1;1,2929204
+Chile;;1994;d10;45,831615
+Chile;;1994;d2;2,246444
+Chile;;1994;d3;2,9834301
+Chile;;1994;d4;3,7627189
+Chile;;1994;d5;4,7023039
+Chile;;1994;d6;5,8890142
+Chile;;1994;d7;7,5261302
+Chile;;1994;d8;10,192854
+Chile;;1994;d9;15,572567
+Chile;;1994;ratio_10_1;35,442544
+Chile;;1996;d1;1,3559827
+Chile;;1996;d10;44,402363
+Chile;;1996;d2;2,3234458
+Chile;;1996;d3;3,1191356
+Chile;;1996;d4;3,9397581
+Chile;;1996;d5;4,8812389
+Chile;;1996;d6;6,0947509
+Chile;;1996;d7;7,774971
+Chile;;1996;d8;10,448407
+Chile;;1996;d9;15,659948
+Chile;;1996;ratio_10_1;32,740946
+Chile;;1998;d1;1,2841257
+Chile;;1998;d10;44,935246
+Chile;;1998;d2;2,2645788
+Chile;;1998;d3;3,0514815
+Chile;;1998;d4;3,8942087
+Chile;;1998;d5;4,8301592
+Chile;;1998;d6;6,0249529
+Chile;;1998;d7;7,6802115
+Chile;;1998;d8;10,334785
+Chile;;1998;d9;15,700253
+Chile;;1998;ratio_10_1;34,991217
+Colombia;ECH-National;2001;d1;0,88949388
+Colombia;ECH-National;2001;d10;45,73558
+Colombia;ECH-National;2001;d2;2,0886428
+Colombia;ECH-National;2001;d3;3,0812273
+Colombia;ECH-National;2001;d4;3,9938462
+Colombia;ECH-National;2001;d5;4,9649405
+Colombia;ECH-National;2001;d6;6,1448932
+Colombia;ECH-National;2001;d7;7,8054132
+Colombia;ECH-National;2001;d8;10,297702
+Colombia;ECH-National;2001;d9;14,99826
+Colombia;ECH-National;2001;ratio_10_1;51,411871
+Colombia;ECH-National;2002;d1;1,1036682
+Colombia;ECH-National;2002;d10;45,156219
+Colombia;ECH-National;2002;d2;2,1198964
+Colombia;ECH-National;2002;d3;3,0136461
+Colombia;ECH-National;2002;d4;3,8399494
+Colombia;ECH-National;2002;d5;4,8508096
+Colombia;ECH-National;2002;d6;6,0951414
+Colombia;ECH-National;2002;d7;7,9152212
+Colombia;ECH-National;2002;d8;10,481601
+Colombia;ECH-National;2002;d9;15,423848
+Colombia;ECH-National;2002;ratio_10_1;40,912066
+Colombia;ECH-National;2003;d1;1,1806163
+Colombia;ECH-National;2003;d10;42,661942
+Colombia;ECH-National;2003;d2;2,3429596
+Colombia;ECH-National;2003;d3;3,2667916
+Colombia;ECH-National;2003;d4;4,214067
+Colombia;ECH-National;2003;d5;5,2044291
+Colombia;ECH-National;2003;d6;6,4595404
+Colombia;ECH-National;2003;d7;8,1308832
+Colombia;ECH-National;2003;d8;10,661936
+Colombia;ECH-National;2003;d9;15,802555
+Colombia;ECH-National;2003;ratio_10_1;36,13096
+Colombia;ECH-National;2004;d1;1,2568724
+Colombia;ECH-National;2004;d10;44,373169
+Colombia;ECH-National;2004;d2;2,3046625
+Colombia;ECH-National;2004;d3;3,1264243
+Colombia;ECH-National;2004;d4;3,9622619
+Colombia;ECH-National;2004;d5;4,9360299
+Colombia;ECH-National;2004;d6;6,1392322
+Colombia;ECH-National;2004;d7;7,8366036
+Colombia;ECH-National;2004;d8;10,409021
+Colombia;ECH-National;2004;d9;15,520227
+Colombia;ECH-National;2004;ratio_10_1;35,293894
+Colombia;ECH-National;2005;d1;1,2386248
+Colombia;ECH-National;2005;d10;43,172802
+Colombia;ECH-National;2005;d2;2,3415177
+Colombia;ECH-National;2005;d3;3,2211688
+Colombia;ECH-National;2005;d4;4,1266747
+Colombia;ECH-National;2005;d5;5,1145277
+Colombia;ECH-National;2005;d6;6,3521595
+Colombia;ECH-National;2005;d7;8,0596437
+Colombia;ECH-National;2005;d8;10,575613
+Colombia;ECH-National;2005;d9;15,797265
+Colombia;ECH-National;2005;ratio_10_1;34,848021
+Colombia;GEIH-National;2008;d1;1,0180557
+Colombia;GEIH-National;2008;d10;43,612022
+Colombia;GEIH-National;2008;d2;2,09814
+Colombia;GEIH-National;2008;d3;2,9799323
+Colombia;GEIH-National;2008;d4;3,916425
+Colombia;GEIH-National;2008;d5;5,0071731
+Colombia;GEIH-National;2008;d6;6,3721724
+Colombia;GEIH-National;2008;d7;8,1656294
+Colombia;GEIH-National;2008;d8;10,848703
+Colombia;GEIH-National;2008;d9;15,981747
+Colombia;GEIH-National;2008;ratio_10_1;42,836098
+Colombia;GEIH-National;2009;d1;1,1249025
+Colombia;GEIH-National;2009;d10;42,850334
+Colombia;GEIH-National;2009;d2;2,2183094
+Colombia;GEIH-National;2009;d3;3,1147835
+Colombia;GEIH-National;2009;d4;4,0277143
+Colombia;GEIH-National;2009;d5;5,1157517
+Colombia;GEIH-National;2009;d6;6,4623847
+Colombia;GEIH-National;2009;d7;8,2810678
+Colombia;GEIH-National;2009;d8;10,945543
+Colombia;GEIH-National;2009;d9;15,859208
+Colombia;GEIH-National;2009;ratio_10_1;38,092102
+Colombia;GEIH-National;2010;d1;1,1427641
+Colombia;GEIH-National;2010;d10;43,355324
+Colombia;GEIH-National;2010;d2;2,2230246
+Colombia;GEIH-National;2010;d3;3,0908172
+Colombia;GEIH-National;2010;d4;3,9996121
+Colombia;GEIH-National;2010;d5;5,0398636
+Colombia;GEIH-National;2010;d6;6,3662653
+Colombia;GEIH-National;2010;d7;8,1568947
+Colombia;GEIH-National;2010;d8;10,812377
+Colombia;GEIH-National;2010;d9;15,81306
+Colombia;GEIH-National;2010;ratio_10_1;37,937045
+Colombia;GEIH-National;2011;d1;1,2167834
+Colombia;GEIH-National;2011;d10;42,317997
+Colombia;GEIH-National;2011;d2;2,3121078
+Colombia;GEIH-National;2011;d3;3,2097642
+Colombia;GEIH-National;2011;d4;4,1379766
+Colombia;GEIH-National;2011;d5;5,1827826
+Colombia;GEIH-National;2011;d6;6,523633
+Colombia;GEIH-National;2011;d7;8,3139639
+Colombia;GEIH-National;2011;d8;10,96902
+Colombia;GEIH-National;2011;d9;15,815971
+Colombia;GEIH-National;2011;ratio_10_1;34,777512
+Colombia;GEIH-National;2012;d1;1,2167225
+Colombia;GEIH-National;2012;d10;41,234104
+Colombia;GEIH-National;2012;d2;2,355896
+Colombia;GEIH-National;2012;d3;3,2670321
+Colombia;GEIH-National;2012;d4;4,234199
+Colombia;GEIH-National;2012;d5;5,3301287
+Colombia;GEIH-National;2012;d6;6,7093658
+Colombia;GEIH-National;2012;d7;8,5078964
+Colombia;GEIH-National;2012;d8;11,182547
+Colombia;GEIH-National;2012;d9;15,962109
+Colombia;GEIH-National;2012;ratio_10_1;33,887984
+Colombia;GEIH-National;2013;d1;1,2153984
+Colombia;GEIH-National;2013;d10;41,320148
+Colombia;GEIH-National;2013;d2;2,3724155
+Colombia;GEIH-National;2013;d3;3,2846222
+Colombia;GEIH-National;2013;d4;4,2365646
+Colombia;GEIH-National;2013;d5;5,3587513
+Colombia;GEIH-National;2013;d6;6,7074003
+Colombia;GEIH-National;2013;d7;8,4878349
+Colombia;GEIH-National;2013;d8;11,097969
+Colombia;GEIH-National;2013;d9;15,918893
+Colombia;GEIH-National;2013;ratio_10_1;33,996916
+Colombia;GEIH-National;2014;d1;1,2417703
+Colombia;GEIH-National;2014;d10;41,313152
+Colombia;GEIH-National;2014;d2;2,3769052
+Colombia;GEIH-National;2014;d3;3,3047278
+Colombia;GEIH-National;2014;d4;4,2679296
+Colombia;GEIH-National;2014;d5;5,3602552
+Colombia;GEIH-National;2014;d6;6,7112622
+Colombia;GEIH-National;2014;d7;8,4774599
+Colombia;GEIH-National;2014;d8;11,090322
+Colombia;GEIH-National;2014;d9;15,856216
+Colombia;GEIH-National;2014;ratio_10_1;33,269057
+Colombia;GEIH-National;2015;d1;1,3437589
+Colombia;GEIH-National;2015;d10;39,890224
+Colombia;GEIH-National;2015;d2;2,5421436
+Colombia;GEIH-National;2015;d3;3,4635689
+Colombia;GEIH-National;2015;d4;4,4517422
+Colombia;GEIH-National;2015;d5;5,5583982
+Colombia;GEIH-National;2015;d6;6,9394412
+Colombia;GEIH-National;2015;d7;8,7044029
+Colombia;GEIH-National;2015;d8;11,276549
+Colombia;GEIH-National;2015;d9;15,82977
+Colombia;GEIH-National;2015;ratio_10_1;29,685455
+Colombia;GEIH-National;2016;d1;1,3659054
+Colombia;GEIH-National;2016;d10;39,732574
+Colombia;GEIH-National;2016;d2;2,6030869
+Colombia;GEIH-National;2016;d3;3,5515616
+Colombia;GEIH-National;2016;d4;4,5319204
+Colombia;GEIH-National;2016;d5;5,64604
+Colombia;GEIH-National;2016;d6;6,9936757
+Colombia;GEIH-National;2016;d7;8,7208319
+Colombia;GEIH-National;2016;d8;11,19719
+Colombia;GEIH-National;2016;d9;15,657216
+Colombia;GEIH-National;2016;ratio_10_1;29,088303
+Colombia;GEIH-National;2017;d1;1,4593233
+Colombia;GEIH-National;2017;d10;38,923077
+Colombia;GEIH-National;2017;d2;2,6979311
+Colombia;GEIH-National;2017;d3;3,645689
+Colombia;GEIH-National;2017;d4;4,62747
+Colombia;GEIH-National;2017;d5;5,737927
+Colombia;GEIH-National;2017;d6;7,0687876
+Colombia;GEIH-National;2017;d7;8,7803965
+Colombia;GEIH-National;2017;d8;11,292584
+Colombia;GEIH-National;2017;d9;15,766814
+Colombia;GEIH-National;2017;ratio_10_1;26,671377
+Colombia;GEIH-National;2018;d1;1,4082732
+Colombia;GEIH-National;2018;d10;39,603664
+Colombia;GEIH-National;2018;d2;2,6359599
+Colombia;GEIH-National;2018;d3;3,5738881
+Colombia;GEIH-National;2018;d4;4,5368037
+Colombia;GEIH-National;2018;d5;5,6474123
+Colombia;GEIH-National;2018;d6;6,9810338
+Colombia;GEIH-National;2018;d7;8,6826401
+Colombia;GEIH-National;2018;d8;11,187807
+Colombia;GEIH-National;2018;d9;15,742518
+Colombia;GEIH-National;2018;ratio_10_1;28,120019
+Colombia;GEIH-National;2019;d1;1,2961988
+Colombia;GEIH-National;2019;d10;40,243328
+Colombia;GEIH-National;2019;d2;2,4964118
+Colombia;GEIH-National;2019;d3;3,4589093
+Colombia;GEIH-National;2019;d4;4,4441743
+Colombia;GEIH-National;2019;d5;5,5572915
+Colombia;GEIH-National;2019;d6;6,8929195
+Colombia;GEIH-National;2019;d7;8,6248245
+Colombia;GEIH-National;2019;d8;11,166185
+Colombia;GEIH-National;2019;d9;15,817638
+Colombia;GEIH-National;2019;ratio_10_1;31,045648
+Colombia;GEIH-National;2020;d1;1,0830165
+Colombia;GEIH-National;2020;d10;41,539932
+Colombia;GEIH-National;2020;d2;2,3113465
+Colombia;GEIH-National;2020;d3;3,3003657
+Colombia;GEIH-National;2020;d4;4,2799582
+Colombia;GEIH-National;2020;d5;5,3596673
+Colombia;GEIH-National;2020;d6;6,6798716
+Colombia;GEIH-National;2020;d7;8,4156446
+Colombia;GEIH-National;2020;d8;11,059545
+Colombia;GEIH-National;2020;d9;15,970654
+Colombia;GEIH-National;2020;ratio_10_1;38,354293
+Colombia;GEIH-National;2021;d1;1,3152134
+Colombia;GEIH-National;2021;d10;40,061218
+Colombia;GEIH-National;2021;d2;2,5218122
+Colombia;GEIH-National;2021;d3;3,4754939
+Colombia;GEIH-National;2021;d4;4,4174089
+Colombia;GEIH-National;2021;d5;5,473197
+Colombia;GEIH-National;2021;d6;6,8063793
+Colombia;GEIH-National;2021;d7;8,578476
+Colombia;GEIH-National;2021;d8;11,245847
+Colombia;GEIH-National;2021;d9;16,104954
+Colombia;GEIH-National;2021;ratio_10_1;30,458904
+Colombia;New Methodology;2021;d1;1,0448945
+Colombia;New Methodology;2021;d10;43,645044
+Colombia;New Methodology;2021;d2;2,1675182
+Colombia;New Methodology;2021;d3;3,0633729
+Colombia;New Methodology;2021;d4;3,9506529
+Colombia;New Methodology;2021;d5;5,0042108
+Colombia;New Methodology;2021;d6;6,2823895
+Colombia;New Methodology;2021;d7;8,0501492
+Colombia;New Methodology;2021;d8;10,74416
+Colombia;New Methodology;2021;d9;16,047608
+Colombia;New Methodology;2021;ratio_10_1;41,767297
+Colombia;New Methodology;2022;d1;1,1000386
+Colombia;New Methodology;2022;d10;43,414776
+Colombia;New Methodology;2022;d2;2,2143587
+Colombia;New Methodology;2022;d3;3,1009037
+Colombia;New Methodology;2022;d4;3,9945036
+Colombia;New Methodology;2022;d5;5,0237013
+Colombia;New Methodology;2022;d6;6,3076134
+Colombia;New Methodology;2022;d7;8,0525608
+Colombia;New Methodology;2022;d8;10,749992
+Colombia;New Methodology;2022;d9;16,041552
+Colombia;New Methodology;2022;ratio_10_1;39,466173
+Colombia;New Methodology;2023;d1;1,1934901
+Colombia;New Methodology;2023;d10;42,567844
+Colombia;New Methodology;2023;d2;2,3105347
+Colombia;New Methodology;2023;d3;3,1864574
+Colombia;New Methodology;2023;d4;4,0842624
+Colombia;New Methodology;2023;d5;5,1212831
+Colombia;New Methodology;2023;d6;6,4211731
+Colombia;New Methodology;2023;d7;8,183815
+Colombia;New Methodology;2023;d8;10,901233
+Colombia;New Methodology;2023;d9;16,029907
+Colombia;New Methodology;2023;ratio_10_1;35,664932
+Costa Rica;ECNFT;2016;d1;2,2544968
+Costa Rica;ECNFT;2016;d10;32,02573
+Costa Rica;ECNFT;2016;d2;3,5657592
+Costa Rica;ECNFT;2016;d3;4,5307746
+Costa Rica;ECNFT;2016;d4;5,5070081
+Costa Rica;ECNFT;2016;d5;6,6373119
+Costa Rica;ECNFT;2016;d6;7,8718538
+Costa Rica;ECNFT;2016;d7;9,5894175
+Costa Rica;ECNFT;2016;d8;11,94058
+Costa Rica;ECNFT;2016;d9;16,077068
+Costa Rica;ECNFT;2016;ratio_10_1;14,186943
+Costa Rica;ECNFT;2017;d1;2,3026195
+Costa Rica;ECNFT;2017;d10;33,48674
+Costa Rica;ECNFT;2017;d2;3,6492641
+Costa Rica;ECNFT;2017;d3;4,5983911
+Costa Rica;ECNFT;2017;d4;5,5722361
+Costa Rica;ECNFT;2017;d5;6,6074648
+Costa Rica;ECNFT;2017;d6;7,749258
+Costa Rica;ECNFT;2017;d7;9,1950169
+Costa Rica;ECNFT;2017;d8;11,42499
+Costa Rica;ECNFT;2017;d9;15,414021
+Costa Rica;ECNFT;2017;ratio_10_1;14,531874
+Costa Rica;ECNFT;2018;d1;2,273097
+Costa Rica;ECNFT;2018;d10;35,154346
+Costa Rica;ECNFT;2018;d2;3,5305133
+Costa Rica;ECNFT;2018;d3;4,459929
+Costa Rica;ECNFT;2018;d4;5,3454132
+Costa Rica;ECNFT;2018;d5;6,3398471
+Costa Rica;ECNFT;2018;d6;7,5658689
+Costa Rica;ECNFT;2018;d7;9,1018038
+Costa Rica;ECNFT;2018;d8;11,276931
+Costa Rica;ECNFT;2018;d9;14,952248
+Costa Rica;ECNFT;2018;ratio_10_1;15,455599
+Costa Rica;ECNFT;2019;d1;2,3355794
+Costa Rica;ECNFT;2019;d10;33,101055
+Costa Rica;ECNFT;2019;d2;3,6586397
+Costa Rica;ECNFT;2019;d3;4,5930018
+Costa Rica;ECNFT;2019;d4;5,5088983
+Costa Rica;ECNFT;2019;d5;6,5774803
+Costa Rica;ECNFT;2019;d6;7,8104529
+Costa Rica;ECNFT;2019;d7;9,3858118
+Costa Rica;ECNFT;2019;d8;11,590898
+Costa Rica;ECNFT;2019;d9;15,438182
+Costa Rica;ECNFT;2019;ratio_10_1;14,160681
+Costa Rica;ECNFT;2020;d1;2,4113359
+Costa Rica;ECNFT;2020;d10;30,416616
+Costa Rica;ECNFT;2020;d2;3,8527369
+Costa Rica;ECNFT;2020;d3;4,8799653
+Costa Rica;ECNFT;2020;d4;5,8107443
+Costa Rica;ECNFT;2020;d5;6,8264174
+Costa Rica;ECNFT;2020;d6;8,1006432
+Costa Rica;ECNFT;2020;d7;9,6993246
+Costa Rica;ECNFT;2020;d8;11,959151
+Costa Rica;ECNFT;2020;d9;16,043064
+Costa Rica;ECNFT;2020;ratio_10_1;12,612678
+Costa Rica;ECNFT;2021;d1;2,5688779
+Costa Rica;ECNFT;2021;d10;30,250196
+Costa Rica;ECNFT;2021;d2;3,9876399
+Costa Rica;ECNFT;2021;d3;5,0439439
+Costa Rica;ECNFT;2021;d4;6,0034685
+Costa Rica;ECNFT;2021;d5;6,9755144
+Costa Rica;ECNFT;2021;d6;8,1923943
+Costa Rica;ECNFT;2021;d7;9,7042179
+Costa Rica;ECNFT;2021;d8;11,788186
+Costa Rica;ECNFT;2021;d9;15,48556
+Costa Rica;ECNFT;2021;ratio_10_1;11,765707
+Costa Rica;ECNFT;2022;d1;2,6095295
+Costa Rica;ECNFT;2022;d10;28,299737
+Costa Rica;ECNFT;2022;d2;4,0295666
+Costa Rica;ECNFT;2022;d3;5,132424
+Costa Rica;ECNFT;2022;d4;6,1759845
+Costa Rica;ECNFT;2022;d5;7,2677057
+Costa Rica;ECNFT;2022;d6;8,4790897
+Costa Rica;ECNFT;2022;d7;10,046799
+Costa Rica;ECNFT;2022;d8;12,279718
+Costa Rica;ECNFT;2022;d9;15,679446
+Costa Rica;ECNFT;2022;ratio_10_1;10,83712
+Costa Rica;ECNFT;2023;d1;2,354273
+Costa Rica;ECNFT;2023;d10;29,17581
+Costa Rica;ECNFT;2023;d2;3,885664
+Costa Rica;ECNFT;2023;d3;4,965896
+Costa Rica;ECNFT;2023;d4;6,005734
+Costa Rica;ECNFT;2023;d5;7,157089
+Costa Rica;ECNFT;2023;d6;8,406355
+Costa Rica;ECNFT;2023;d7;9,999131
+Costa Rica;ECNFT;2023;d8;12,2961
+Costa Rica;ECNFT;2023;d9;15,75395
+Costa Rica;ECNFT;2023;ratio_10_1;12,37782
+Costa Rica;ECNFT;2024;d1;2,335006
+Costa Rica;ECNFT;2024;d10;29,55752
+Costa Rica;ECNFT;2024;d2;3,784637
+Costa Rica;ECNFT;2024;d3;4,885128
+Costa Rica;ECNFT;2024;d4;5,846582
+Costa Rica;ECNFT;2024;d5;7,048904
+Costa Rica;ECNFT;2024;d6;8,36401
+Costa Rica;ECNFT;2024;d7;10,02114
+Costa Rica;ECNFT;2024;d8;12,29977
+Costa Rica;ECNFT;2024;d9;15,85731
+Costa Rica;ECNFT;2024;ratio_10_1;12,63302
+Costa Rica;ENAHO;2010;d1;1,6051551
+Costa Rica;ENAHO;2010;d10;36,73875
+Costa Rica;ENAHO;2010;d2;2,8824005
+Costa Rica;ENAHO;2010;d3;3,7986465
+Costa Rica;ENAHO;2010;d4;4,7135568
+Costa Rica;ENAHO;2010;d5;5,7732558
+Costa Rica;ENAHO;2010;d6;7,1255512
+Costa Rica;ENAHO;2010;d7;8,9108858
+Costa Rica;ENAHO;2010;d8;11,605978
+Costa Rica;ENAHO;2010;d9;16,845821
+Costa Rica;ENAHO;2010;ratio_10_1;22,883262
+Costa Rica;ENAHO;2011;d1;1,4979016
+Costa Rica;ENAHO;2011;d10;36,879269
+Costa Rica;ENAHO;2011;d2;2,7138824
+Costa Rica;ENAHO;2011;d3;3,638803
+Costa Rica;ENAHO;2011;d4;4,6131167
+Costa Rica;ENAHO;2011;d5;5,7485805
+Costa Rica;ENAHO;2011;d6;7,1188812
+Costa Rica;ENAHO;2011;d7;8,977479
+Costa Rica;ENAHO;2011;d8;11,792845
+Costa Rica;ENAHO;2011;d9;17,019239
+Costa Rica;ENAHO;2011;ratio_10_1;24,611738
+Costa Rica;ENAHO;2012;d1;1,4918188
+Costa Rica;ENAHO;2012;d10;36,597042
+Costa Rica;ENAHO;2012;d2;2,7353036
+Costa Rica;ENAHO;2012;d3;3,6871841
+Costa Rica;ENAHO;2012;d4;4,6778364
+Costa Rica;ENAHO;2012;d5;5,8045259
+Costa Rica;ENAHO;2012;d6;7,1700511
+Costa Rica;ENAHO;2012;d7;8,9812279
+Costa Rica;ENAHO;2012;d8;11,859131
+Costa Rica;ENAHO;2012;d9;16,99588
+Costa Rica;ENAHO;2012;ratio_10_1;24,511148
+Costa Rica;ENAHO;2013;d1;1,4345779
+Costa Rica;ENAHO;2013;d10;36,958038
+Costa Rica;ENAHO;2013;d2;2,6348462
+Costa Rica;ENAHO;2013;d3;3,6160729
+Costa Rica;ENAHO;2013;d4;4,5368428
+Costa Rica;ENAHO;2013;d5;5,587564
+Costa Rica;ENAHO;2013;d6;6,9733591
+Costa Rica;ENAHO;2013;d7;8,9416895
+Costa Rica;ENAHO;2013;d8;12,097142
+Costa Rica;ENAHO;2013;d9;17,219868
+Costa Rica;ENAHO;2013;ratio_10_1;25,751454
+Costa Rica;ENAHO;2014;d1;1,5039997
+Costa Rica;ENAHO;2014;d10;36,911564
+Costa Rica;ENAHO;2014;d2;2,7282934
+Costa Rica;ENAHO;2014;d3;3,6721911
+Costa Rica;ENAHO;2014;d4;4,601922
+Costa Rica;ENAHO;2014;d5;5,6920233
+Costa Rica;ENAHO;2014;d6;7,1321673
+Costa Rica;ENAHO;2014;d7;9,0125141
+Costa Rica;ENAHO;2014;d8;11,739504
+Costa Rica;ENAHO;2014;d9;17,005821
+Costa Rica;ENAHO;2014;ratio_10_1;24,525246
+Costa Rica;ENAHO;2015;d1;1,5038503
+Costa Rica;ENAHO;2015;d10;36,777023
+Costa Rica;ENAHO;2015;d2;2,7819059
+Costa Rica;ENAHO;2015;d3;3,7548802
+Costa Rica;ENAHO;2015;d4;4,6938934
+Costa Rica;ENAHO;2015;d5;5,7538962
+Costa Rica;ENAHO;2015;d6;7,0826507
+Costa Rica;ENAHO;2015;d7;8,8900642
+Costa Rica;ENAHO;2015;d8;11,698025
+Costa Rica;ENAHO;2015;d9;17,06381
+Costa Rica;ENAHO;2015;ratio_10_1;24,452044
+Costa Rica;ENAHO;2016;d1;1,5063478
+Costa Rica;ENAHO;2016;d10;37,252102
+Costa Rica;ENAHO;2016;d2;2,7429483
+Costa Rica;ENAHO;2016;d3;3,6728537
+Costa Rica;ENAHO;2016;d4;4,6374559
+Costa Rica;ENAHO;2016;d5;5,7248435
+Costa Rica;ENAHO;2016;d6;7,0896463
+Costa Rica;ENAHO;2016;d7;8,9210882
+Costa Rica;ENAHO;2016;d8;11,715811
+Costa Rica;ENAHO;2016;d9;16,736904
+Costa Rica;ENAHO;2016;ratio_10_1;24,724849
+Costa Rica;ENAHO;2017;d1;1,6012088
+Costa Rica;ENAHO;2017;d10;36,947834
+Costa Rica;ENAHO;2017;d2;2,8149686
+Costa Rica;ENAHO;2017;d3;3,7359657
+Costa Rica;ENAHO;2017;d4;4,6692061
+Costa Rica;ENAHO;2017;d5;5,7066412
+Costa Rica;ENAHO;2017;d6;7,0499797
+Costa Rica;ENAHO;2017;d7;8,8241053
+Costa Rica;ENAHO;2017;d8;11,640304
+Costa Rica;ENAHO;2017;d9;17,009789
+Costa Rica;ENAHO;2017;ratio_10_1;23,071032
+Costa Rica;ENAHO;2018;d1;1,5110179
+Costa Rica;ENAHO;2018;d10;36,318478
+Costa Rica;ENAHO;2018;d2;2,7975094
+Costa Rica;ENAHO;2018;d3;3,8072662
+Costa Rica;ENAHO;2018;d4;4,7162499
+Costa Rica;ENAHO;2018;d5;5,8120489
+Costa Rica;ENAHO;2018;d6;7,2068505
+Costa Rica;ENAHO;2018;d7;9,0261374
+Costa Rica;ENAHO;2018;d8;11,843812
+Costa Rica;ENAHO;2018;d9;16,960627
+Costa Rica;ENAHO;2018;ratio_10_1;24,031479
+Costa Rica;ENAHO;2019;d1;1,6079571
+Costa Rica;ENAHO;2019;d10;36,644104
+Costa Rica;ENAHO;2019;d2;2,8065679
+Costa Rica;ENAHO;2019;d3;3,7198486
+Costa Rica;ENAHO;2019;d4;4,6626806
+Costa Rica;ENAHO;2019;d5;5,7106524
+Costa Rica;ENAHO;2019;d6;7,0837793
+Costa Rica;ENAHO;2019;d7;8,9374485
+Costa Rica;ENAHO;2019;d8;11,784382
+Costa Rica;ENAHO;2019;d9;17,042578
+Costa Rica;ENAHO;2019;ratio_10_1;22,783674
+Costa Rica;ENAHO;2020;d1;1,4288399
+Costa Rica;ENAHO;2020;d10;36,962894
+Costa Rica;ENAHO;2020;d2;2,6486707
+Costa Rica;ENAHO;2020;d3;3,5781255
+Costa Rica;ENAHO;2020;d4;4,5117612
+Costa Rica;ENAHO;2020;d5;5,6138315
+Costa Rica;ENAHO;2020;d6;6,9825349
+Costa Rica;ENAHO;2020;d7;8,9032812
+Costa Rica;ENAHO;2020;d8;11,97716
+Costa Rica;ENAHO;2020;d9;17,392897
+Costa Rica;ENAHO;2020;ratio_10_1;25,845864
+Costa Rica;ENAHO;2021;d1;1,5740573
+Costa Rica;ENAHO;2021;d10;37,175179
+Costa Rica;ENAHO;2021;d2;2,7658045
+Costa Rica;ENAHO;2021;d3;3,6503513
+Costa Rica;ENAHO;2021;d4;4,5779748
+Costa Rica;ENAHO;2021;d5;5,6905532
+Costa Rica;ENAHO;2021;d6;7,0838628
+Costa Rica;ENAHO;2021;d7;8,9104156
+Costa Rica;ENAHO;2021;d8;11,644197
+Costa Rica;ENAHO;2021;d9;16,927603
+Costa Rica;ENAHO;2021;ratio_10_1;23,609035
+Costa Rica;ENAHO;2022;d1;1,6780411
+Costa Rica;ENAHO;2022;d10;35,658334
+Costa Rica;ENAHO;2022;d2;2,8925984
+Costa Rica;ENAHO;2022;d3;3,8321109
+Costa Rica;ENAHO;2022;d4;4,7849862
+Costa Rica;ENAHO;2022;d5;5,8617167
+Costa Rica;ENAHO;2022;d6;7,2052736
+Costa Rica;ENAHO;2022;d7;9,1290712
+Costa Rica;ENAHO;2022;d8;11,935114
+Costa Rica;ENAHO;2022;d9;17,022754
+Costa Rica;ENAHO;2022;ratio_10_1;21,238995
+Costa Rica;ENAHO;2023;d1;1,6440136
+Costa Rica;ENAHO;2023;d10;35,052677
+Costa Rica;ENAHO;2023;d2;2,8525281
+Costa Rica;ENAHO;2023;d3;3,8406148
+Costa Rica;ENAHO;2023;d4;4,8489757
+Costa Rica;ENAHO;2023;d5;5,9725242
+Costa Rica;ENAHO;2023;d6;7,3868208
+Costa Rica;ENAHO;2023;d7;9,281846
+Costa Rica;ENAHO;2023;d8;12,090214
+Costa Rica;ENAHO;2023;d9;17,029785
+Costa Rica;ENAHO;2023;ratio_10_1;21,316575
+Costa Rica;ENAHO;2024;d1;1,6907511
+Costa Rica;ENAHO;2024;d10;34,21973
+Costa Rica;ENAHO;2024;d2;2,9441633
+Costa Rica;ENAHO;2024;d3;3,8765059
+Costa Rica;ENAHO;2024;d4;4,9065447
+Costa Rica;ENAHO;2024;d5;6,1696773
+Costa Rica;ENAHO;2024;d6;7,5853877
+Costa Rica;ENAHO;2024;d7;9,5249081
+Costa Rica;ENAHO;2024;d8;12,230951
+Costa Rica;ENAHO;2024;d9;16,851381
+Costa Rica;ENAHO;2024;ratio_10_1;20,236351
+Costa Rica;ENFT 1;1996;d1;1,5607359
+Costa Rica;ENFT 1;1996;d10;36,417545
+Costa Rica;ENFT 1;1996;d2;2,855989
+Costa Rica;ENFT 1;1996;d3;3,8741543
+Costa Rica;ENFT 1;1996;d4;4,9001856
+Costa Rica;ENFT 1;1996;d5;6,0951099
+Costa Rica;ENFT 1;1996;d6;7,3934493
+Costa Rica;ENFT 1;1996;d7;9,0835648
+Costa Rica;ENFT 1;1996;d8;11,631941
+Costa Rica;ENFT 1;1996;d9;16,187321
+Costa Rica;ENFT 1;1996;ratio_10_1;23,3214
+Costa Rica;ENFT 1;1997;d1;1,4497914
+Costa Rica;ENFT 1;1997;d10;37,730389
+Costa Rica;ENFT 1;1997;d2;2,7085538
+Costa Rica;ENFT 1;1997;d3;3,7284949
+Costa Rica;ENFT 1;1997;d4;4,8062305
+Costa Rica;ENFT 1;1997;d5;5,9839902
+Costa Rica;ENFT 1;1997;d6;7,2940702
+Costa Rica;ENFT 1;1997;d7;8,9966125
+Costa Rica;ENFT 1;1997;d8;11,54028
+Costa Rica;ENFT 1;1997;d9;15,761588
+Costa Rica;ENFT 1;1997;ratio_10_1;25,992676
+Costa Rica;ENFT 2;2000;d1;1,2754016
+Costa Rica;ENFT 2;2000;d10;40,181713
+Costa Rica;ENFT 2;2000;d2;2,4953847
+Costa Rica;ENFT 2;2000;d3;3,4072888
+Costa Rica;ENFT 2;2000;d4;4,3305449
+Costa Rica;ENFT 2;2000;d5;5,4415393
+Costa Rica;ENFT 2;2000;d6;6,8612351
+Costa Rica;ENFT 2;2000;d7;8,6996021
+Costa Rica;ENFT 2;2000;d8;11,356859
+Costa Rica;ENFT 2;2000;d9;15,950431
+Costa Rica;ENFT 2;2000;ratio_10_1;31,486522
+Costa Rica;ENFT 2;2001;d1;1,4903044
+Costa Rica;ENFT 2;2001;d10;39,205585
+Costa Rica;ENFT 2;2001;d2;2,6170156
+Costa Rica;ENFT 2;2001;d3;3,5352831
+Costa Rica;ENFT 2;2001;d4;4,5311928
+Costa Rica;ENFT 2;2001;d5;5,6527004
+Costa Rica;ENFT 2;2001;d6;7,0218768
+Costa Rica;ENFT 2;2001;d7;8,640934
+Costa Rica;ENFT 2;2001;d8;11,287646
+Costa Rica;ENFT 2;2001;d9;16,01746
+Costa Rica;ENFT 2;2001;ratio_10_1;26,301525
+Costa Rica;ENFT 2;2002;d1;1,3051238
+Costa Rica;ENFT 2;2002;d10;38,301598
+Costa Rica;ENFT 2;2002;d2;2,5301406
+Costa Rica;ENFT 2;2002;d3;3,5929751
+Costa Rica;ENFT 2;2002;d4;4,6678877
+Costa Rica;ENFT 2;2002;d5;5,7869835
+Costa Rica;ENFT 2;2002;d6;7,1942973
+Costa Rica;ENFT 2;2002;d7;9,0151291
+Costa Rica;ENFT 2;2002;d8;11,557902
+Costa Rica;ENFT 2;2002;d9;16,047958
+Costa Rica;ENFT 2;2002;ratio_10_1;29,332501
+Costa Rica;ENFT 2;2003;d1;1,3533497
+Costa Rica;ENFT 2;2003;d10;41,711933
+Costa Rica;ENFT 2;2003;d2;2,5115778
+Costa Rica;ENFT 2;2003;d3;3,4249823
+Costa Rica;ENFT 2;2003;d4;4,316987
+Costa Rica;ENFT 2;2003;d5;5,4135227
+Costa Rica;ENFT 2;2003;d6;6,6884227
+Costa Rica;ENFT 2;2003;d7;8,4414873
+Costa Rica;ENFT 2;2003;d8;10,797905
+Costa Rica;ENFT 2;2003;d9;15,339831
+Costa Rica;ENFT 2;2003;ratio_10_1;30,806965
+Costa Rica;ENFT 2;2004;d1;1,4209834
+Costa Rica;ENFT 2;2004;d10;41,682972
+Costa Rica;ENFT 2;2004;d2;2,4922154
+Costa Rica;ENFT 2;2004;d3;3,4269149
+Costa Rica;ENFT 2;2004;d4;4,3447642
+Costa Rica;ENFT 2;2004;d5;5,4028678
+Costa Rica;ENFT 2;2004;d6;6,6449881
+Costa Rica;ENFT 2;2004;d7;8,3540268
+Costa Rica;ENFT 2;2004;d8;10,793314
+Costa Rica;ENFT 2;2004;d9;15,436951
+Costa Rica;ENFT 2;2004;ratio_10_1;29,322057
+Costa Rica;ENFT 3;2005;d1;1,5004206
+Costa Rica;ENFT 3;2005;d10;38,937992
+Costa Rica;ENFT 3;2005;d2;2,6207895
+Costa Rica;ENFT 3;2005;d3;3,5644953
+Costa Rica;ENFT 3;2005;d4;4,5639963
+Costa Rica;ENFT 3;2005;d5;5,6400762
+Costa Rica;ENFT 3;2005;d6;6,9307389
+Costa Rica;ENFT 3;2005;d7;8,7088785
+Costa Rica;ENFT 3;2005;d8;11,216327
+Costa Rica;ENFT 3;2005;d9;16,316286
+Costa Rica;ENFT 3;2005;ratio_10_1;25,945584
+Costa Rica;ENFT 3;2006;d1;1,4460739
+Costa Rica;ENFT 3;2006;d10;41,18623
+Costa Rica;ENFT 3;2006;d2;2,509305
+Costa Rica;ENFT 3;2006;d3;3,3732584
+Costa Rica;ENFT 3;2006;d4;4,2918439
+Costa Rica;ENFT 3;2006;d5;5,304348
+Costa Rica;ENFT 3;2006;d6;6,7074647
+Costa Rica;ENFT 3;2006;d7;8,4139986
+Costa Rica;ENFT 3;2006;d8;10,965162
+Costa Rica;ENFT 3;2006;d9;15,802315
+Costa Rica;ENFT 3;2006;ratio_10_1;28,464345
+Costa Rica;ENFT 3;2007;d1;1,6053182
+Costa Rica;ENFT 3;2007;d10;38,587208
+Costa Rica;ENFT 3;2007;d2;2,7919869
+Costa Rica;ENFT 3;2007;d3;3,7261133
+Costa Rica;ENFT 3;2007;d4;4,7228646
+Costa Rica;ENFT 3;2007;d5;5,8468504
+Costa Rica;ENFT 3;2007;d6;7,0841594
+Costa Rica;ENFT 3;2007;d7;8,6990709
+Costa Rica;ENFT 3;2007;d8;11,135261
+Costa Rica;ENFT 3;2007;d9;15,801166
+Costa Rica;ENFT 3;2007;ratio_10_1;24,028821
+Costa Rica;ENFT 4;2008;d1;1,7372098
+Costa Rica;ENFT 4;2008;d10;37,793076
+Costa Rica;ENFT 4;2008;d2;2,8576865
+Costa Rica;ENFT 4;2008;d3;3,7823162
+Costa Rica;ENFT 4;2008;d4;4,7690763
+Costa Rica;ENFT 4;2008;d5;5,8522658
+Costa Rica;ENFT 4;2008;d6;7,1397777
+Costa Rica;ENFT 4;2008;d7;8,8477221
+Costa Rica;ENFT 4;2008;d8;11,376631
+Costa Rica;ENFT 4;2008;d9;15,844236
+Costa Rica;ENFT 4;2008;ratio_10_1;21,730543
+Costa Rica;ENFT 4;2009;d1;1,6910174
+Costa Rica;ENFT 4;2009;d10;38,721024
+Costa Rica;ENFT 4;2009;d2;2,7902224
+Costa Rica;ENFT 4;2009;d3;3,7073414
+Costa Rica;ENFT 4;2009;d4;4,6974449
+Costa Rica;ENFT 4;2009;d5;5,7457447
+Costa Rica;ENFT 4;2009;d6;7,0170679
+Costa Rica;ENFT 4;2009;d7;8,6769142
+Costa Rica;ENFT 4;2009;d8;11,092173
+Costa Rica;ENFT 4;2009;d9;15,861053
+Costa Rica;ENFT 4;2009;ratio_10_1;22,894557
+Costa Rica;ENFT 4;2010;d1;1,8044662
+Costa Rica;ENFT 4;2010;d10;36,555607
+Costa Rica;ENFT 4;2010;d2;2,8450077
+Costa Rica;ENFT 4;2010;d3;3,7901659
+Costa Rica;ENFT 4;2010;d4;4,7110577
+Costa Rica;ENFT 4;2010;d5;5,8263979
+Costa Rica;ENFT 4;2010;d6;7,3045077
+Costa Rica;ENFT 4;2010;d7;9,1643209
+Costa Rica;ENFT 4;2010;d8;11,636544
+Costa Rica;ENFT 4;2010;d9;16,361925
+Costa Rica;ENFT 4;2010;ratio_10_1;20,241532
+Costa Rica;ENFT 4;2011;d1;1,7667658
+Costa Rica;ENFT 4;2011;d10;37,510509
+Costa Rica;ENFT 4;2011;d2;2,9749532
+Costa Rica;ENFT 4;2011;d3;3,8242311
+Costa Rica;ENFT 4;2011;d4;4,7325768
+Costa Rica;ENFT 4;2011;d5;5,8065472
+Costa Rica;ENFT 4;2011;d6;7,1169791
+Costa Rica;ENFT 4;2011;d7;8,9859495
+Costa Rica;ENFT 4;2011;d8;11,584394
+Costa Rica;ENFT 4;2011;d9;15,697093
+Costa Rica;ENFT 4;2011;ratio_10_1;21,213922
+Costa Rica;ENFT 4;2012;d1;1,8499826
+Costa Rica;ENFT 4;2012;d10;36,062973
+Costa Rica;ENFT 4;2012;d2;3,0630453
+Costa Rica;ENFT 4;2012;d3;4,0150670999999996
+Costa Rica;ENFT 4;2012;d4;5,0136623
+Costa Rica;ENFT 4;2012;d5;6,0551066
+Costa Rica;ENFT 4;2012;d6;7,4535728
+Costa Rica;ENFT 4;2012;d7;9,0642729
+Costa Rica;ENFT 4;2012;d8;11,490243
+Costa Rica;ENFT 4;2012;d9;15,932072
+Costa Rica;ENFT 4;2012;ratio_10_1;19,478249
+Costa Rica;ENFT 4;2013;d1;1,861192
+Costa Rica;ENFT 4;2013;d10;37,923916
+Costa Rica;ENFT 4;2013;d2;2,9645145
+Costa Rica;ENFT 4;2013;d3;3,8719668
+Costa Rica;ENFT 4;2013;d4;4,8093324
+Costa Rica;ENFT 4;2013;d5;5,8662996
+Costa Rica;ENFT 4;2013;d6;7,1195359
+Costa Rica;ENFT 4;2013;d7;8,763936
+Costa Rica;ENFT 4;2013;d8;11,096892
+Costa Rica;ENFT 4;2013;d9;15,722415
+Costa Rica;ENFT 4;2013;ratio_10_1;20,360522
+Costa Rica;ENFT 4;2014;d1;1,9021425
+Costa Rica;ENFT 4;2014;d10;33,380165
+Costa Rica;ENFT 4;2014;d2;3,1526093
+Costa Rica;ENFT 4;2014;d3;4,145957
+Costa Rica;ENFT 4;2014;d4;5,1655827
+Costa Rica;ENFT 4;2014;d5;6,2785687
+Costa Rica;ENFT 4;2014;d6;7,6269341
+Costa Rica;ENFT 4;2014;d7;9,4367037
+Costa Rica;ENFT 4;2014;d8;12,091619
+Costa Rica;ENFT 4;2014;d9;16,819719
+Costa Rica;ENFT 4;2014;ratio_10_1;17,543743
+Costa Rica;ENFT 4;2015;d1;1,8662735
+Costa Rica;ENFT 4;2015;d10;34,870659
+Costa Rica;ENFT 4;2015;d2;3,1423073
+Costa Rica;ENFT 4;2015;d3;4,1096039
+Costa Rica;ENFT 4;2015;d4;5,1407261
+Costa Rica;ENFT 4;2015;d5;6,2319999
+Costa Rica;ENFT 4;2015;d6;7,5202661
+Costa Rica;ENFT 4;2015;d7;9,2744493
+Costa Rica;ENFT 4;2015;d8;11,664112
+Costa Rica;ENFT 4;2015;d9;16,179602
+Costa Rica;ENFT 4;2015;ratio_10_1;18,652122
+Costa Rica;ENFT 4;2016;d1;1,8243462
+Costa Rica;ENFT 4;2016;d10;35,355843
+Costa Rica;ENFT 4;2016;d2;3,0459526
+Costa Rica;ENFT 4;2016;d3;4,0256133
+Costa Rica;ENFT 4;2016;d4;5,0223446
+Costa Rica;ENFT 4;2016;d5;6,199863
+Costa Rica;ENFT 4;2016;d6;7,5811834
+Costa Rica;ENFT 4;2016;d7;9,1827631
+Costa Rica;ENFT 4;2016;d8;11,588481
+Costa Rica;ENFT 4;2016;d9;16,173609
+Costa Rica;ENFT 4;2016;ratio_10_1;19,375745
+Costa Rica;With Implicit Rent;2001;d1;1,1106714
+Costa Rica;With Implicit Rent;2001;d10;39,628368
+Costa Rica;With Implicit Rent;2001;d2;2,4321516
+Costa Rica;With Implicit Rent;2001;d3;3,4408264
+Costa Rica;With Implicit Rent;2001;d4;4,4112754
+Costa Rica;With Implicit Rent;2001;d5;5,4839907
+Costa Rica;With Implicit Rent;2001;d6;6,8750925
+Costa Rica;With Implicit Rent;2001;d7;8,7074366
+Costa Rica;With Implicit Rent;2001;d8;11,418211
+Costa Rica;With Implicit Rent;2001;d9;16,491978
+Costa Rica;With Implicit Rent;2001;ratio_10_1;35,676548
+Costa Rica;With Implicit Rent;2002;d1;1,187662
+Costa Rica;With Implicit Rent;2002;d10;40,33522
+Costa Rica;With Implicit Rent;2002;d2;2,4671154
+Costa Rica;With Implicit Rent;2002;d3;3,429225
+Costa Rica;With Implicit Rent;2002;d4;4,4037862
+Costa Rica;With Implicit Rent;2002;d5;5,4677577
+Costa Rica;With Implicit Rent;2002;d6;6,7692323
+Costa Rica;With Implicit Rent;2002;d7;8,487464
+Costa Rica;With Implicit Rent;2002;d8;11,190664
+Costa Rica;With Implicit Rent;2002;d9;16,261873
+Costa Rica;With Implicit Rent;2002;ratio_10_1;33,953282
+Costa Rica;With Implicit Rent;2003;d1;1,2043569
+Costa Rica;With Implicit Rent;2003;d10;36,927242
+Costa Rica;With Implicit Rent;2003;d2;2,5490811
+Costa Rica;With Implicit Rent;2003;d3;3,6035337
+Costa Rica;With Implicit Rent;2003;d4;4,6600409
+Costa Rica;With Implicit Rent;2003;d5;5,8024468
+Costa Rica;With Implicit Rent;2003;d6;7,2325578
+Costa Rica;With Implicit Rent;2003;d7;9,1781731
+Costa Rica;With Implicit Rent;2003;d8;11,902473
+Costa Rica;With Implicit Rent;2003;d9;16,940094
+Costa Rica;With Implicit Rent;2003;ratio_10_1;30,650588
+Costa Rica;With Implicit Rent;2004;d1;1,3198445
+Costa Rica;With Implicit Rent;2004;d10;36,53299
+Costa Rica;With Implicit Rent;2004;d2;2,7145495
+Costa Rica;With Implicit Rent;2004;d3;3,7339892
+Costa Rica;With Implicit Rent;2004;d4;4,7470784
+Costa Rica;With Implicit Rent;2004;d5;5,8874917
+Costa Rica;With Implicit Rent;2004;d6;7,2453642
+Costa Rica;With Implicit Rent;2004;d7;9,0812798
+Costa Rica;With Implicit Rent;2004;d8;11,945083
+Costa Rica;With Implicit Rent;2004;d9;16,792332
+Costa Rica;With Implicit Rent;2004;ratio_10_1;27,676547
+Costa Rica;With Implicit Rent;2005;d1;1,4763035
+Costa Rica;With Implicit Rent;2005;d10;35,856728
+Costa Rica;With Implicit Rent;2005;d2;2,8019145
+Costa Rica;With Implicit Rent;2005;d3;3,8159823
+Costa Rica;With Implicit Rent;2005;d4;4,8625307
+Costa Rica;With Implicit Rent;2005;d5;5,9601865
+Costa Rica;With Implicit Rent;2005;d6;7,2884626
+Costa Rica;With Implicit Rent;2005;d7;9,1333485
+Costa Rica;With Implicit Rent;2005;d8;11,894803
+Costa Rica;With Implicit Rent;2005;d9;16,90974
+Costa Rica;With Implicit Rent;2005;ratio_10_1;24,279806
+Costa Rica;With Implicit Rent;2006;d1;1,4203054
+Costa Rica;With Implicit Rent;2006;d10;38,238689
+Costa Rica;With Implicit Rent;2006;d2;2,7469637
+Costa Rica;With Implicit Rent;2006;d3;3,6926222
+Costa Rica;With Implicit Rent;2006;d4;4,6544371
+Costa Rica;With Implicit Rent;2006;d5;5,7102122
+Costa Rica;With Implicit Rent;2006;d6;7,055337
+Costa Rica;With Implicit Rent;2006;d7;8,7275524
+Costa Rica;With Implicit Rent;2006;d8;11,34793
+Costa Rica;With Implicit Rent;2006;d9;16,405951
+Costa Rica;With Implicit Rent;2006;ratio_10_1;26,91371
+Costa Rica;With Implicit Rent;2007;d1;1,5468376
+Costa Rica;With Implicit Rent;2007;d10;38,892689
+Costa Rica;With Implicit Rent;2007;d2;2,7980266
+Costa Rica;With Implicit Rent;2007;d3;3,73754
+Costa Rica;With Implicit Rent;2007;d4;4,6886945
+Costa Rica;With Implicit Rent;2007;d5;5,6958752
+Costa Rica;With Implicit Rent;2007;d6;6,9019427
+Costa Rica;With Implicit Rent;2007;d7;8,5365801
+Costa Rica;With Implicit Rent;2007;d8;11,112186
+Costa Rica;With Implicit Rent;2007;d9;16,089632
+Costa Rica;With Implicit Rent;2007;ratio_10_1;25,141292
+Costa Rica;With Implicit Rent;2008;d1;1,5526686
+Costa Rica;With Implicit Rent;2008;d10;37,616299
+Costa Rica;With Implicit Rent;2008;d2;2,8344674
+Costa Rica;With Implicit Rent;2008;d3;3,7997217
+Costa Rica;With Implicit Rent;2008;d4;4,6813974
+Costa Rica;With Implicit Rent;2008;d5;5,7364144
+Costa Rica;With Implicit Rent;2008;d6;7,0645366
+Costa Rica;With Implicit Rent;2008;d7;8,8498764
+Costa Rica;With Implicit Rent;2008;d8;11,411497
+Costa Rica;With Implicit Rent;2008;d9;16,453123
+Costa Rica;With Implicit Rent;2008;ratio_10_1;24,216429
+Costa Rica;With Implicit Rent;2009;d1;1,4058156
+Costa Rica;With Implicit Rent;2009;d10;39,367542
+Costa Rica;With Implicit Rent;2009;d2;2,6270125
+Costa Rica;With Implicit Rent;2009;d3;3,5290821
+Costa Rica;With Implicit Rent;2009;d4;4,4484048
+Costa Rica;With Implicit Rent;2009;d5;5,4845314
+Costa Rica;With Implicit Rent;2009;d6;6,8654723
+Costa Rica;With Implicit Rent;2009;d7;8,5985947
+Costa Rica;With Implicit Rent;2009;d8;11,256495
+Costa Rica;With Implicit Rent;2009;d9;16,417051
+Costa Rica;With Implicit Rent;2009;ratio_10_1;27,998907
+Costa Rica;Without Implicit Rent;1989;d1;1,478111
+Costa Rica;Without Implicit Rent;1989;d10;32,672485
+Costa Rica;Without Implicit Rent;1989;d2;3,0804641
+Costa Rica;Without Implicit Rent;1989;d3;4,2115269
+Costa Rica;Without Implicit Rent;1989;d4;5,3733649
+Costa Rica;Without Implicit Rent;1989;d5;6,6218214
+Costa Rica;Without Implicit Rent;1989;d6;8,0976267
+Costa Rica;Without Implicit Rent;1989;d7;9,7777681
+Costa Rica;Without Implicit Rent;1989;d8;12,228706
+Costa Rica;Without Implicit Rent;1989;d9;16,458122
+Costa Rica;Without Implicit Rent;1989;ratio_10_1;22,101948
+Costa Rica;Without Implicit Rent;1990;d1;1,4302455
+Costa Rica;Without Implicit Rent;1990;d10;32,525494
+Costa Rica;Without Implicit Rent;1990;d2;3,0242147
+Costa Rica;Without Implicit Rent;1990;d3;4,2922277
+Costa Rica;Without Implicit Rent;1990;d4;5,3749361
+Costa Rica;Without Implicit Rent;1990;d5;6,587431
+Costa Rica;Without Implicit Rent;1990;d6;8,044734
+Costa Rica;Without Implicit Rent;1990;d7;9,8905525
+Costa Rica;Without Implicit Rent;1990;d8;12,411749
+Costa Rica;Without Implicit Rent;1990;d9;16,418415
+Costa Rica;Without Implicit Rent;1990;ratio_10_1;22,734022
+Costa Rica;Without Implicit Rent;1991;d1;1,4149158
+Costa Rica;Without Implicit Rent;1991;d10;33,818027
+Costa Rica;Without Implicit Rent;1991;d2;2,8181148
+Costa Rica;Without Implicit Rent;1991;d3;4,050704
+Costa Rica;Without Implicit Rent;1991;d4;5,2148914
+Costa Rica;Without Implicit Rent;1991;d5;6,4583054
+Costa Rica;Without Implicit Rent;1991;d6;7,9379578
+Costa Rica;Without Implicit Rent;1991;d7;9,7813358
+Costa Rica;Without Implicit Rent;1991;d8;12,117266
+Costa Rica;Without Implicit Rent;1991;d9;16,388481
+Costa Rica;Without Implicit Rent;1991;ratio_10_1;23,884663
+Costa Rica;Without Implicit Rent;1992;d1;1,4782836
+Costa Rica;Without Implicit Rent;1992;d10;33,353535
+Costa Rica;Without Implicit Rent;1992;d2;3,0445266
+Costa Rica;Without Implicit Rent;1992;d3;4,2086759
+Costa Rica;Without Implicit Rent;1992;d4;5,2739172
+Costa Rica;Without Implicit Rent;1992;d5;6,4841585
+Costa Rica;Without Implicit Rent;1992;d6;7,8866115
+Costa Rica;Without Implicit Rent;1992;d7;9,670517
+Costa Rica;Without Implicit Rent;1992;d8;12,201911
+Costa Rica;Without Implicit Rent;1992;d9;16,397867
+Costa Rica;Without Implicit Rent;1992;ratio_10_1;22,549018
+Costa Rica;Without Implicit Rent;1993;d1;1,4917115
+Costa Rica;Without Implicit Rent;1993;d10;33,226837
+Costa Rica;Without Implicit Rent;1993;d2;3,0491638
+Costa Rica;Without Implicit Rent;1993;d3;4,1497521
+Costa Rica;Without Implicit Rent;1993;d4;5,2309551
+Costa Rica;Without Implicit Rent;1993;d5;6,4441891
+Costa Rica;Without Implicit Rent;1993;d6;7,8200288
+Costa Rica;Without Implicit Rent;1993;d7;9,6446457
+Costa Rica;Without Implicit Rent;1993;d8;12,284282
+Costa Rica;Without Implicit Rent;1993;d9;16,658438
+Costa Rica;Without Implicit Rent;1993;ratio_10_1;22,266599
+Costa Rica;Without Implicit Rent;1994;d1;1,4866183
+Costa Rica;Without Implicit Rent;1994;d10;34,910042
+Costa Rica;Without Implicit Rent;1994;d2;2,9889138
+Costa Rica;Without Implicit Rent;1994;d3;4,1018233
+Costa Rica;Without Implicit Rent;1994;d4;5,1166592
+Costa Rica;Without Implicit Rent;1994;d5;6,2861748
+Costa Rica;Without Implicit Rent;1994;d6;7,6887565
+Costa Rica;Without Implicit Rent;1994;d7;9,3867073
+Costa Rica;Without Implicit Rent;1994;d8;11,883855
+Costa Rica;Without Implicit Rent;1994;d9;16,150452
+Costa Rica;Without Implicit Rent;1994;ratio_10_1;23,47608
+Costa Rica;Without Implicit Rent;1995;d1;1,477349
+Costa Rica;Without Implicit Rent;1995;d10;33,442852
+Costa Rica;Without Implicit Rent;1995;d2;3,025568
+Costa Rica;Without Implicit Rent;1995;d3;4,1475263
+Costa Rica;Without Implicit Rent;1995;d4;5,2933769
+Costa Rica;Without Implicit Rent;1995;d5;6,4756656
+Costa Rica;Without Implicit Rent;1995;d6;7,8211551
+Costa Rica;Without Implicit Rent;1995;d7;9,7043953
+Costa Rica;Without Implicit Rent;1995;d8;12,158765
+Costa Rica;Without Implicit Rent;1995;d9;16,453348
+Costa Rica;Without Implicit Rent;1995;ratio_10_1;22,628287
+Costa Rica;Without Implicit Rent;1996;d1;1,4320344
+Costa Rica;Without Implicit Rent;1996;d10;33,909946
+Costa Rica;Without Implicit Rent;1996;d2;2,9109011
+Costa Rica;Without Implicit Rent;1996;d3;4,0681744
+Costa Rica;Without Implicit Rent;1996;d4;5,1428823
+Costa Rica;Without Implicit Rent;1996;d5;6,3133883
+Costa Rica;Without Implicit Rent;1996;d6;7,7406135
+Costa Rica;Without Implicit Rent;1996;d7;9,5900927
+Costa Rica;Without Implicit Rent;1996;d8;12,174219
+Costa Rica;Without Implicit Rent;1996;d9;16,717749
+Costa Rica;Without Implicit Rent;1996;ratio_10_1;23,66696
+Costa Rica;Without Implicit Rent;1997;d1;1,5627112
+Costa Rica;Without Implicit Rent;1997;d10;33,58503
+Costa Rica;Without Implicit Rent;1997;d2;3,0264184
+Costa Rica;Without Implicit Rent;1997;d3;4,1126294
+Costa Rica;Without Implicit Rent;1997;d4;5,1743269
+Costa Rica;Without Implicit Rent;1997;d5;6,4032702
+Costa Rica;Without Implicit Rent;1997;d6;7,8327899
+Costa Rica;Without Implicit Rent;1997;d7;9,6010523
+Costa Rica;Without Implicit Rent;1997;d8;12,064706
+Costa Rica;Without Implicit Rent;1997;d9;16,637066
+Costa Rica;Without Implicit Rent;1997;ratio_10_1;21,481702
+Costa Rica;Without Implicit Rent;1998;d1;1,607968
+Costa Rica;Without Implicit Rent;1998;d10;33,79398
+Costa Rica;Without Implicit Rent;1998;d2;3,0417733
+Costa Rica;Without Implicit Rent;1998;d3;4,0858321
+Costa Rica;Without Implicit Rent;1998;d4;5,1358752
+Costa Rica;Without Implicit Rent;1998;d5;6,33499
+Costa Rica;Without Implicit Rent;1998;d6;7,7123809
+Costa Rica;Without Implicit Rent;1998;d7;9,5045042
+Costa Rica;Without Implicit Rent;1998;d8;12,06911
+Costa Rica;Without Implicit Rent;1998;d9;16,713585
+Costa Rica;Without Implicit Rent;1998;ratio_10_1;21,006154
+Costa Rica;Without Implicit Rent;1999;d1;1,4101287
+Costa Rica;Without Implicit Rent;1999;d10;35,620869
+Costa Rica;Without Implicit Rent;1999;d2;2,8603415
+Costa Rica;Without Implicit Rent;1999;d3;3,9125319
+Costa Rica;Without Implicit Rent;1999;d4;4,9420066
+Costa Rica;Without Implicit Rent;1999;d5;6,0771127
+Costa Rica;Without Implicit Rent;1999;d6;7,4260402
+Costa Rica;Without Implicit Rent;1999;d7;9,1942863
+Costa Rica;Without Implicit Rent;1999;d8;11,869177
+Costa Rica;Without Implicit Rent;1999;d9;16,687504
+Costa Rica;Without Implicit Rent;1999;ratio_10_1;25,251557
+Costa Rica;Without Implicit Rent;2000;d1;1,3890848
+Costa Rica;Without Implicit Rent;2000;d10;35,413528
+Costa Rica;Without Implicit Rent;2000;d2;2,8294182
+Costa Rica;Without Implicit Rent;2000;d3;3,9486461
+Costa Rica;Without Implicit Rent;2000;d4;4,988059
+Costa Rica;Without Implicit Rent;2000;d5;6,1176376
+Costa Rica;Without Implicit Rent;2000;d6;7,5581889
+Costa Rica;Without Implicit Rent;2000;d7;9,4510164
+Costa Rica;Without Implicit Rent;2000;d8;11,955968
+Costa Rica;Without Implicit Rent;2000;d9;16,348454
+Costa Rica;Without Implicit Rent;2000;ratio_10_1;25,481955
+Costa Rica;Without Implicit Rent;2001;d1;1,2702147
+Costa Rica;Without Implicit Rent;2001;d10;38,418747
+Costa Rica;Without Implicit Rent;2001;d2;2,566082
+Costa Rica;Without Implicit Rent;2001;d3;3,5722358
+Costa Rica;Without Implicit Rent;2001;d4;4,5698919
+Costa Rica;Without Implicit Rent;2001;d5;5,7227335
+Costa Rica;Without Implicit Rent;2001;d6;7,0597873
+Costa Rica;Without Implicit Rent;2001;d7;8,9076529
+Costa Rica;Without Implicit Rent;2001;d8;11,49672
+Costa Rica;Without Implicit Rent;2001;d9;16,415937
+Costa Rica;Without Implicit Rent;2001;ratio_10_1;30,228007
+Ecuador;ECV;1999;d1;0,7570622
+Ecuador;ECV;1999;d10;47,8269
+Ecuador;ECV;1999;d2;1,8643881
+Ecuador;ECV;1999;d3;2,8216128
+Ecuador;ECV;1999;d4;3,7175303
+Ecuador;ECV;1999;d5;4,7653441
+Ecuador;ECV;1999;d6;5,9549918
+Ecuador;ECV;1999;d7;7,6073318
+Ecuador;ECV;1999;d8;10,074393
+Ecuador;ECV;1999;d9;14,610444
+Ecuador;ECV;1999;ratio_10_1;63,157891
+Ecuador;ECV;2006;d1;0,98558027
+Ecuador;ECV;2006;d10;40,384007
+Ecuador;ECV;2006;d2;2,0822048
+Ecuador;ECV;2006;d3;3,1519668
+Ecuador;ECV;2006;d4;4,2561827
+Ecuador;ECV;2006;d5;5,4373302
+Ecuador;ECV;2006;d6;6,8667865
+Ecuador;ECV;2006;d7;8,7403164
+Ecuador;ECV;2006;d8;11,544373
+Ecuador;ECV;2006;d9;16,551252
+Ecuador;ECV;2006;ratio_10_1;40,961662
+Ecuador;ENEMDU;2003;d1;1,0782516
+Ecuador;ENEMDU;2003;d10;41,965389
+Ecuador;ENEMDU;2003;d2;2,239306
+Ecuador;ENEMDU;2003;d3;3,187422
+Ecuador;ENEMDU;2003;d4;4,1459637
+Ecuador;ENEMDU;2003;d5;5,2441683
+Ecuador;ENEMDU;2003;d6;6,6189899
+Ecuador;ENEMDU;2003;d7;8,4496441
+Ecuador;ENEMDU;2003;d8;11,021082
+Ecuador;ENEMDU;2003;d9;16,049786
+Ecuador;ENEMDU;2003;ratio_10_1;38,913217
+Ecuador;ENEMDU;2004;d1;1,1344006
+Ecuador;ENEMDU;2004;d10;42,228878
+Ecuador;ENEMDU;2004;d2;2,2882802
+Ecuador;ENEMDU;2004;d3;3,2180378
+Ecuador;ENEMDU;2004;d4;4,1469493
+Ecuador;ENEMDU;2004;d5;5,2294855
+Ecuador;ENEMDU;2004;d6;6,5522714
+Ecuador;ENEMDU;2004;d7;8,4053907
+Ecuador;ENEMDU;2004;d8;10,954379
+Ecuador;ENEMDU;2004;d9;15,841928
+Ecuador;ENEMDU;2004;ratio_10_1;37,22365
+Ecuador;ENEMDU;2005;d1;1,0761964
+Ecuador;ENEMDU;2005;d10;41,117443
+Ecuador;ENEMDU;2005;d2;2,203763
+Ecuador;ENEMDU;2005;d3;3,1865425
+Ecuador;ENEMDU;2005;d4;4,2094011
+Ecuador;ENEMDU;2005;d5;5,3149981
+Ecuador;ENEMDU;2005;d6;6,7009768
+Ecuador;ENEMDU;2005;d7;8,5430651
+Ecuador;ENEMDU;2005;d8;11,308107
+Ecuador;ENEMDU;2005;d9;16,339506
+Ecuador;ENEMDU;2005;ratio_10_1;38,193363
+Ecuador;ENEMDU;2006;d1;1,2655634
+Ecuador;ENEMDU;2006;d10;41,100254
+Ecuador;ENEMDU;2006;d2;2,4321711
+Ecuador;ENEMDU;2006;d3;3,3598032
+Ecuador;ENEMDU;2006;d4;4,2970171
+Ecuador;ENEMDU;2006;d5;5,3923445
+Ecuador;ENEMDU;2006;d6;6,6940017
+Ecuador;ENEMDU;2006;d7;8,5300035
+Ecuador;ENEMDU;2006;d8;11,087749
+Ecuador;ENEMDU;2006;d9;15,841092
+Ecuador;ENEMDU;2006;ratio_10_1;32,474813
+Ecuador;ENEMDU;2007;d1;1,1550038
+Ecuador;ENEMDU;2007;d10;41,986431
+Ecuador;ENEMDU;2007;d2;2,3443837
+Ecuador;ENEMDU;2007;d3;3,2606003
+Ecuador;ENEMDU;2007;d4;4,1697001
+Ecuador;ENEMDU;2007;d5;5,2237878
+Ecuador;ENEMDU;2007;d6;6,5077958
+Ecuador;ENEMDU;2007;d7;8,2927752
+Ecuador;ENEMDU;2007;d8;11,069722
+Ecuador;ENEMDU;2007;d9;15,989799
+Ecuador;ENEMDU;2007;ratio_10_1;36,35066
+Ecuador;ENEMDU;2008;d1;1,2740672
+Ecuador;ENEMDU;2008;d10;38,093777
+Ecuador;ENEMDU;2008;d2;2,5604084
+Ecuador;ENEMDU;2008;d3;3,5405567
+Ecuador;ENEMDU;2008;d4;4,5835748
+Ecuador;ENEMDU;2008;d5;5,7645578
+Ecuador;ENEMDU;2008;d6;7,1177983
+Ecuador;ENEMDU;2008;d7;8,9211016
+Ecuador;ENEMDU;2008;d8;11,631855
+Ecuador;ENEMDU;2008;d9;16,512302
+Ecuador;ENEMDU;2008;ratio_10_1;29,892004
+Ecuador;ENEMDU;2009;d1;1,4133489
+Ecuador;ENEMDU;2009;d10;37,070709
+Ecuador;ENEMDU;2009;d2;2,7457345
+Ecuador;ENEMDU;2009;d3;3,7366676
+Ecuador;ENEMDU;2009;d4;4,7685575
+Ecuador;ENEMDU;2009;d5;5,8719106
+Ecuador;ENEMDU;2009;d6;7,2241468
+Ecuador;ENEMDU;2009;d7;9,0123911
+Ecuador;ENEMDU;2009;d8;11,775113
+Ecuador;ENEMDU;2009;d9;16,381418
+Ecuador;ENEMDU;2009;ratio_10_1;26,221575
+Ecuador;ENEMDU;2010;d1;1,4516084
+Ecuador;ENEMDU;2010;d10;37,516933
+Ecuador;ENEMDU;2010;d2;2,7272248
+Ecuador;ENEMDU;2010;d3;3,7084577
+Ecuador;ENEMDU;2010;d4;4,6983428
+Ecuador;ENEMDU;2010;d5;5,8181953
+Ecuador;ENEMDU;2010;d6;7,1864147
+Ecuador;ENEMDU;2010;d7;8,9280806
+Ecuador;ENEMDU;2010;d8;11,589538
+Ecuador;ENEMDU;2010;d9;16,375206
+Ecuador;ENEMDU;2010;ratio_10_1;25,834739
+Ecuador;ENEMDU;2011;d1;1,5207919
+Ecuador;ENEMDU;2011;d10;34,087868
+Ecuador;ENEMDU;2011;d2;2,9426677
+Ecuador;ENEMDU;2011;d3;3,9758127
+Ecuador;ENEMDU;2011;d4;4,9906721
+Ecuador;ENEMDU;2011;d5;6,2054286
+Ecuador;ENEMDU;2011;d6;7,6930423
+Ecuador;ENEMDU;2011;d7;9,4715576
+Ecuador;ENEMDU;2011;d8;12,219518
+Ecuador;ENEMDU;2011;d9;16,892643
+Ecuador;ENEMDU;2011;ratio_10_1;22,404284
+Ecuador;ENEMDU;2012;d1;1,4889489
+Ecuador;ENEMDU;2012;d10;34,591877
+Ecuador;ENEMDU;2012;d2;2,8742747
+Ecuador;ENEMDU;2012;d3;3,9240911
+Ecuador;ENEMDU;2012;d4;5,0451517
+Ecuador;ENEMDU;2012;d5;6,2992573
+Ecuador;ENEMDU;2012;d6;7,7130995
+Ecuador;ENEMDU;2012;d7;9,4717121
+Ecuador;ENEMDU;2012;d8;12,076554
+Ecuador;ENEMDU;2012;d9;16,515034
+Ecuador;ENEMDU;2012;ratio_10_1;23,226915
+Ecuador;ENEMDU;2013;d1;1,6429664
+Ecuador;ENEMDU;2013;d10;35,660549
+Ecuador;ENEMDU;2013;d2;2,9178481
+Ecuador;ENEMDU;2013;d3;3,8740396
+Ecuador;ENEMDU;2013;d4;4,8671894
+Ecuador;ENEMDU;2013;d5;6,0401936
+Ecuador;ENEMDU;2013;d6;7,4426723
+Ecuador;ENEMDU;2013;d7;9,1888905
+Ecuador;ENEMDU;2013;d8;11,851745
+Ecuador;ENEMDU;2013;d9;16,513906
+Ecuador;ENEMDU;2013;ratio_10_1;21,70436
+Ecuador;ENEMDU;2014;d1;1,7563579
+Ecuador;ENEMDU;2014;d10;34,378296
+Ecuador;ENEMDU;2014;d2;3,0865695
+Ecuador;ENEMDU;2014;d3;4,1522927
+Ecuador;ENEMDU;2014;d4;5,1891179
+Ecuador;ENEMDU;2014;d5;6,3380394
+Ecuador;ENEMDU;2014;d6;7,6696205
+Ecuador;ENEMDU;2014;d7;9,4253006
+Ecuador;ENEMDU;2014;d8;11,814793
+Ecuador;ENEMDU;2014;d9;16,189615
+Ecuador;ENEMDU;2014;ratio_10_1;19,564172
+Ecuador;ENEMDU;2015;d1;1,5976831
+Ecuador;ENEMDU;2015;d10;34,881584
+Ecuador;ENEMDU;2015;d2;3,0045528
+Ecuador;ENEMDU;2015;d3;4,0352707
+Ecuador;ENEMDU;2015;d4;5,0647283
+Ecuador;ENEMDU;2015;d5;6,1850452
+Ecuador;ENEMDU;2015;d6;7,6073952
+Ecuador;ENEMDU;2015;d7;9,3560352
+Ecuador;ENEMDU;2015;d8;11,92035
+Ecuador;ENEMDU;2015;d9;16,347355
+Ecuador;ENEMDU;2015;ratio_10_1;21,826031
+Ecuador;ENEMDU;2016;d1;1,6231382
+Ecuador;ENEMDU;2016;d10;34,245743
+Ecuador;ENEMDU;2016;d2;3,1085219
+Ecuador;ENEMDU;2016;d3;4,1772399
+Ecuador;ENEMDU;2016;d4;5,2114177
+Ecuador;ENEMDU;2016;d5;6,3623815
+Ecuador;ENEMDU;2016;d6;7,7401614
+Ecuador;ENEMDU;2016;d7;9,4413176
+Ecuador;ENEMDU;2016;d8;11,90633
+Ecuador;ENEMDU;2016;d9;16,18375
+Ecuador;ENEMDU;2016;ratio_10_1;21,088977
+Ecuador;ENEMDU;2017;d1;1,664525
+Ecuador;ENEMDU;2017;d10;33,785564
+Ecuador;ENEMDU;2017;d2;3,1095276
+Ecuador;ENEMDU;2017;d3;4,1496763
+Ecuador;ENEMDU;2017;d4;5,2140069
+Ecuador;ENEMDU;2017;d5;6,4515834
+Ecuador;ENEMDU;2017;d6;7,8101296
+Ecuador;ENEMDU;2017;d7;9,4846039
+Ecuador;ENEMDU;2017;d8;11,991967
+Ecuador;ENEMDU;2017;d9;16,338417
+Ecuador;ENEMDU;2017;ratio_10_1;20,297145
+Ecuador;ENEMDU;2018;d1;1,6199797
+Ecuador;ENEMDU;2018;d10;34,410336
+Ecuador;ENEMDU;2018;d2;3,0002923
+Ecuador;ENEMDU;2018;d3;4,0689268
+Ecuador;ENEMDU;2018;d4;5,1408591
+Ecuador;ENEMDU;2018;d5;6,3401036
+Ecuador;ENEMDU;2018;d6;7,7048397
+Ecuador;ENEMDU;2018;d7;9,3676825
+Ecuador;ENEMDU;2018;d8;11,822651
+Ecuador;ENEMDU;2018;d9;16,524332
+Ecuador;ENEMDU;2018;ratio_10_1;21,225047
+Ecuador;ENEMDU;2019;d1;1,6045632
+Ecuador;ENEMDU;2019;d10;34,479031
+Ecuador;ENEMDU;2019;d2;2,9439936
+Ecuador;ENEMDU;2019;d3;3,9886043
+Ecuador;ENEMDU;2019;d4;5,0863543
+Ecuador;ENEMDU;2019;d5;6,2649479
+Ecuador;ENEMDU;2019;d6;7,6780362
+Ecuador;ENEMDU;2019;d7;9,442111
+Ecuador;ENEMDU;2019;d8;12,020271
+Ecuador;ENEMDU;2019;d9;16,492088
+Ecuador;ENEMDU;2019;ratio_10_1;21,487714
+Ecuador;ENEMDU;2020;d1;1,3386109
+Ecuador;ENEMDU;2020;d10;36,039642
+Ecuador;ENEMDU;2020;d2;2,7587049
+Ecuador;ENEMDU;2020;d3;3,9198246
+Ecuador;ENEMDU;2020;d4;5,0297718
+Ecuador;ENEMDU;2020;d5;6,1513357
+Ecuador;ENEMDU;2020;d6;7,3960438
+Ecuador;ENEMDU;2020;d7;9,2672462
+Ecuador;ENEMDU;2020;d8;11,888615
+Ecuador;ENEMDU;2020;d9;16,210205
+Ecuador;ENEMDU;2020;ratio_10_1;26,848785
+Ecuador;ENEMDU;2021;d1;1,6224378
+Ecuador;ENEMDU;2021;d10;34,720768
+Ecuador;ENEMDU;2021;d2;3,0137095
+Ecuador;ENEMDU;2021;d3;4,052352
+Ecuador;ENEMDU;2021;d4;4,9943905
+Ecuador;ENEMDU;2021;d5;6,2448578
+Ecuador;ENEMDU;2021;d6;7,6055698
+Ecuador;ENEMDU;2021;d7;9,3582926
+Ecuador;ENEMDU;2021;d8;11,870299
+Ecuador;ENEMDU;2021;d9;16,517321
+Ecuador;ENEMDU;2021;ratio_10_1;21,392773
+Ecuador;ENEMDU;2022;d1;1,6692212
+Ecuador;ENEMDU;2022;d10;34,339965
+Ecuador;ENEMDU;2022;d2;3,0140122
+Ecuador;ENEMDU;2022;d3;3,9959259
+Ecuador;ENEMDU;2022;d4;5,0902464
+Ecuador;ENEMDU;2022;d5;6,3460087
+Ecuador;ENEMDU;2022;d6;7,6585131
+Ecuador;ENEMDU;2022;d7;9,3313718
+Ecuador;ENEMDU;2022;d8;12,020841
+Ecuador;ENEMDU;2022;d9;16,533895
+Ecuador;ENEMDU;2022;ratio_10_1;20,559309
+Ecuador;ENEMDU;2023;d1;1,6421618
+Ecuador;ENEMDU;2023;d10;33,178357
+Ecuador;ENEMDU;2023;d2;3,0166634
+Ecuador;ENEMDU;2023;d3;4,1193048
+Ecuador;ENEMDU;2023;d4;5,1654374
+Ecuador;ENEMDU;2023;d5;6,3668288
+Ecuador;ENEMDU;2023;d6;7,8416128
+Ecuador;ENEMDU;2023;d7;9,6760462
+Ecuador;ENEMDU;2023;d8;12,406501
+Ecuador;ENEMDU;2023;d9;16,587086
+Ecuador;ENEMDU;2023;ratio_10_1;20,190519
+Ecuador;ENEMDU;2024;d1;1,498028
+Ecuador;ENEMDU;2024;d10;33,37532
+Ecuador;ENEMDU;2024;d2;2,783662
+Ecuador;ENEMDU;2024;d3;3,963724
+Ecuador;ENEMDU;2024;d4;5,184957
+Ecuador;ENEMDU;2024;d5;6,452613
+Ecuador;ENEMDU;2024;d6;7,971392
+Ecuador;ENEMDU;2024;d7;9,820989
+Ecuador;ENEMDU;2024;d8;12,32807
+Ecuador;ENEMDU;2024;d9;16,55463
+Ecuador;ENEMDU;2024;ratio_10_1;22,23273
+El Salvador;;2000;d1;1,0008919
+El Salvador;;2000;d10;38,943123
+El Salvador;;2000;d2;2,2482984
+El Salvador;;2000;d3;3,3520215
+El Salvador;;2000;d4;4,4539576
+El Salvador;;2000;d5;5,6517339
+El Salvador;;2000;d6;7,0641289
+El Salvador;;2000;d7;8,8834171
+El Salvador;;2000;d8;11,632025
+El Salvador;;2000;d9;16,770405
+El Salvador;;2000;ratio_10_1;38,905364
+El Salvador;;2001;d1;0,93469399
+El Salvador;;2001;d10;38,53249
+El Salvador;;2001;d2;2,2286105
+El Salvador;;2001;d3;3,3261414
+El Salvador;;2001;d4;4,4548149
+El Salvador;;2001;d5;5,690475
+El Salvador;;2001;d6;7,1477666
+El Salvador;;2001;d7;9,0437822
+El Salvador;;2001;d8;11,81316
+El Salvador;;2001;d9;16,828064
+El Salvador;;2001;ratio_10_1;41,17963
+El Salvador;;2002;d1;0,89348972
+El Salvador;;2002;d10;38,768646
+El Salvador;;2002;d2;2,1653399
+El Salvador;;2002;d3;3,2939863
+El Salvador;;2002;d4;4,3683944
+El Salvador;;2002;d5;5,6009364
+El Salvador;;2002;d6;7,1375108
+El Salvador;;2002;d7;9,0968876
+El Salvador;;2002;d8;11,82769
+El Salvador;;2002;d9;16,84712
+El Salvador;;2002;ratio_10_1;43,384712
+El Salvador;;2003;d1;0,74677128
+El Salvador;;2003;d10;37,147667
+El Salvador;;2003;d2;2,2109096
+El Salvador;;2003;d3;3,457469
+El Salvador;;2003;d4;4,6808972
+El Salvador;;2003;d5;5,9427614
+El Salvador;;2003;d6;7,4617333
+El Salvador;;2003;d7;9,4086504
+El Salvador;;2003;d8;12,07011
+El Salvador;;2003;d9;16,873028
+El Salvador;;2003;ratio_10_1;49,736595
+El Salvador;;2004;d1;1,16249
+El Salvador;;2004;d10;35,553322
+El Salvador;;2004;d2;2,6784706
+El Salvador;;2004;d3;3,8540494
+El Salvador;;2004;d4;4,9346209
+El Salvador;;2004;d5;6,0746403
+El Salvador;;2004;d6;7,5221105
+El Salvador;;2004;d7;9,4508753
+El Salvador;;2004;d8;12,118428
+El Salvador;;2004;d9;16,650993
+El Salvador;;2004;ratio_10_1;30,577942
+El Salvador;;2005;d1;1,2725681
+El Salvador;;2005;d10;36,737305
+El Salvador;;2005;d2;2,6250632
+El Salvador;;2005;d3;3,754355
+El Salvador;;2005;d4;4,8497114
+El Salvador;;2005;d5;5,9786577
+El Salvador;;2005;d6;7,3637447
+El Salvador;;2005;d7;9,1957321
+El Salvador;;2005;d8;11,785926
+El Salvador;;2005;d9;16,436935
+El Salvador;;2005;ratio_10_1;28,866315
+El Salvador;;2006;d1;1,7375191
+El Salvador;;2006;d10;35,557213
+El Salvador;;2006;d2;3,0597603
+El Salvador;;2006;d3;4,1218891
+El Salvador;;2006;d4;5,1792245
+El Salvador;;2006;d5;6,297997
+El Salvador;;2006;d6;7,5359869
+El Salvador;;2006;d7;9,2575283
+El Salvador;;2006;d8;11,497516
+El Salvador;;2006;d9;15,755367
+El Salvador;;2006;ratio_10_1;20,457196
+El Salvador;;2007;d1;1,9385908
+El Salvador;;2007;d10;35,716473
+El Salvador;;2007;d2;3,2495546
+El Salvador;;2007;d3;4,2136936
+El Salvador;;2007;d4;5,1890287
+El Salvador;;2007;d5;6,2163253
+El Salvador;;2007;d6;7,4582486
+El Salvador;;2007;d7;9,0878124
+El Salvador;;2007;d8;11,428928
+El Salvador;;2007;d9;15,501345
+El Salvador;;2007;ratio_10_1;18,415874
+El Salvador;;2008;d1;1,7014595
+El Salvador;;2008;d10;36,125
+El Salvador;;2008;d2;2,9338531
+El Salvador;;2008;d3;3,9194551
+El Salvador;;2008;d4;4,9186893
+El Salvador;;2008;d5;5,9988008
+El Salvador;;2008;d6;7,3245134
+El Salvador;;2008;d7;9,1053905
+El Salvador;;2008;d8;11,647059
+El Salvador;;2008;d9;16,325779
+El Salvador;;2008;ratio_10_1;21,227397
+El Salvador;;2009;d1;1,7889645
+El Salvador;;2009;d10;35,978172
+El Salvador;;2009;d2;3,0744381
+El Salvador;;2009;d3;4,117888
+El Salvador;;2009;d4;5,1247611
+El Salvador;;2009;d5;6,2687082
+El Salvador;;2009;d6;7,5134454
+El Salvador;;2009;d7;9,0874958
+El Salvador;;2009;d8;11,377827
+El Salvador;;2009;d9;15,668302
+El Salvador;;2009;ratio_10_1;20,109337
+El Salvador;;2010;d1;1,9354084
+El Salvador;;2010;d10;33,228817
+El Salvador;;2010;d2;3,2141976
+El Salvador;;2010;d3;4,2716966
+El Salvador;;2010;d4;5,3513751
+El Salvador;;2010;d5;6,5026026
+El Salvador;;2010;d6;7,8515434
+El Salvador;;2010;d7;9,5714769
+El Salvador;;2010;d8;11,921326
+El Salvador;;2010;d9;16,151558
+El Salvador;;2010;ratio_10_1;17,166167
+El Salvador;;2011;d1;2,1182625
+El Salvador;;2011;d10;32,755322
+El Salvador;;2011;d2;3,4693525
+El Salvador;;2011;d3;4,4971204
+El Salvador;;2011;d4;5,5334063
+El Salvador;;2011;d5;6,6088285
+El Salvador;;2011;d6;7,8561087
+El Salvador;;2011;d7;9,5168257
+El Salvador;;2011;d8;11,748975
+El Salvador;;2011;d9;15,895798
+El Salvador;;2011;ratio_10_1;15,458417
+El Salvador;;2012;d1;2,1663713
+El Salvador;;2012;d10;32,590805
+El Salvador;;2012;d2;3,5633461
+El Salvador;;2012;d3;4,5686402
+El Salvador;;2012;d4;5,6155667
+El Salvador;;2012;d5;6,6976185
+El Salvador;;2012;d6;7,9533496
+El Salvador;;2012;d7;9,5033464
+El Salvador;;2012;d8;11,74446
+El Salvador;;2012;d9;15,596496
+El Salvador;;2012;ratio_10_1;15,040829
+El Salvador;;2013;d1;2,1170011
+El Salvador;;2013;d10;34,238064
+El Salvador;;2013;d2;3,4274704
+El Salvador;;2013;d3;4,411284
+El Salvador;;2013;d4;5,4383368
+El Salvador;;2013;d5;6,5326767
+El Salvador;;2013;d6;7,7250538
+El Salvador;;2013;d7;9,2933922
+El Salvador;;2013;d8;11,416273
+El Salvador;;2013;d9;15,400448
+El Salvador;;2013;ratio_10_1;16,16879
+El Salvador;;2014;d1;2,2103364
+El Salvador;;2014;d10;32,151852
+El Salvador;;2014;d2;3,56217
+El Salvador;;2014;d3;4,5797415
+El Salvador;;2014;d4;5,5926485
+El Salvador;;2014;d5;6,7042909
+El Salvador;;2014;d6;7,9559059
+El Salvador;;2014;d7;9,5418587
+El Salvador;;2014;d8;11,84114
+El Salvador;;2014;d9;15,860056
+El Salvador;;2014;ratio_10_1;14,543292
+El Salvador;;2015;d1;2,3822527
+El Salvador;;2015;d10;31,827166
+El Salvador;;2015;d2;3,7318523
+El Salvador;;2015;d3;4,7225852
+El Salvador;;2015;d4;5,7338734
+El Salvador;;2015;d5;6,8040738
+El Salvador;;2015;d6;8,0414019
+El Salvador;;2015;d7;9,6143923
+El Salvador;;2015;d8;11,795813
+El Salvador;;2015;d9;15,34659
+El Salvador;;2015;ratio_10_1;13,359306
+El Salvador;;2016;d1;2,2845244
+El Salvador;;2016;d10;30,653122
+El Salvador;;2016;d2;3,6610956
+El Salvador;;2016;d3;4,7384291
+El Salvador;;2016;d4;5,8247466
+El Salvador;;2016;d5;6,9627023
+El Salvador;;2016;d6;8,2660503
+El Salvador;;2016;d7;9,8434467
+El Salvador;;2016;d8;12,037596
+El Salvador;;2016;d9;15,728288
+El Salvador;;2016;ratio_10_1;13,41719
+El Salvador;;2017;d1;2,46681
+El Salvador;;2017;d10;29,142637
+El Salvador;;2017;d2;3,9311504
+El Salvador;;2017;d3;4,9637637
+El Salvador;;2017;d4;6,0395694
+El Salvador;;2017;d5;7,1985888
+El Salvador;;2017;d6;8,474206
+El Salvador;;2017;d7;10,058558
+El Salvador;;2017;d8;12,136068
+El Salvador;;2017;d9;15,588649
+El Salvador;;2017;ratio_10_1;11,812011
+El Salvador;;2018;d1;2,3767779
+El Salvador;;2018;d10;29,394098
+El Salvador;;2018;d2;3,826493
+El Salvador;;2018;d3;4,9023633
+El Salvador;;2018;d4;5,9678378
+El Salvador;;2018;d5;7,1291995
+El Salvador;;2018;d6;8,413456
+El Salvador;;2018;d7;9,9798117
+El Salvador;;2018;d8;12,152624
+El Salvador;;2018;d9;15,857337
+El Salvador;;2018;ratio_10_1;12,364282
+El Salvador;;2019;d1;2,4382806
+El Salvador;;2019;d10;29,799021
+El Salvador;;2019;d2;3,8652668
+El Salvador;;2019;d3;4,9031982
+El Salvador;;2019;d4;5,9346862
+El Salvador;;2019;d5;7,0483384
+El Salvador;;2019;d6;8,3090506
+El Salvador;;2019;d7;9,8918276
+El Salvador;;2019;d8;12,010457
+El Salvador;;2019;d9;15,799874
+El Salvador;;2019;ratio_10_1;12,219374
+El Salvador;;2021;d1;1,9249495
+El Salvador;;2021;d10;28,974802
+El Salvador;;2021;d2;3,6836967
+El Salvador;;2021;d3;4,8787432
+El Salvador;;2021;d4;6,0277171
+El Salvador;;2021;d5;7,2633348
+El Salvador;;2021;d6;8,599081
+El Salvador;;2021;d7;10,253089
+El Salvador;;2021;d8;12,403133
+El Salvador;;2021;d9;15,991452
+El Salvador;;2021;ratio_10_1;15,051597
+El Salvador;;2022;d1;1,9477337
+El Salvador;;2022;d10;28,707028
+El Salvador;;2022;d2;3,7073741
+El Salvador;;2022;d3;4,944068
+El Salvador;;2022;d4;6,0829684
+El Salvador;;2022;d5;7,2750965
+El Salvador;;2022;d6;8,6201781
+El Salvador;;2022;d7;10,251871
+El Salvador;;2022;d8;12,415744
+El Salvador;;2022;d9;16,047938
+El Salvador;;2022;ratio_10_1;14,730059
+Guatemala;ENCOVI;2000;d1;1,2029154
+Guatemala;ENCOVI;2000;d10;43,853989
+Guatemala;ENCOVI;2000;d2;2,3273129
+Guatemala;ENCOVI;2000;d3;3,2458632
+Guatemala;ENCOVI;2000;d4;4,1342406
+Guatemala;ENCOVI;2000;d5;5,1445274
+Guatemala;ENCOVI;2000;d6;6,3774071
+Guatemala;ENCOVI;2000;d7;7,9905615
+Guatemala;ENCOVI;2000;d8;10,473233
+Guatemala;ENCOVI;2000;d9;15,24995
+Guatemala;ENCOVI;2000;ratio_10_1;36,447207
+Guatemala;ENCOVI;2006;d1;1,0974549
+Guatemala;ENCOVI;2006;d10;43,203381
+Guatemala;ENCOVI;2006;d2;2,0701051
+Guatemala;ENCOVI;2006;d3;3,0083344
+Guatemala;ENCOVI;2006;d4;4,0410061
+Guatemala;ENCOVI;2006;d5;5,2161059
+Guatemala;ENCOVI;2006;d6;6,5558138
+Guatemala;ENCOVI;2006;d7;8,3373432
+Guatemala;ENCOVI;2006;d8;10,830097
+Guatemala;ENCOVI;2006;d9;15,640355
+Guatemala;ENCOVI;2006;ratio_10_1;39,35732
+Guatemala;ENCOVI;2011;d1;1,4276059
+Guatemala;ENCOVI;2011;d10;41,462147
+Guatemala;ENCOVI;2011;d2;2,5657184
+Guatemala;ENCOVI;2011;d3;3,4765196
+Guatemala;ENCOVI;2011;d4;4,3606896
+Guatemala;ENCOVI;2011;d5;5,4017768
+Guatemala;ENCOVI;2011;d6;6,6680565
+Guatemala;ENCOVI;2011;d7;8,3257313
+Guatemala;ENCOVI;2011;d8;10,912994
+Guatemala;ENCOVI;2011;d9;15,398761
+Guatemala;ENCOVI;2011;ratio_10_1;29,037546
+Guatemala;ENCOVI;2014;d1;1,6793119
+Guatemala;ENCOVI;2014;d10;38,049908
+Guatemala;ENCOVI;2014;d2;2,833823
+Guatemala;ENCOVI;2014;d3;3,8080986
+Guatemala;ENCOVI;2014;d4;4,7905464
+Guatemala;ENCOVI;2014;d5;5,978282
+Guatemala;ENCOVI;2014;d6;7,2332482
+Guatemala;ENCOVI;2014;d7;8,8487806
+Guatemala;ENCOVI;2014;d8;11,244292
+Guatemala;ENCOVI;2014;d9;15,533711
+Guatemala;ENCOVI;2014;ratio_10_1;22,642715
+Guatemala;ENCOVI;2023;d1;1,579824
+Guatemala;ENCOVI;2023;d10;34,115253
+Guatemala;ENCOVI;2023;d2;3,038589
+Guatemala;ENCOVI;2023;d3;4,1285515
+Guatemala;ENCOVI;2023;d4;5,1669974
+Guatemala;ENCOVI;2023;d5;6,3499527
+Guatemala;ENCOVI;2023;d6;7,6965251
+Guatemala;ENCOVI;2023;d7;9,4391279
+Guatemala;ENCOVI;2023;d8;11,992505
+Guatemala;ENCOVI;2023;d9;16,492674
+Guatemala;ENCOVI;2023;ratio_10_1;21,58965
+Guatemala;ENEI;2002;d1;0,76166707
+Guatemala;ENEI;2002;d10;43,667961
+Guatemala;ENEI;2002;d2;1,8255191
+Guatemala;ENEI;2002;d3;2,900846
+Guatemala;ENEI;2002;d4;3,9219027
+Guatemala;ENEI;2002;d5;5,0263295
+Guatemala;ENEI;2002;d6;6,3596821
+Guatemala;ENEI;2002;d7;8,2797327
+Guatemala;ENEI;2002;d8;10,924973
+Guatemala;ENEI;2002;d9;16,331388
+Guatemala;ENEI;2002;ratio_10_1;57,281488
+Guatemala;ENEI;2003;d1;0,89963567
+Guatemala;ENEI;2003;d10;40,032249
+Guatemala;ENEI;2003;d2;1,874784
+Guatemala;ENEI;2003;d3;2,9059746
+Guatemala;ENEI;2003;d4;3,9956326
+Guatemala;ENEI;2003;d5;5,3558531
+Guatemala;ENEI;2003;d6;6,8677802
+Guatemala;ENEI;2003;d7;9,0329866
+Guatemala;ENEI;2003;d8;11,8608
+Guatemala;ENEI;2003;d9;17,174305
+Guatemala;ENEI;2003;ratio_10_1;44,476574
+Guatemala;ENEI;2004;d1;1,2327542
+Guatemala;ENEI;2004;d10;38,286457
+Guatemala;ENEI;2004;d2;2,4597178
+Guatemala;ENEI;2004;d3;3,4654639
+Guatemala;ENEI;2004;d4;4,5332441
+Guatemala;ENEI;2004;d5;5,7601976
+Guatemala;ENEI;2004;d6;7,1627307
+Guatemala;ENEI;2004;d7;8,9107275
+Guatemala;ENEI;2004;d8;11,721601
+Guatemala;ENEI;2004;d9;16,467106
+Guatemala;ENEI;2004;ratio_10_1;31,03179
+Honduras;INE;2001;d1;0,80839258
+Honduras;INE;2001;d10;41,552803
+Honduras;INE;2001;d2;1,7291845
+Honduras;INE;2001;d3;2,621397
+Honduras;INE;2001;d4;3,7606449
+Honduras;INE;2001;d5;5,0976367
+Honduras;INE;2001;d6;6,6086059
+Honduras;INE;2001;d7;8,7148924
+Honduras;INE;2001;d8;11,815861
+Honduras;INE;2001;d9;17,290583
+Honduras;INE;2001;ratio_10_1;51,381475
+Honduras;INE;2002;d1;0,84588099
+Honduras;INE;2002;d10;42,662788
+Honduras;INE;2002;d2;1,8186942
+Honduras;INE;2002;d3;2,7450793
+Honduras;INE;2002;d4;3,7837985
+Honduras;INE;2002;d5;4,9979758
+Honduras;INE;2002;d6;6,4873819
+Honduras;INE;2002;d7;8,5234756
+Honduras;INE;2002;d8;11,469856
+Honduras;INE;2002;d9;16,66507
+Honduras;INE;2002;ratio_10_1;50,432477
+Honduras;INE;2003;d1;0,77541554
+Honduras;INE;2003;d10;44,927624
+Honduras;INE;2003;d2;1,6461563
+Honduras;INE;2003;d3;2,4809396
+Honduras;INE;2003;d4;3,4731264
+Honduras;INE;2003;d5;4,6313605
+Honduras;INE;2003;d6;6,1423593
+Honduras;INE;2003;d7;8,1886663
+Honduras;INE;2003;d8;11,135353
+Honduras;INE;2003;d9;16,599001
+Honduras;INE;2003;ratio_10_1;57,933798
+Honduras;INE;2004;d1;0,75790918
+Honduras;INE;2004;d10;44,75489
+Honduras;INE;2004;d2;1,6661888
+Honduras;INE;2004;d3;2,4817657
+Honduras;INE;2004;d4;3,4534762
+Honduras;INE;2004;d5;4,6335649
+Honduras;INE;2004;d6;6,1357479
+Honduras;INE;2004;d7;8,1293182
+Honduras;INE;2004;d8;11,136568
+Honduras;INE;2004;d9;16,850571
+Honduras;INE;2004;ratio_10_1;59,039219
+Honduras;INE;2005;d1;0,5377447
+Honduras;INE;2005;d10;46,098419
+Honduras;INE;2005;d2;1,3777931
+Honduras;INE;2005;d3;2,2962804
+Honduras;INE;2005;d4;3,3535275
+Honduras;INE;2005;d5;4,5343781
+Honduras;INE;2005;d6;6,0362568
+Honduras;INE;2005;d7;7,9723835
+Honduras;INE;2005;d8;11,001915
+Honduras;INE;2005;d9;16,791302
+Honduras;INE;2005;ratio_10_1;85,703267
+Honduras;INE;2006;d1;0,6065101
+Honduras;INE;2006;d10;43,970417
+Honduras;INE;2006;d2;1,526904
+Honduras;INE;2006;d3;2,4840627
+Honduras;INE;2006;d4;3,5724242
+Honduras;INE;2006;d5;4,8510513
+Honduras;INE;2006;d6;6,4278493
+Honduras;INE;2006;d7;8,4230089
+Honduras;INE;2006;d8;11,334992
+Honduras;INE;2006;d9;16,802782
+Honduras;INE;2006;ratio_10_1;72,491991
+Honduras;INE;2007;d1;0,94162792
+Honduras;INE;2007;d10;43,061409
+Honduras;INE;2007;d2;1,8800744
+Honduras;INE;2007;d3;2,7801056
+Honduras;INE;2007;d4;3,7641194
+Honduras;INE;2007;d5;4,8764815
+Honduras;INE;2007;d6;6,3189206
+Honduras;INE;2007;d7;8,2427063
+Honduras;INE;2007;d8;11,259912
+Honduras;INE;2007;d9;16,874645
+Honduras;INE;2007;ratio_10_1;45,726123
+Honduras;INE;2008;d1;0,88160378
+Honduras;INE;2008;d10;43,005993
+Honduras;INE;2008;d2;1,8657078
+Honduras;INE;2008;d3;2,8100877
+Honduras;INE;2008;d4;3,883574
+Honduras;INE;2008;d5;5,1190705
+Honduras;INE;2008;d6;6,573791
+Honduras;INE;2008;d7;8,4713335
+Honduras;INE;2008;d8;11,210008
+Honduras;INE;2008;d9;16,178829
+Honduras;INE;2008;ratio_10_1;48,77848
+Honduras;INE;2009;d1;1,1272939
+Honduras;INE;2009;d10;38,404423
+Honduras;INE;2009;d2;2,1663308
+Honduras;INE;2009;d3;3,1738293
+Honduras;INE;2009;d4;4,3308897
+Honduras;INE;2009;d5;5,6135602
+Honduras;INE;2009;d6;7,1576819
+Honduras;INE;2009;d7;9,0814838
+Honduras;INE;2009;d8;11,933784
+Honduras;INE;2009;d9;17,010723
+Honduras;INE;2009;ratio_10_1;34,064171
+Honduras;INE;2010;d1;1,0735215
+Honduras;INE;2010;d10;40,201077
+Honduras;INE;2010;d2;2,0508971
+Honduras;INE;2010;d3;2,9985816
+Honduras;INE;2010;d4;4,0694008
+Honduras;INE;2010;d5;5,2542906
+Honduras;INE;2010;d6;6,7891655
+Honduras;INE;2010;d7;8,8562651
+Honduras;INE;2010;d8;11,770845
+Honduras;INE;2010;d9;16,935955
+Honduras;INE;2010;ratio_10_1;37,437994
+Honduras;INE;2011;d1;0,9749667
+Honduras;INE;2011;d10;39,743645
+Honduras;INE;2011;d2;2,0784211
+Honduras;INE;2011;d3;3,0893347
+Honduras;INE;2011;d4;4,2117238
+Honduras;INE;2011;d5;5,4454069
+Honduras;INE;2011;d6;6,9253893
+Honduras;INE;2011;d7;8,8718252
+Honduras;INE;2011;d8;11,732984
+Honduras;INE;2011;d9;16,926306
+Honduras;INE;2011;ratio_10_1;40,743837
+Honduras;INE;2012;d1;0,95393443
+Honduras;INE;2012;d10;40,395531
+Honduras;INE;2012;d2;2,0478666
+Honduras;INE;2012;d3;2,9738872
+Honduras;INE;2012;d4;4,0200973
+Honduras;INE;2012;d5;5,2746806
+Honduras;INE;2012;d6;6,838974
+Honduras;INE;2012;d7;8,8010902
+Honduras;INE;2012;d8;11,692224
+Honduras;INE;2012;d9;17,001717
+Honduras;INE;2012;ratio_10_1;42,333898
+Honduras;INE;2013;d1;1,1709977
+Honduras;INE;2013;d10;36,949604
+Honduras;INE;2013;d2;2,2840517
+Honduras;INE;2013;d3;3,336344
+Honduras;INE;2013;d4;4,4564986
+Honduras;INE;2013;d5;5,7155142
+Honduras;INE;2013;d6;7,2516603
+Honduras;INE;2013;d7;9,266242
+Honduras;INE;2013;d8;12,248344
+Honduras;INE;2013;d9;17,320742
+Honduras;INE;2013;ratio_10_1;31,549571
+Honduras;INE;2014;d1;1,3136504
+Honduras;INE;2014;d10;37,358829
+Honduras;INE;2014;d2;2,350965
+Honduras;INE;2014;d3;3,2790089
+Honduras;INE;2014;d4;4,4482808
+Honduras;INE;2014;d5;5,7975955
+Honduras;INE;2014;d6;7,282474
+Honduras;INE;2014;d7;9,1726484
+Honduras;INE;2014;d8;11,866731
+Honduras;INE;2014;d9;17,12982
+Honduras;INE;2014;ratio_10_1;28,427835
+Honduras;INE;2015;d1;1,3133037
+Honduras;INE;2015;d10;36,608738
+Honduras;INE;2015;d2;2,4021263
+Honduras;INE;2015;d3;3,3769009
+Honduras;INE;2015;d4;4,4849429
+Honduras;INE;2015;d5;5,814117
+Honduras;INE;2015;d6;7,3674116
+Honduras;INE;2015;d7;9,3214302
+Honduras;INE;2015;d8;12,158905
+Honduras;INE;2015;d9;17,152122
+Honduras;INE;2015;ratio_10_1;27,862179
+Honduras;INE;2016;d1;1,0504241
+Honduras;INE;2016;d10;36,050453
+Honduras;INE;2016;d2;2,1747916
+Honduras;INE;2016;d3;3,2323358
+Honduras;INE;2016;d4;4,4474258
+Honduras;INE;2016;d5;5,8640428
+Honduras;INE;2016;d6;7,4579644
+Honduras;INE;2016;d7;9,5034246
+Honduras;INE;2016;d8;12,388722
+Honduras;INE;2016;d9;17,830418
+Honduras;INE;2016;ratio_10_1;34,302768
+Honduras;INE;2017;d1;1,1660715
+Honduras;INE;2017;d10;36,538326
+Honduras;INE;2017;d2;2,2757664
+Honduras;INE;2017;d3;3,3774567
+Honduras;INE;2017;d4;4,6148148
+Honduras;INE;2017;d5;5,907897
+Honduras;INE;2017;d6;7,4278078
+Honduras;INE;2017;d7;9,358983
+Honduras;INE;2017;d8;12,142104
+Honduras;INE;2017;d9;17,190773
+Honduras;INE;2017;ratio_10_1;31,326012
+Honduras;INE;2018;d1;1,135807
+Honduras;INE;2018;d10;35,345284
+Honduras;INE;2018;d2;2,2394927
+Honduras;INE;2018;d3;3,3711524
+Honduras;INE;2018;d4;4,6184063
+Honduras;INE;2018;d5;5,9659276
+Honduras;INE;2018;d6;7,5037661
+Honduras;INE;2018;d7;9,5509863
+Honduras;INE;2018;d8;12,544224
+Honduras;INE;2018;d9;17,724955
+Honduras;INE;2018;ratio_10_1;31,104668
+Honduras;INE;2019;d1;1,2604529
+Honduras;INE;2019;d10;34,625413
+Honduras;INE;2019;d2;2,351636
+Honduras;INE;2019;d3;3,4193607
+Honduras;INE;2019;d4;4,5856186
+Honduras;INE;2019;d5;6,0125508
+Honduras;INE;2019;d6;7,7283084
+Honduras;INE;2019;d7;9,8653741
+Honduras;INE;2019;d8;12,583212
+Honduras;INE;2019;d9;17,568074
+Honduras;INE;2019;ratio_10_1;27,452541
+Honduras;INE;2023;d1;1,173193
+Honduras;INE;2023;d10;32,980282
+Honduras;INE;2023;d2;2,4935098
+Honduras;INE;2023;d3;3,6565802
+Honduras;INE;2023;d4;4,889226
+Honduras;INE;2023;d5;6,1247754
+Honduras;INE;2023;d6;7,8876767
+Honduras;INE;2023;d7;10,060971
+Honduras;INE;2023;d8;12,915436
+Honduras;INE;2023;d9;17,81835
+Honduras;INE;2023;ratio_10_1;28,084641
+Mexico;New Methodology;2016;d1;1,8765549
+Mexico;New Methodology;2016;d10;37,374823
+Mexico;New Methodology;2016;d2;3,1111775
+Mexico;New Methodology;2016;d3;4,031449
+Mexico;New Methodology;2016;d4;4,971364
+Mexico;New Methodology;2016;d5;5,9764785
+Mexico;New Methodology;2016;d6;7,1818419
+Mexico;New Methodology;2016;d7;8,7887178
+Mexico;New Methodology;2016;d8;11,151317
+Mexico;New Methodology;2016;d9;15,536277
+Mexico;New Methodology;2016;ratio_10_1;19,9165
+Mexico;New Methodology;2018;d1;1,9393898
+Mexico;New Methodology;2018;d10;36,628797
+Mexico;New Methodology;2018;d2;3,2213107
+Mexico;New Methodology;2018;d3;4,1957092
+Mexico;New Methodology;2018;d4;5,1023861
+Mexico;New Methodology;2018;d5;6,1198244
+Mexico;New Methodology;2018;d6;7,3179176
+Mexico;New Methodology;2018;d7;8,8560358
+Mexico;New Methodology;2018;d8;11,171898
+Mexico;New Methodology;2018;d9;15,446731
+Mexico;New Methodology;2018;ratio_10_1;18,886329
+Mexico;New Methodology;2020;d1;1,982939
+Mexico;New Methodology;2020;d10;35,067934
+Mexico;New Methodology;2020;d2;3,311218
+Mexico;New Methodology;2020;d3;4,2750743
+Mexico;New Methodology;2020;d4;5,2384988
+Mexico;New Methodology;2020;d5;6,2989097
+Mexico;New Methodology;2020;d6;7,548968
+Mexico;New Methodology;2020;d7;9,1602789
+Mexico;New Methodology;2020;d8;11,484677
+Mexico;New Methodology;2020;d9;15,631503
+Mexico;New Methodology;2020;ratio_10_1;17,683999
+Mexico;New Methodology;2022;d1;2,1292756
+Mexico;New Methodology;2022;d10;34,402722
+Mexico;New Methodology;2022;d2;3,4762258
+Mexico;New Methodology;2022;d3;4,4351559
+Mexico;New Methodology;2022;d4;5,4024504
+Mexico;New Methodology;2022;d5;6,4175115
+Mexico;New Methodology;2022;d6;7,6695457
+Mexico;New Methodology;2022;d7;9,2276189
+Mexico;New Methodology;2022;d8;11,428678
+Mexico;New Methodology;2022;d9;15,410817
+Mexico;New Methodology;2022;ratio_10_1;16,156883
+Mexico;;1989;d1;1,5153362
+Mexico;;1989;d10;40,248589
+Mexico;;1989;d2;2,7829588
+Mexico;;1989;d3;3,7105497
+Mexico;;1989;d4;4,6479609
+Mexico;;1989;d5;5,6776399
+Mexico;;1989;d6;6,8873136
+Mexico;;1989;d7;8,5340549
+Mexico;;1989;d8;10,840046
+Mexico;;1989;d9;15,155552
+Mexico;;1989;ratio_10_1;26,55221
+Mexico;;1992;d1;1,4384992
+Mexico;;1992;d10;41,956714
+Mexico;;1992;d2;2,5138258
+Mexico;;1992;d3;3,3847557
+Mexico;;1992;d4;4,3167468
+Mexico;;1992;d5;5,2769861
+Mexico;;1992;d6;6,5149088
+Mexico;;1992;d7;8,2757095
+Mexico;;1992;d8;10,711691
+Mexico;;1992;d9;15,610163
+Mexico;;1992;ratio_10_1;29,150127
+Mexico;;1994;d1;1,3457645
+Mexico;;1994;d10;42,954749
+Mexico;;1994;d2;2,3732397
+Mexico;;1994;d3;3,2184712
+Mexico;;1994;d4;4,122818
+Mexico;;1994;d5;5,1758713
+Mexico;;1994;d6;6,4751669
+Mexico;;1994;d7;8,1281757
+Mexico;;1994;d8;10,73341
+Mexico;;1994;d9;15,472334
+Mexico;;1994;ratio_10_1;31,913999
+Mexico;;1996;d1;1,3681946
+Mexico;;1996;d10;41,217698
+Mexico;;1996;d2;2,4725317
+Mexico;;1996;d3;3,3798711
+Mexico;;1996;d4;4,314162
+Mexico;;1996;d5;5,3830862
+Mexico;;1996;d6;6,6847286
+Mexico;;1996;d7;8,4413169
+Mexico;;1996;d8;11,034672
+Mexico;;1996;d9;15,703739
+Mexico;;1996;ratio_10_1;30,116592
+Mexico;;1998;d1;1,1695408
+Mexico;;1998;d10;41,792558
+Mexico;;1998;d2;2,1728997
+Mexico;;1998;d3;3,15158
+Mexico;;1998;d4;4,202786
+Mexico;;1998;d5;5,293783
+Mexico;;1998;d6;6,7138268
+Mexico;;1998;d7;8,495022
+Mexico;;1998;d8;11,059513
+Mexico;;1998;d9;15,94849
+Mexico;;1998;ratio_10_1;35,729976
+Mexico;;2000;d1;1,1955685
+Mexico;;2000;d10;42,45432
+Mexico;;2000;d2;2,2551369
+Mexico;;2000;d3;3,2304065
+Mexico;;2000;d4;4,1642638
+Mexico;;2000;d5;5,2377243
+Mexico;;2000;d6;6,6067432
+Mexico;;2000;d7;8,3345056
+Mexico;;2000;d8;10,792943
+Mexico;;2000;d9;15,728388
+Mexico;;2000;ratio_10_1;35,483389
+Mexico;;2002;d1;1,454768
+Mexico;;2002;d10;39,93432
+Mexico;;2002;d2;2,5708954
+Mexico;;2002;d3;3,5130556
+Mexico;;2002;d4;4,517084
+Mexico;;2002;d5;5,5947192
+Mexico;;2002;d6;6,8672222
+Mexico;;2002;d7;8,5403133
+Mexico;;2002;d8;11,043035
+Mexico;;2002;d9;15,964588
+Mexico;;2002;ratio_10_1;27,449998
+Mexico;;2004;d1;1,3829592
+Mexico;;2004;d10;39,698956
+Mexico;;2004;d2;2,6697806
+Mexico;;2004;d3;3,634118
+Mexico;;2004;d4;4,6241231
+Mexico;;2004;d5;5,6347723
+Mexico;;2004;d6;6,8807113
+Mexico;;2004;d7;8,5320724
+Mexico;;2004;d8;11,038384
+Mexico;;2004;d9;15,904123
+Mexico;;2004;ratio_10_1;28,699945
+Mexico;;2005;d1;1,2853686
+Mexico;;2005;d10;40,270316
+Mexico;;2005;d2;2,5645356
+Mexico;;2005;d3;3,5681867
+Mexico;;2005;d4;4,5314115
+Mexico;;2005;d5;5,6395122
+Mexico;;2005;d6;6,9613899
+Mexico;;2005;d7;8,607743
+Mexico;;2005;d8;11,046041
+Mexico;;2005;d9;15,525495
+Mexico;;2005;ratio_10_1;31,327823
+Mexico;;2006;d1;1,5035146
+Mexico;;2006;d10;39,479702
+Mexico;;2006;d2;2,7428711
+Mexico;;2006;d3;3,6909594
+Mexico;;2006;d4;4,6589869
+Mexico;;2006;d5;5,6997075
+Mexico;;2006;d6;6,9797457
+Mexico;;2006;d7;8,5650851
+Mexico;;2006;d8;10,981729
+Mexico;;2006;d9;15,6977
+Mexico;;2006;ratio_10_1;26,253562
+Mexico;;2008;d1;1,3803078
+Mexico;;2008;d10;39,711832
+Mexico;;2008;d2;2,5214785
+Mexico;;2008;d3;3,473007
+Mexico;;2008;d4;4,4681274
+Mexico;;2008;d5;5,5725291
+Mexico;;2008;d6;6,9259872
+Mexico;;2008;d7;8,6488172
+Mexico;;2008;d8;11,255148
+Mexico;;2008;d9;16,042767
+Mexico;;2008;ratio_10_1;28,768667
+Mexico;;2010;d1;1,6376598
+Mexico;;2010;d10;37,236855
+Mexico;;2010;d2;2,919924
+Mexico;;2010;d3;3,9144998
+Mexico;;2010;d4;4,8464151
+Mexico;;2010;d5;5,9179752
+Mexico;;2010;d6;7,2029443
+Mexico;;2010;d7;8,9363565
+Mexico;;2010;d8;11,466948
+Mexico;;2010;d9;15,920422
+Mexico;;2010;ratio_10_1;22,735953
+Mexico;;2012;d1;1,6026737
+Mexico;;2012;d10;39,590841
+Mexico;;2012;d2;2,7643322
+Mexico;;2012;d3;3,7005262
+Mexico;;2012;d4;4,6780561
+Mexico;;2012;d5;5,6862474
+Mexico;;2012;d6;6,8760374
+Mexico;;2012;d7;8,4998688
+Mexico;;2012;d8;11,008223
+Mexico;;2012;d9;15,593193
+Mexico;;2012;ratio_10_1;24,68477
+Mexico;;2014;d1;1,7353632
+Mexico;;2014;d10;39,482982
+Mexico;;2014;d2;2,9674577
+Mexico;;2014;d3;3,8490235
+Mexico;;2014;d4;4,733565
+Mexico;;2014;d5;5,7380627
+Mexico;;2014;d6;6,9144119
+Mexico;;2014;d7;8,4436804
+Mexico;;2014;d8;10,817218
+Mexico;;2014;d9;15,318236
+Mexico;;2014;ratio_10_1;22,740634
+Nicaragua;;1993;d1;0,72800547
+Nicaragua;;1993;d10;43,737701
+Nicaragua;;1993;d2;1,8015585
+Nicaragua;;1993;d3;2,7869096
+Nicaragua;;1993;d4;3,797025
+Nicaragua;;1993;d5;4,9347453
+Nicaragua;;1993;d6;6,3252034
+Nicaragua;;1993;d7;8,3300571
+Nicaragua;;1993;d8;11,348311
+Nicaragua;;1993;d9;16,210484
+Nicaragua;;1993;ratio_10_1;59,999803
+Nicaragua;;1998;d1;1,0006988
+Nicaragua;;1998;d10;43,345345
+Nicaragua;;1998;d2;2,1994369
+Nicaragua;;1998;d3;3,2551003
+Nicaragua;;1998;d4;4,2025670999999996
+Nicaragua;;1998;d5;5,2437057
+Nicaragua;;1998;d6;6,6036549
+Nicaragua;;1998;d7;8,2273159
+Nicaragua;;1998;d8;10,800605
+Nicaragua;;1998;d9;15,121572
+Nicaragua;;1998;ratio_10_1;43,298723
+Nicaragua;;2001;d1;1,3970588
+Nicaragua;;2001;d10;42,932041
+Nicaragua;;2001;d2;2,528353
+Nicaragua;;2001;d3;3,4360921
+Nicaragua;;2001;d4;4,2738652
+Nicaragua;;2001;d5;5,2660489
+Nicaragua;;2001;d6;6,5596251
+Nicaragua;;2001;d7;8,1641397
+Nicaragua;;2001;d8;10,507664
+Nicaragua;;2001;d9;14,935109
+Nicaragua;;2001;ratio_10_1;30,70947
+Nicaragua;;2005;d1;1,8599025
+Nicaragua;;2005;d10;39,609764
+Nicaragua;;2005;d2;2,9823439
+Nicaragua;;2005;d3;3,7853036
+Nicaragua;;2005;d4;4,7206812
+Nicaragua;;2005;d5;5,7624135
+Nicaragua;;2005;d6;6,9843097
+Nicaragua;;2005;d7;8,5258179
+Nicaragua;;2005;d8;10,776264
+Nicaragua;;2005;d9;14,993199
+Nicaragua;;2005;ratio_10_1;21,290229
+Nicaragua;;2009;d1;1,9847633
+Nicaragua;;2009;d10;34,207016
+Nicaragua;;2009;d2;3,3006864
+Nicaragua;;2009;d3;4,3195362
+Nicaragua;;2009;d4;5,3216538
+Nicaragua;;2009;d5;6,4068518
+Nicaragua;;2009;d6;7,7248254
+Nicaragua;;2009;d7;9,3508463
+Nicaragua;;2009;d8;11,660322
+Nicaragua;;2009;d9;15,723498
+Nicaragua;;2009;ratio_10_1;17,227425
+Nicaragua;;2014;d1;1,9739636
+Nicaragua;;2014;d10;37,219131
+Nicaragua;;2014;d2;3,166657
+Nicaragua;;2014;d3;4,0854483
+Nicaragua;;2014;d4;5,0803943
+Nicaragua;;2014;d5;6,2260356
+Nicaragua;;2014;d6;7,4569407
+Nicaragua;;2014;d7;8,8728628
+Nicaragua;;2014;d8;11,078104
+Nicaragua;;2014;d9;14,840462
+Nicaragua;;2014;ratio_10_1;18,834666
+Panama;With Implicit Rent;2008;d1;1,0303004
+Panama;With Implicit Rent;2008;d10;40,708393
+Panama;With Implicit Rent;2008;d2;2,1443591
+Panama;With Implicit Rent;2008;d3;3,22335
+Panama;With Implicit Rent;2008;d4;4,2644629
+Panama;With Implicit Rent;2008;d5;5,4591036
+Panama;With Implicit Rent;2008;d6;6,8977165
+Panama;With Implicit Rent;2008;d7;8,7168446
+Panama;With Implicit Rent;2008;d8;11,305664
+Panama;With Implicit Rent;2008;d9;16,249807
+Panama;With Implicit Rent;2008;ratio_10_1;39,497681
+Panama;With Implicit Rent;2009;d1;1,2529145
+Panama;With Implicit Rent;2009;d10;40,107994
+Panama;With Implicit Rent;2009;d2;2,2857444
+Panama;With Implicit Rent;2009;d3;3,2711637
+Panama;With Implicit Rent;2009;d4;4,3408899
+Panama;With Implicit Rent;2009;d5;5,4812541
+Panama;With Implicit Rent;2009;d6;6,8728223
+Panama;With Implicit Rent;2009;d7;8,723774
+Panama;With Implicit Rent;2009;d8;11,399009
+Panama;With Implicit Rent;2009;d9;16,264437
+Panama;With Implicit Rent;2009;ratio_10_1;32,008356
+Panama;With Implicit Rent;2010;d1;1,0937257
+Panama;With Implicit Rent;2010;d10;39,644657
+Panama;With Implicit Rent;2010;d2;2,2029598
+Panama;With Implicit Rent;2010;d3;3,3561842
+Panama;With Implicit Rent;2010;d4;4,4647045
+Panama;With Implicit Rent;2010;d5;5,622952
+Panama;With Implicit Rent;2010;d6;7,0056105
+Panama;With Implicit Rent;2010;d7;8,8158646
+Panama;With Implicit Rent;2010;d8;11,411673
+Panama;With Implicit Rent;2010;d9;16,38167
+Panama;With Implicit Rent;2010;ratio_10_1;36,225781
+Panama;With Implicit Rent;2011;d1;1,1436607
+Panama;With Implicit Rent;2011;d10;39,648094
+Panama;With Implicit Rent;2011;d2;2,2952936
+Panama;With Implicit Rent;2011;d3;3,3716171
+Panama;With Implicit Rent;2011;d4;4,465879
+Panama;With Implicit Rent;2011;d5;5,6334586
+Panama;With Implicit Rent;2011;d6;7,0005608
+Panama;With Implicit Rent;2011;d7;8,8478527
+Panama;With Implicit Rent;2011;d8;11,468707
+Panama;With Implicit Rent;2011;d9;16,124878
+Panama;With Implicit Rent;2011;ratio_10_1;34,663729
+Panama;With Implicit Rent;2012;d1;0,99700987
+Panama;With Implicit Rent;2012;d10;39,655479
+Panama;With Implicit Rent;2012;d2;2,2058244
+Panama;With Implicit Rent;2012;d3;3,3541853
+Panama;With Implicit Rent;2012;d4;4,4275885
+Panama;With Implicit Rent;2012;d5;5,6298623
+Panama;With Implicit Rent;2012;d6;7,041883
+Panama;With Implicit Rent;2012;d7;8,833663
+Panama;With Implicit Rent;2012;d8;11,438034
+Panama;With Implicit Rent;2012;d9;16,416473
+Panama;With Implicit Rent;2012;ratio_10_1;39,76788
+Panama;With Implicit Rent;2013;d1;1,1297039
+Panama;With Implicit Rent;2013;d10;39,594391
+Panama;With Implicit Rent;2013;d2;2,2357283
+Panama;With Implicit Rent;2013;d3;3,3064091
+Panama;With Implicit Rent;2013;d4;4,4125152
+Panama;With Implicit Rent;2013;d5;5,6531749
+Panama;With Implicit Rent;2013;d6;7,0682344
+Panama;With Implicit Rent;2013;d7;8,8180475
+Panama;With Implicit Rent;2013;d8;11,429358
+Panama;With Implicit Rent;2013;d9;16,352438
+Panama;With Implicit Rent;2013;ratio_10_1;35,043666
+Panama;With Implicit Rent;2014;d1;1,0575219
+Panama;With Implicit Rent;2014;d10;38,476738
+Panama;With Implicit Rent;2014;d2;2,3201756
+Panama;With Implicit Rent;2014;d3;3,4654021
+Panama;With Implicit Rent;2014;d4;4,6192074
+Panama;With Implicit Rent;2014;d5;5,8142953
+Panama;With Implicit Rent;2014;d6;7,2563906
+Panama;With Implicit Rent;2014;d7;9,0527
+Panama;With Implicit Rent;2014;d8;11,607185
+Panama;With Implicit Rent;2014;d9;16,330385
+Panama;With Implicit Rent;2014;ratio_10_1;36,379728
+Panama;With Implicit Rent;2015;d1;1,1460216
+Panama;With Implicit Rent;2015;d10;39,00666
+Panama;With Implicit Rent;2015;d2;2,3110535
+Panama;With Implicit Rent;2015;d3;3,4503164
+Panama;With Implicit Rent;2015;d4;4,5275054
+Panama;With Implicit Rent;2015;d5;5,6908522
+Panama;With Implicit Rent;2015;d6;7,1467772
+Panama;With Implicit Rent;2015;d7;8,9145012
+Panama;With Implicit Rent;2015;d8;11,529684
+Panama;With Implicit Rent;2015;d9;16,276628
+Panama;With Implicit Rent;2015;ratio_10_1;34,033997
+Panama;With Implicit Rent;2016;d1;1,0840517
+Panama;With Implicit Rent;2016;d10;37,838436
+Panama;With Implicit Rent;2016;d2;2,2792528
+Panama;With Implicit Rent;2016;d3;3,4448144
+Panama;With Implicit Rent;2016;d4;4,5174909
+Panama;With Implicit Rent;2016;d5;5,7060385
+Panama;With Implicit Rent;2016;d6;7,2167468
+Panama;With Implicit Rent;2016;d7;9,0946846
+Panama;With Implicit Rent;2016;d8;11,859416
+Panama;With Implicit Rent;2016;d9;16,95907
+Panama;With Implicit Rent;2016;ratio_10_1;34,87758
+Panama;With Implicit Rent;2017;d1;1,1390237
+Panama;With Implicit Rent;2017;d10;37,652782
+Panama;With Implicit Rent;2017;d2;2,3657603
+Panama;With Implicit Rent;2017;d3;3,502073
+Panama;With Implicit Rent;2017;d4;4,6626363
+Panama;With Implicit Rent;2017;d5;5,9348927
+Panama;With Implicit Rent;2017;d6;7,3614883
+Panama;With Implicit Rent;2017;d7;9,1382046
+Panama;With Implicit Rent;2017;d8;11,790808
+Panama;With Implicit Rent;2017;d9;16,452332
+Panama;With Implicit Rent;2017;ratio_10_1;33,048587
+Panama;With Implicit Rent;2018;d1;1,1794418
+Panama;With Implicit Rent;2018;d10;37,096966
+Panama;With Implicit Rent;2018;d2;2,4115117
+Panama;With Implicit Rent;2018;d3;3,5855277
+Panama;With Implicit Rent;2018;d4;4,6835451
+Panama;With Implicit Rent;2018;d5;5,9563789
+Panama;With Implicit Rent;2018;d6;7,4621758
+Panama;With Implicit Rent;2018;d7;9,318553
+Panama;With Implicit Rent;2018;d8;11,835649
+Panama;With Implicit Rent;2018;d9;16,470251
+Panama;With Implicit Rent;2018;ratio_10_1;31,437395
+Panama;With Implicit Rent;2019;d1;1,2040088
+Panama;With Implicit Rent;2019;d10;38,021282
+Panama;With Implicit Rent;2019;d2;2,4012766
+Panama;With Implicit Rent;2019;d3;3,5162427
+Panama;With Implicit Rent;2019;d4;4,6095858
+Panama;With Implicit Rent;2019;d5;5,8578873
+Panama;With Implicit Rent;2019;d6;7,3106446
+Panama;With Implicit Rent;2019;d7;9,1108313
+Panama;With Implicit Rent;2019;d8;11,631049
+Panama;With Implicit Rent;2019;d9;16,337191
+Panama;With Implicit Rent;2019;ratio_10_1;31,569251
+Panama;With Implicit Rent;2021;d1;1,2685897
+Panama;With Implicit Rent;2021;d10;39,314445
+Panama;With Implicit Rent;2021;d2;2,4497948
+Panama;With Implicit Rent;2021;d3;3,4672401
+Panama;With Implicit Rent;2021;d4;4,4837012
+Panama;With Implicit Rent;2021;d5;5,5689287
+Panama;With Implicit Rent;2021;d6;6,9629693
+Panama;With Implicit Rent;2021;d7;8,796855
+Panama;With Implicit Rent;2021;d8;11,40767
+Panama;With Implicit Rent;2021;d9;16,279806
+Panama;With Implicit Rent;2021;ratio_10_1;30,974353
+Panama;With Implicit Rent;2023;d1;1,2426976
+Panama;With Implicit Rent;2023;d10;36,88691
+Panama;With Implicit Rent;2023;d2;2,5135448
+Panama;With Implicit Rent;2023;d3;3,6252241
+Panama;With Implicit Rent;2023;d4;4,733382
+Panama;With Implicit Rent;2023;d5;5,91874
+Panama;With Implicit Rent;2023;d6;7,3472364
+Panama;With Implicit Rent;2023;d7;9,2527596
+Panama;With Implicit Rent;2023;d8;11,926343
+Panama;With Implicit Rent;2023;d9;16,553162
+Panama;With Implicit Rent;2023;ratio_10_1;29,676791
+Panama;Without Implicit Rent;1989;d1;0,54694688
+Panama;Without Implicit Rent;1989;d10;40,818413
+Panama;Without Implicit Rent;1989;d2;1,6490898
+Panama;Without Implicit Rent;1989;d3;2,7619393
+Panama;Without Implicit Rent;1989;d4;3,9071929
+Panama;Without Implicit Rent;1989;d5;5,2158537
+Panama;Without Implicit Rent;1989;d6;6,8182197
+Panama;Without Implicit Rent;1989;d7;8,7625265
+Panama;Without Implicit Rent;1989;d8;11,949114
+Panama;Without Implicit Rent;1989;d9;17,570705
+Panama;Without Implicit Rent;1989;ratio_10_1;74,598751
+Panama;Without Implicit Rent;1991;d1;0,53246218
+Panama;Without Implicit Rent;1991;d10;41,121109
+Panama;Without Implicit Rent;1991;d2;1,5613674
+Panama;Without Implicit Rent;1991;d3;2,7514577
+Panama;Without Implicit Rent;1991;d4;3,8729076
+Panama;Without Implicit Rent;1991;d5;5,1255345
+Panama;Without Implicit Rent;1991;d6;6,5796776
+Panama;Without Implicit Rent;1991;d7;8,7463484
+Panama;Without Implicit Rent;1991;d8;11,999509
+Panama;Without Implicit Rent;1991;d9;17,709629
+Panama;Without Implicit Rent;1991;ratio_10_1;77,213783
+Panama;Without Implicit Rent;1995;d1;0,64264971
+Panama;Without Implicit Rent;1995;d10;41,89249
+Panama;Without Implicit Rent;1995;d2;1,7994413
+Panama;Without Implicit Rent;1995;d3;2,8317049
+Panama;Without Implicit Rent;1995;d4;3,9106913
+Panama;Without Implicit Rent;1995;d5;5,2055626
+Panama;Without Implicit Rent;1995;d6;6,6390257
+Panama;Without Implicit Rent;1995;d7;8,560173
+Panama;Without Implicit Rent;1995;d8;11,627139
+Panama;Without Implicit Rent;1995;d9;16,891123
+Panama;Without Implicit Rent;1995;ratio_10_1;65,161445
+Panama;Without Implicit Rent;1997;d1;0,59117186
+Panama;Without Implicit Rent;1997;d10;43,261372
+Panama;Without Implicit Rent;1997;d2;1,6870223
+Panama;Without Implicit Rent;1997;d3;2,7575905
+Panama;Without Implicit Rent;1997;d4;3,750463
+Panama;Without Implicit Rent;1997;d5;4,9243951
+Panama;Without Implicit Rent;1997;d6;6,3546467
+Panama;Without Implicit Rent;1997;d7;8,3031979
+Panama;Without Implicit Rent;1997;d8;11,377037
+Panama;Without Implicit Rent;1997;d9;16,993103
+Panama;Without Implicit Rent;1997;ratio_10_1;73,143621
+Panama;Without Implicit Rent;1998;d1;0,64951307
+Panama;Without Implicit Rent;1998;d10;42,393021
+Panama;Without Implicit Rent;1998;d2;1,8622224
+Panama;Without Implicit Rent;1998;d3;2,9023495
+Panama;Without Implicit Rent;1998;d4;3,9588928
+Panama;Without Implicit Rent;1998;d5;5,0979347
+Panama;Without Implicit Rent;1998;d6;6,4800987
+Panama;Without Implicit Rent;1998;d7;8,3781366
+Panama;Without Implicit Rent;1998;d8;11,357823
+Panama;Without Implicit Rent;1998;d9;16,920006
+Panama;Without Implicit Rent;1998;ratio_10_1;65,233301
+Panama;Without Implicit Rent;1999;d1;0,77043468
+Panama;Without Implicit Rent;1999;d10;41,579174
+Panama;Without Implicit Rent;1999;d2;1,9697578
+Panama;Without Implicit Rent;1999;d3;2,9919367
+Panama;Without Implicit Rent;1999;d4;3,985496
+Panama;Without Implicit Rent;1999;d5;5,1329021
+Panama;Without Implicit Rent;1999;d6;6,5416713
+Panama;Without Implicit Rent;1999;d7;8,507287
+Panama;Without Implicit Rent;1999;d8;11,447294
+Panama;Without Implicit Rent;1999;d9;17,074043
+Panama;Without Implicit Rent;1999;ratio_10_1;53,954605
+Panama;Without Implicit Rent;2000;d1;0,70977294
+Panama;Without Implicit Rent;2000;d10;42,717339
+Panama;Without Implicit Rent;2000;d2;1,8183675
+Panama;Without Implicit Rent;2000;d3;2,8172982
+Panama;Without Implicit Rent;2000;d4;3,8519304
+Panama;Without Implicit Rent;2000;d5;5,0143361
+Panama;Without Implicit Rent;2000;d6;6,4366879
+Panama;Without Implicit Rent;2000;d7;8,3838844
+Panama;Without Implicit Rent;2000;d8;11,384347
+Panama;Without Implicit Rent;2000;d9;16,866035
+Panama;Without Implicit Rent;2000;ratio_10_1;60,166038
+Panama;Without Implicit Rent;2001;d1;0,57974344
+Panama;Without Implicit Rent;2001;d10;42,358429
+Panama;Without Implicit Rent;2001;d2;1,5755963
+Panama;Without Implicit Rent;2001;d3;2,6311057
+Panama;Without Implicit Rent;2001;d4;3,7642729
+Panama;Without Implicit Rent;2001;d5;5,0492864
+Panama;Without Implicit Rent;2001;d6;6,5924163
+Panama;Without Implicit Rent;2001;d7;8,6300278
+Panama;Without Implicit Rent;2001;d8;11,655275
+Panama;Without Implicit Rent;2001;d9;17,163849
+Panama;Without Implicit Rent;2001;ratio_10_1;73,036904
+Panama;Without Implicit Rent;2002;d1;0,81544244
+Panama;Without Implicit Rent;2002;d10;42,892273
+Panama;Without Implicit Rent;2002;d2;1,7479593
+Panama;Without Implicit Rent;2002;d3;2,6823335
+Panama;Without Implicit Rent;2002;d4;3,7402442
+Panama;Without Implicit Rent;2002;d5;4,9321051
+Panama;Without Implicit Rent;2002;d6;6,4520764
+Panama;Without Implicit Rent;2002;d7;8,5169706
+Panama;Without Implicit Rent;2002;d8;11,419897
+Panama;Without Implicit Rent;2002;d9;16,800699
+Panama;Without Implicit Rent;2002;ratio_10_1;52,593285
+Panama;Without Implicit Rent;2003;d1;0,79259026
+Panama;Without Implicit Rent;2003;d10;42,099552
+Panama;Without Implicit Rent;2003;d2;1,753355
+Panama;Without Implicit Rent;2003;d3;2,7727773
+Panama;Without Implicit Rent;2003;d4;3,8270788
+Panama;Without Implicit Rent;2003;d5;5,0037379
+Panama;Without Implicit Rent;2003;d6;6,5103374
+Panama;Without Implicit Rent;2003;d7;8,513196
+Panama;Without Implicit Rent;2003;d8;11,499544
+Panama;Without Implicit Rent;2003;d9;17,227831
+Panama;Without Implicit Rent;2003;ratio_10_1;53,104298
+Panama;Without Implicit Rent;2004;d1;0,84528714
+Panama;Without Implicit Rent;2004;d10;41,180656
+Panama;Without Implicit Rent;2004;d2;1,8155214
+Panama;Without Implicit Rent;2004;d3;2,8299592
+Panama;Without Implicit Rent;2004;d4;3,866225
+Panama;Without Implicit Rent;2004;d5;5,1080494
+Panama;Without Implicit Rent;2004;d6;6,6334214
+Panama;Without Implicit Rent;2004;d7;8,5965757
+Panama;Without Implicit Rent;2004;d8;11,6615
+Panama;Without Implicit Rent;2004;d9;17,462801
+Panama;Without Implicit Rent;2004;ratio_10_1;48,697883
+Panama;Without Implicit Rent;2005;d1;0,89497298
+Panama;Without Implicit Rent;2005;d10;40,093819
+Panama;Without Implicit Rent;2005;d2;1,9326131
+Panama;Without Implicit Rent;2005;d3;2,9572651
+Panama;Without Implicit Rent;2005;d4;3,9763696
+Panama;Without Implicit Rent;2005;d5;5,2377548
+Panama;Without Implicit Rent;2005;d6;6,7227869
+Panama;Without Implicit Rent;2005;d7;8,8238668
+Panama;Without Implicit Rent;2005;d8;11,900434
+Panama;Without Implicit Rent;2005;d9;17,460117
+Panama;Without Implicit Rent;2005;ratio_10_1;44,779875
+Panama;Without Implicit Rent;2006;d1;0,77567261
+Panama;Without Implicit Rent;2006;d10;41,047333
+Panama;Without Implicit Rent;2006;d2;1,8173275
+Panama;Without Implicit Rent;2006;d3;2,8970854
+Panama;Without Implicit Rent;2006;d4;3,9731915
+Panama;Without Implicit Rent;2006;d5;5,1872005
+Panama;Without Implicit Rent;2006;d6;6,6312208
+Panama;Without Implicit Rent;2006;d7;8,7200212
+Panama;Without Implicit Rent;2006;d8;11,666205
+Panama;Without Implicit Rent;2006;d9;17,28474
+Panama;Without Implicit Rent;2006;ratio_10_1;52,911292
+Panama;Without Implicit Rent;2007;d1;0,98260009
+Panama;Without Implicit Rent;2007;d10;39,704712
+Panama;Without Implicit Rent;2007;d2;2,0115733
+Panama;Without Implicit Rent;2007;d3;3,0849299
+Panama;Without Implicit Rent;2007;d4;4,1801796
+Panama;Without Implicit Rent;2007;d5;5,4439788
+Panama;Without Implicit Rent;2007;d6;6,9781241
+Panama;Without Implicit Rent;2007;d7;8,9537191
+Panama;Without Implicit Rent;2007;d8;11,76758
+Panama;Without Implicit Rent;2007;d9;16,892601
+Panama;Without Implicit Rent;2007;ratio_10_1;40,396456
+Panama;Without Implicit Rent;2008;d1;0,93992788
+Panama;Without Implicit Rent;2008;d10;40,598843
+Panama;Without Implicit Rent;2008;d2;2,0420394
+Panama;Without Implicit Rent;2008;d3;3,1560271
+Panama;Without Implicit Rent;2008;d4;4,2119312
+Panama;Without Implicit Rent;2008;d5;5,4520159
+Panama;Without Implicit Rent;2008;d6;6,9599843
+Panama;Without Implicit Rent;2008;d7;8,810462
+Panama;Without Implicit Rent;2008;d8;11,417885
+Panama;Without Implicit Rent;2008;d9;16,410885
+Panama;Without Implicit Rent;2008;ratio_10_1;43,185275
+Paraguay;Asuncion;1990;d1;2,195652
+Paraguay;Asuncion;1990;d10;30,775339
+Paraguay;Asuncion;1990;d2;3,5938885
+Paraguay;Asuncion;1990;d3;4,6205969
+Paraguay;Asuncion;1990;d4;5,6372356
+Paraguay;Asuncion;1990;d5;6,651546
+Paraguay;Asuncion;1990;d6;7,9017067
+Paraguay;Asuncion;1990;d7;9,7277842
+Paraguay;Asuncion;1990;d8;12,555937
+Paraguay;Asuncion;1990;d9;16,340315
+Paraguay;Asuncion;1990;ratio_10_1;13,985077
+Paraguay;Asuncion;1995;d1;1,7898095
+Paraguay;Asuncion;1995;d10;38,544346
+Paraguay;Asuncion;1995;d2;2,8064957
+Paraguay;Asuncion;1995;d3;3,6582479
+Paraguay;Asuncion;1995;d4;4,6308107
+Paraguay;Asuncion;1995;d5;5,6407218
+Paraguay;Asuncion;1995;d6;6,944747
+Paraguay;Asuncion;1995;d7;8,6513882
+Paraguay;Asuncion;1995;d8;10,99303
+Paraguay;Asuncion;1995;d9;16,340401
+Paraguay;Asuncion;1995;ratio_10_1;21,485209
+Paraguay;EPH Continua;2022;d1;1,7494711
+Paraguay;EPH Continua;2022;d10;34,279029
+Paraguay;EPH Continua;2022;d2;3,1376937
+Paraguay;EPH Continua;2022;d3;4,1753353
+Paraguay;EPH Continua;2022;d4;5,2055866
+Paraguay;EPH Continua;2022;d5;6,3469852
+Paraguay;EPH Continua;2022;d6;7,733571
+Paraguay;EPH Continua;2022;d7;9,4973598
+Paraguay;EPH Continua;2022;d8;11,892069
+Paraguay;EPH Continua;2022;d9;15,982899
+Paraguay;EPH Continua;2022;ratio_10_1;19,592012
+Paraguay;EPH Continua;2023;d1;1,852808
+Paraguay;EPH Continua;2023;d10;34,44853
+Paraguay;EPH Continua;2023;d2;3,240228
+Paraguay;EPH Continua;2023;d3;4,26649
+Paraguay;EPH Continua;2023;d4;5,302306
+Paraguay;EPH Continua;2023;d5;6,418159
+Paraguay;EPH Continua;2023;d6;7,739214
+Paraguay;EPH Continua;2023;d7;9,435378
+Paraguay;EPH Continua;2023;d8;11,77385
+Paraguay;EPH Continua;2023;d9;15,52304
+Paraguay;EPH Continua;2023;ratio_10_1;18,58523
+Paraguay;EPH Continua;2024;d1;1,872418
+Paraguay;EPH Continua;2024;d10;35,23672
+Paraguay;EPH Continua;2024;d2;3,246669
+Paraguay;EPH Continua;2024;d3;4,258978
+Paraguay;EPH Continua;2024;d4;5,289539
+Paraguay;EPH Continua;2024;d5;6,408474
+Paraguay;EPH Continua;2024;d6;7,682639
+Paraguay;EPH Continua;2024;d7;9,266016
+Paraguay;EPH Continua;2024;d8;11,44652
+Paraguay;EPH Continua;2024;d9;15,29203
+Paraguay;EPH Continua;2024;ratio_10_1;18,81168
+Paraguay;National;1995;d1;0,78268147
+Paraguay;National;1995;d10;45,990345
+Paraguay;National;1995;d2;1,6942688
+Paraguay;National;1995;d3;2,6015966
+Paraguay;National;1995;d4;3,5900142
+Paraguay;National;1995;d5;4,7714701
+Paraguay;National;1995;d6;6,2080135
+Paraguay;National;1995;d7;8,0523338
+Paraguay;National;1995;d8;10,683043
+Paraguay;National;1995;d9;15,626232
+Paraguay;National;1995;ratio_10_1;58,740778
+Paraguay;National;1997;d1;0,74974531
+Paraguay;National;1997;d10;41,415745
+Paraguay;National;1997;d2;1,7898537
+Paraguay;National;1997;d3;2,7235458
+Paraguay;National;1997;d4;3,8719101
+Paraguay;National;1997;d5;5,2233176
+Paraguay;National;1997;d6;6,9012051
+Paraguay;National;1997;d7;8,8026667
+Paraguay;National;1997;d8;11,560484
+Paraguay;National;1997;d9;16,961529
+Paraguay;National;1997;ratio_10_1;55,215871
+Paraguay;National;1999;d1;0,90034336
+Paraguay;National;1999;d10;42,07539
+Paraguay;National;1999;d2;1,9827369
+Paraguay;National;1999;d3;3,0291481
+Paraguay;National;1999;d4;4,0639739
+Paraguay;National;1999;d5;5,1676779
+Paraguay;National;1999;d6;6,6403108
+Paraguay;National;1999;d7;8,4477901
+Paraguay;National;1999;d8;11,241112
+Paraguay;National;1999;d9;16,451513
+Paraguay;National;1999;ratio_10_1;46,714554
+Paraguay;National;2001;d1;0,98332298
+Paraguay;National;2001;d10;43,071209
+Paraguay;National;2001;d2;2,0790994
+Paraguay;National;2001;d3;3,0275168
+Paraguay;National;2001;d4;4,0690684
+Paraguay;National;2001;d5;5,2629685
+Paraguay;National;2001;d6;6,585917
+Paraguay;National;2001;d7;8,2426825
+Paraguay;National;2001;d8;10,879365
+Paraguay;National;2001;d9;15,798853
+Paraguay;National;2001;ratio_10_1;43,721961
+Paraguay;National;2002;d1;0,95985162
+Paraguay;National;2002;d10;46,162628
+Paraguay;National;2002;d2;1,9496348
+Paraguay;National;2002;d3;2,8418326
+Paraguay;National;2002;d4;3,7728333
+Paraguay;National;2002;d5;4,9031715
+Paraguay;National;2002;d6;6,2000341
+Paraguay;National;2002;d7;7,9698925
+Paraguay;National;2002;d8;10,35308
+Paraguay;National;2002;d9;14,887043
+Paraguay;National;2002;ratio_10_1;48,081524
+Paraguay;National;2003;d1;1,1639235
+Paraguay;National;2003;d10;44,0881
+Paraguay;National;2003;d2;2,2133954
+Paraguay;National;2003;d3;3,1097407
+Paraguay;National;2003;d4;4,0049753
+Paraguay;National;2003;d5;5,0705905
+Paraguay;National;2003;d6;6,3062525
+Paraguay;National;2003;d7;8,0437288
+Paraguay;National;2003;d8;10,66078
+Paraguay;National;2003;d9;15,338514
+Paraguay;National;2003;ratio_10_1;37,865538
+Paraguay;National;2004;d1;1,4497334
+Paraguay;National;2004;d10;41,980457
+Paraguay;National;2004;d2;2,5333066
+Paraguay;National;2004;d3;3,4499764
+Paraguay;National;2004;d4;4,3387713
+Paraguay;National;2004;d5;5,348289
+Paraguay;National;2004;d6;6,6167307
+Paraguay;National;2004;d7;8,3012466
+Paraguay;National;2004;d8;10,714926
+Paraguay;National;2004;d9;15,266562
+Paraguay;National;2004;ratio_10_1;28,946361
+Paraguay;National;2005;d1;1,3260375
+Paraguay;National;2005;d10;40,439247
+Paraguay;National;2005;d2;2,5776322
+Paraguay;National;2005;d3;3,4735034
+Paraguay;National;2005;d4;4,4628978
+Paraguay;National;2005;d5;5,4910636
+Paraguay;National;2005;d6;6,687562
+Paraguay;National;2005;d7;8,4939585
+Paraguay;National;2005;d8;11,159082
+Paraguay;National;2005;d9;15,889016
+Paraguay;National;2005;ratio_10_1;30,480795
+Paraguay;National;2006;d1;1,2679663
+Paraguay;National;2006;d10;42,406616
+Paraguay;National;2006;d2;2,3055255
+Paraguay;National;2006;d3;3,3068199
+Paraguay;National;2006;d4;4,2855749
+Paraguay;National;2006;d5;5,39609
+Paraguay;National;2006;d6;6,6946697
+Paraguay;National;2006;d7;8,4324694
+Paraguay;National;2006;d8;10,763271
+Paraguay;National;2006;d9;15,140997
+Paraguay;National;2006;ratio_10_1;33,437996
+Paraguay;National;2007;d1;1,1926329
+Paraguay;National;2007;d10;42,545502
+Paraguay;National;2007;d2;2,384975
+Paraguay;National;2007;d3;3,4026279
+Paraguay;National;2007;d4;4,3473105
+Paraguay;National;2007;d5;5,4240637
+Paraguay;National;2007;d6;6,7018137
+Paraguay;National;2007;d7;8,2549763
+Paraguay;National;2007;d8;10,66915
+Paraguay;National;2007;d9;15,076948
+Paraguay;National;2007;ratio_10_1;35,617178
+Paraguay;National;2008;d1;1,4996519
+Paraguay;National;2008;d10;40,100388
+Paraguay;National;2008;d2;2,5872252
+Paraguay;National;2008;d3;3,5466623
+Paraguay;National;2008;d4;4,4715281
+Paraguay;National;2008;d5;5,5340223
+Paraguay;National;2008;d6;6,8741026
+Paraguay;National;2008;d7;8,6201563
+Paraguay;National;2008;d8;11,134608
+Paraguay;National;2008;d9;15,631654
+Paraguay;National;2008;ratio_10_1;26,722955
+Paraguay;National;2009;d1;1,4104846
+Paraguay;National;2009;d10;38,061291
+Paraguay;National;2009;d2;2,6106918
+Paraguay;National;2009;d3;3,6243064
+Paraguay;National;2009;d4;4,7507434
+Paraguay;National;2009;d5;5,9338264
+Paraguay;National;2009;d6;7,2815528
+Paraguay;National;2009;d7;8,9957657
+Paraguay;National;2009;d8;11,509685
+Paraguay;National;2009;d9;15,821656
+Paraguay;National;2009;ratio_10_1;26,972862
+Paraguay;National;2010;d1;1,2771739
+Paraguay;National;2010;d10;40,492104
+Paraguay;National;2010;d2;2,5066352
+Paraguay;National;2010;d3;3,5453033
+Paraguay;National;2010;d4;4,5755501
+Paraguay;National;2010;d5;5,7526875
+Paraguay;National;2010;d6;7,0636826
+Paraguay;National;2010;d7;8,6787491
+Paraguay;National;2010;d8;10,98923
+Paraguay;National;2010;d9;15,118889
+Paraguay;National;2010;ratio_10_1;31,68941
+Paraguay;National;2011;d1;1,1932985
+Paraguay;National;2011;d10;41,356159
+Paraguay;National;2011;d2;2,3558457
+Paraguay;National;2011;d3;3,3444016
+Paraguay;National;2011;d4;4,3232007
+Paraguay;National;2011;d5;5,5729303
+Paraguay;National;2011;d6;6,9082427
+Paraguay;National;2011;d7;8,5492458
+Paraguay;National;2011;d8;11,037821
+Paraguay;National;2011;d9;15,358853
+Paraguay;National;2011;ratio_10_1;34,630289
+Paraguay;National;2012;d1;1,474715
+Paraguay;National;2012;d10;36,881916
+Paraguay;National;2012;d2;2,7027354
+Paraguay;National;2012;d3;3,8497841
+Paraguay;National;2012;d4;4,9017973
+Paraguay;National;2012;d5;6,1804218
+Paraguay;National;2012;d6;7,605762
+Paraguay;National;2012;d7;9,2470455
+Paraguay;National;2012;d8;11,493254
+Paraguay;National;2012;d9;15,662571
+Paraguay;National;2012;ratio_10_1;24,997627
+Paraguay;National;2013;d1;1,5963373
+Paraguay;National;2013;d10;37,293213
+Paraguay;National;2013;d2;2,8234713
+Paraguay;National;2013;d3;3,8022408
+Paraguay;National;2013;d4;4,8153858
+Paraguay;National;2013;d5;5,8720117
+Paraguay;National;2013;d6;7,2525997
+Paraguay;National;2013;d7;9,1666546
+Paraguay;National;2013;d8;11,62325
+Paraguay;National;2013;d9;15,754835
+Paraguay;National;2013;ratio_10_1;23,356093
+Paraguay;National;2014;d1;1,4362876
+Paraguay;National;2014;d10;40,706539
+Paraguay;National;2014;d2;2,5953658
+Paraguay;National;2014;d3;3,6365106
+Paraguay;National;2014;d4;4,6440601
+Paraguay;National;2014;d5;5,6850939
+Paraguay;National;2014;d6;6,9227138
+Paraguay;National;2014;d7;8,6145668
+Paraguay;National;2014;d8;10,829702
+Paraguay;National;2014;d9;14,929161
+Paraguay;National;2014;ratio_10_1;28,326203
+Paraguay;National;2015;d1;1,5719547
+Paraguay;National;2015;d10;36,730507
+Paraguay;National;2015;d2;2,7662258
+Paraguay;National;2015;d3;3,8513682
+Paraguay;National;2015;d4;4,8832994
+Paraguay;National;2015;d5;6,0190458
+Paraguay;National;2015;d6;7,3348045
+Paraguay;National;2015;d7;9,1588154
+Paraguay;National;2015;d8;11,675427
+Paraguay;National;2015;d9;16,008553
+Paraguay;National;2015;ratio_10_1;23,359169
+Paraguay;National;2016;d1;1,6324251
+Paraguay;National;2016;d10;37,350483
+Paraguay;National;2016;d2;2,8549821
+Paraguay;National;2016;d3;3,8340874
+Paraguay;National;2016;d4;4,8008652
+Paraguay;National;2016;d5;5,9411073
+Paraguay;National;2016;d6;7,2757421
+Paraguay;National;2016;d7;9,0174294
+Paraguay;National;2016;d8;11,56588
+Paraguay;National;2016;d9;15,727
+Paraguay;National;2016;ratio_10_1;22,875577
+Paraguay;National;2017;d1;1,7711734
+Paraguay;National;2017;d10;39,073719
+Paraguay;National;2017;d2;2,9165709
+Paraguay;National;2017;d3;3,8842266
+Paraguay;National;2017;d4;4,8085561
+Paraguay;National;2017;d5;5,8377247
+Paraguay;National;2017;d6;7,1116571
+Paraguay;National;2017;d7;8,814992
+Paraguay;National;2017;d8;10,99198
+Paraguay;National;2017;d9;14,789399
+Paraguay;National;2017;ratio_10_1;22,052235
+Paraguay;National;2018;d1;1,6711777
+Paraguay;National;2018;d10;35,881443
+Paraguay;National;2018;d2;3,0069697
+Paraguay;National;2018;d3;4,0734363
+Paraguay;National;2018;d4;5,0872188
+Paraguay;National;2018;d5;6,2227063
+Paraguay;National;2018;d6;7,4079452
+Paraguay;National;2018;d7;9,2225542
+Paraguay;National;2018;d8;11,628454
+Paraguay;National;2018;d9;15,798094
+Paraguay;National;2018;ratio_10_1;21,465832
+Paraguay;National;2019;d1;1,794124
+Paraguay;National;2019;d10;35,203976
+Paraguay;National;2019;d2;3,0484278
+Paraguay;National;2019;d3;4,0770273
+Paraguay;National;2019;d4;5,1323538
+Paraguay;National;2019;d5;6,2267079
+Paraguay;National;2019;d6;7,4927783
+Paraguay;National;2019;d7;9,2566814
+Paraguay;National;2019;d8;11,811203
+Paraguay;National;2019;d9;15,956721
+Paraguay;National;2019;ratio_10_1;19,604125
+Paraguay;National;2020;d1;2,029139
+Paraguay;National;2020;d10;33,307995
+Paraguay;National;2020;d2;3,2316389
+Paraguay;National;2020;d3;4,2701559
+Paraguay;National;2020;d4;5,3202872
+Paraguay;National;2020;d5;6,4808469
+Paraguay;National;2020;d6;7,8859644
+Paraguay;National;2020;d7;9,4906216
+Paraguay;National;2020;d8;12,004036
+Paraguay;National;2020;d9;15,979313
+Paraguay;National;2020;ratio_10_1;16,406661
+Paraguay;National;2021;d1;2,1209838
+Paraguay;National;2021;d10;33,148968
+Paraguay;National;2021;d2;3,358732
+Paraguay;National;2021;d3;4,3552413
+Paraguay;National;2021;d4;5,3944278
+Paraguay;National;2021;d5;6,5509863
+Paraguay;National;2021;d6;7,8342075
+Paraguay;National;2021;d7;9,6054964
+Paraguay;National;2021;d8;11,850019
+Paraguay;National;2021;d9;15,78094
+Paraguay;National;2021;ratio_10_1;15,62335
+Paraguay;National;2022;d1;1,847548
+Paraguay;National;2022;d10;35,350653
+Paraguay;National;2022;d2;3,2017225
+Paraguay;National;2022;d3;4,2411031
+Paraguay;National;2022;d4;5,2284941
+Paraguay;National;2022;d5;6,2366473
+Paraguay;National;2022;d6;7,6193505
+Paraguay;National;2022;d7;9,3156262
+Paraguay;National;2022;d8;11,511973
+Paraguay;National;2022;d9;15,446883
+Paraguay;National;2022;ratio_10_1;19,130318
+Peru;ENAHO 1;1997;d1;0,95137221
+Peru;ENAHO 1;1997;d10;40,80299
+Peru;ENAHO 1;1997;d2;2,0156193
+Peru;ENAHO 1;1997;d3;3,0282702
+Peru;ENAHO 1;1997;d4;4,1600208
+Peru;ENAHO 1;1997;d5;5,4664407
+Peru;ENAHO 1;1997;d6;6,9371367
+Peru;ENAHO 1;1997;d7;8,8091335
+Peru;ENAHO 1;1997;d8;11,573204
+Peru;ENAHO 1;1997;d9;16,255812
+Peru;ENAHO 1;1997;ratio_10_1;42,851749
+Peru;ENAHO 1;1998;d1;0,92511392
+Peru;ENAHO 1;1998;d10;43,554951
+Peru;ENAHO 1;1998;d2;1,9911407
+Peru;ENAHO 1;1998;d3;2,9815466
+Peru;ENAHO 1;1998;d4;4,0509996
+Peru;ENAHO 1;1998;d5;5,1631341
+Peru;ENAHO 1;1998;d6;6,4852057
+Peru;ENAHO 1;1998;d7;8,2334738
+Peru;ENAHO 1;1998;d8;10,838112
+Peru;ENAHO 1;1998;d9;15,719718
+Peru;ENAHO 1;1998;ratio_10_1;47,048817
+Peru;ENAHO 1;1999;d1;0,94409406
+Peru;ENAHO 1;1999;d10;43,632797
+Peru;ENAHO 1;1999;d2;1,9916112
+Peru;ENAHO 1;1999;d3;3,0332339
+Peru;ENAHO 1;1999;d4;4,0420094
+Peru;ENAHO 1;1999;d5;5,2049379
+Peru;ENAHO 1;1999;d6;6,5346003
+Peru;ENAHO 1;1999;d7;8,442956
+Peru;ENAHO 1;1999;d8;10,855443
+Peru;ENAHO 1;1999;d9;15,318317
+Peru;ENAHO 1;1999;ratio_10_1;46,190169
+Peru;ENAHO 1;2000;d1;1,1692502
+Peru;ENAHO 1;2000;d10;36,775406
+Peru;ENAHO 1;2000;d2;2,3605504
+Peru;ENAHO 1;2000;d3;3,4815755
+Peru;ENAHO 1;2000;d4;4,700727
+Peru;ENAHO 1;2000;d5;6,0068312
+Peru;ENAHO 1;2000;d6;7,5639162
+Peru;ENAHO 1;2000;d7;9,3908911
+Peru;ENAHO 1;2000;d8;12,073428
+Peru;ENAHO 1;2000;d9;16,477427
+Peru;ENAHO 1;2000;ratio_10_1;31,434761
+Peru;ENAHO 2;2001;d1;1,1547705
+Peru;ENAHO 2;2001;d10;39,133129
+Peru;ENAHO 2;2001;d2;2,252305
+Peru;ENAHO 2;2001;d3;3,2804
+Peru;ENAHO 2;2001;d4;4,391295
+Peru;ENAHO 2;2001;d5;5,6079206
+Peru;ENAHO 2;2001;d6;7,1390486
+Peru;ENAHO 2;2001;d7;9,0440321
+Peru;ENAHO 2;2001;d8;11,667302
+Peru;ENAHO 2;2001;d9;16,329794
+Peru;ENAHO 2;2001;ratio_10_1;33,882287
+Peru;ENAHO 2;2002;d1;1,081583
+Peru;ENAHO 2;2002;d10;41,963562
+Peru;ENAHO 2;2002;d2;2,1352844
+Peru;ENAHO 2;2002;d3;3,1234398
+Peru;ENAHO 2;2002;d4;4,1499619
+Peru;ENAHO 2;2002;d5;5,359951
+Peru;ENAHO 2;2002;d6;6,793314
+Peru;ENAHO 2;2002;d7;8,5568609
+Peru;ENAHO 2;2002;d8;11,077093
+Peru;ENAHO 2;2002;d9;15,662283
+Peru;ENAHO 2;2002;ratio_10_1;38,797452
+Peru;ENAHO 2;2003;d1;1,3712357
+Peru;ENAHO 2;2003;d10;39,549164
+Peru;ENAHO 2;2003;d2;2,4433758
+Peru;ENAHO 2;2003;d3;3,4399409
+Peru;ENAHO 2;2003;d4;4,5222292
+Peru;ENAHO 2;2003;d5;5,6339927
+Peru;ENAHO 2;2003;d6;6,9685354
+Peru;ENAHO 2;2003;d7;8,865921
+Peru;ENAHO 2;2003;d8;11,364841
+Peru;ENAHO 2;2003;d9;15,840764
+Peru;ENAHO 2;2003;ratio_10_1;28,830596
+Peru;ENAHO 3;2003;d1;1,2997774
+Peru;ENAHO 3;2003;d10;42,198414
+Peru;ENAHO 3;2003;d2;2,317034
+Peru;ENAHO 3;2003;d3;3,1909678
+Peru;ENAHO 3;2003;d4;4,1795468
+Peru;ENAHO 3;2003;d5;5,3128018
+Peru;ENAHO 3;2003;d6;6,6786208
+Peru;ENAHO 3;2003;d7;8,3789692
+Peru;ENAHO 3;2003;d8;10,919161
+Peru;ENAHO 3;2003;d9;15,524705
+Peru;ENAHO 3;2003;ratio_10_1;32,458457
+Peru;ENAHO 3;2004;d1;1,3038714
+Peru;ENAHO 3;2004;d10;37,962322
+Peru;ENAHO 3;2004;d2;2,4019027
+Peru;ENAHO 3;2004;d3;3,4046249
+Peru;ENAHO 3;2004;d4;4,5627761
+Peru;ENAHO 3;2004;d5;5,8460255
+Peru;ENAHO 3;2004;d6;7,3014479
+Peru;ENAHO 3;2004;d7;9,1094503
+Peru;ENAHO 3;2004;d8;11,716715
+Peru;ENAHO 3;2004;d9;16,390865
+Peru;ENAHO 3;2004;ratio_10_1;29,094407
+Peru;ENAHO 3;2005;d1;1,2404262
+Peru;ENAHO 3;2005;d10;38,513809
+Peru;ENAHO 3;2005;d2;2,3231397
+Peru;ENAHO 3;2005;d3;3,3524835
+Peru;ENAHO 3;2005;d4;4,4669142
+Peru;ENAHO 3;2005;d5;5,7556348
+Peru;ENAHO 3;2005;d6;7,2833738
+Peru;ENAHO 3;2005;d7;9,1390438
+Peru;ENAHO 3;2005;d8;11,693226
+Peru;ENAHO 3;2005;d9;16,231949
+Peru;ENAHO 3;2005;ratio_10_1;31,047485
+Peru;ENAHO 3;2006;d1;1,1884664
+Peru;ENAHO 3;2006;d10;38,164234
+Peru;ENAHO 3;2006;d2;2,2686822
+Peru;ENAHO 3;2006;d3;3,3471804
+Peru;ENAHO 3;2006;d4;4,5048003
+Peru;ENAHO 3;2006;d5;5,8233953
+Peru;ENAHO 3;2006;d6;7,3524513
+Peru;ENAHO 3;2006;d7;9,2315474
+Peru;ENAHO 3;2006;d8;11,827107
+Peru;ENAHO 3;2006;d9;16,292135
+Peru;ENAHO 3;2006;ratio_10_1;32,096488
+Peru;ENAHO 3;2007;d1;1,1836619
+Peru;ENAHO 3;2007;d10;37,396034
+Peru;ENAHO 3;2007;d2;2,2736015
+Peru;ENAHO 3;2007;d3;3,3774402
+Peru;ENAHO 3;2007;d4;4,5867615
+Peru;ENAHO 3;2007;d5;5,9182343
+Peru;ENAHO 3;2007;d6;7,3947248
+Peru;ENAHO 3;2007;d7;9,2186298
+Peru;ENAHO 3;2007;d8;11,894018
+Peru;ENAHO 3;2007;d9;16,346952
+Peru;ENAHO 3;2007;ratio_10_1;31,605313
+Peru;ENAHO 3;2008;d1;1,3027933
+Peru;ENAHO 3;2008;d10;35,399231
+Peru;ENAHO 3;2008;d2;2,4948819
+Peru;ENAHO 3;2008;d3;3,6966012
+Peru;ENAHO 3;2008;d4;4,8990664
+Peru;ENAHO 3;2008;d5;6,2287579
+Peru;ENAHO 3;2008;d6;7,7995262
+Peru;ENAHO 3;2008;d7;9,6254549
+Peru;ENAHO 3;2008;d8;12,172786
+Peru;ENAHO 3;2008;d9;16,380901
+Peru;ENAHO 3;2008;ratio_10_1;27,169706
+Peru;ENAHO 3;2009;d1;1,4017191
+Peru;ENAHO 3;2009;d10;35,197399
+Peru;ENAHO 3;2009;d2;2,637696
+Peru;ENAHO 3;2009;d3;3,7811971
+Peru;ENAHO 3;2009;d4;4,9487638
+Peru;ENAHO 3;2009;d5;6,2306051
+Peru;ENAHO 3;2009;d6;7,7086782
+Peru;ENAHO 3;2009;d7;9,5678015
+Peru;ENAHO 3;2009;d8;12,127526
+Peru;ENAHO 3;2009;d9;16,398611
+Peru;ENAHO 3;2009;ratio_10_1;25,102382
+Peru;ENAHO 3;2010;d1;1,5259385
+Peru;ENAHO 3;2010;d10;34,222813
+Peru;ENAHO 3;2010;d2;2,7932324
+Peru;ENAHO 3;2010;d3;3,9909782
+Peru;ENAHO 3;2010;d4;5,1920323
+Peru;ENAHO 3;2010;d5;6,4501629
+Peru;ENAHO 3;2010;d6;7,9268432
+Peru;ENAHO 3;2010;d7;9,660078
+Peru;ENAHO 3;2010;d8;12,114288
+Peru;ENAHO 3;2010;d9;16,123636
+Peru;ENAHO 3;2010;ratio_10_1;22,423472
+Peru;ENAHO 3;2011;d1;1,5270319
+Peru;ENAHO 3;2011;d10;33,48
+Peru;ENAHO 3;2011;d2;2,8714156
+Peru;ENAHO 3;2011;d3;4,0685925
+Peru;ENAHO 3;2011;d4;5,3053331
+Peru;ENAHO 3;2011;d5;6,6739459
+Peru;ENAHO 3;2011;d6;8,1081057
+Peru;ENAHO 3;2011;d7;9,8482027
+Peru;ENAHO 3;2011;d8;12,139682
+Peru;ENAHO 3;2011;d9;15,977691
+Peru;ENAHO 3;2011;ratio_10_1;21,922747
+Peru;ENAHO 3;2012;d1;1,4940437
+Peru;ENAHO 3;2012;d10;33,236431
+Peru;ENAHO 3;2012;d2;2,887212
+Peru;ENAHO 3;2012;d3;4,1369252
+Peru;ENAHO 3;2012;d4;5,3649087
+Peru;ENAHO 3;2012;d5;6,6962652
+Peru;ENAHO 3;2012;d6;8,1215611
+Peru;ENAHO 3;2012;d7;9,8241806
+Peru;ENAHO 3;2012;d8;12,1512
+Peru;ENAHO 3;2012;d9;16,070845
+Peru;ENAHO 3;2012;ratio_10_1;22,244938
+Peru;ENAHO 3;2013;d1;1,5657418
+Peru;ENAHO 3;2013;d10;32,658104
+Peru;ENAHO 3;2013;d2;2,9653351
+Peru;ENAHO 3;2013;d3;4,195488
+Peru;ENAHO 3;2013;d4;5,4041133
+Peru;ENAHO 3;2013;d5;6,6928339
+Peru;ENAHO 3;2013;d6;8,1840868
+Peru;ENAHO 3;2013;d7;9,8915911
+Peru;ENAHO 3;2013;d8;12,184228
+Peru;ENAHO 3;2013;d9;16,225246
+Peru;ENAHO 3;2013;ratio_10_1;20,855886
+Peru;ENAHO 3;2014;d1;1,6364449
+Peru;ENAHO 3;2014;d10;32,07814
+Peru;ENAHO 3;2014;d2;3,0535944
+Peru;ENAHO 3;2014;d3;4,2822151
+Peru;ENAHO 3;2014;d4;5,5147095
+Peru;ENAHO 3;2014;d5;6,8003769
+Peru;ENAHO 3;2014;d6;8,2360125
+Peru;ENAHO 3;2014;d7;9,9261742
+Peru;ENAHO 3;2014;d8;12,282103
+Peru;ENAHO 3;2014;d9;16,126945
+Peru;ENAHO 3;2014;ratio_10_1;19,601954
+Peru;ENAHO 3;2015;d1;1,6322099
+Peru;ENAHO 3;2015;d10;32,580906
+Peru;ENAHO 3;2015;d2;3,0953717
+Peru;ENAHO 3;2015;d3;4,349009
+Peru;ENAHO 3;2015;d4;5,535121
+Peru;ENAHO 3;2015;d5;6,7482638
+Peru;ENAHO 3;2015;d6;8,0900965
+Peru;ENAHO 3;2015;d7;9,7331734
+Peru;ENAHO 3;2015;d8;12,112827
+Peru;ENAHO 3;2015;d9;16,090895
+Peru;ENAHO 3;2015;ratio_10_1;19,95393
+Peru;ENAHO 3;2016;d1;1,6214579
+Peru;ENAHO 3;2016;d10;32,561691
+Peru;ENAHO 3;2016;d2;3,0233052
+Peru;ENAHO 3;2016;d3;4,2161989
+Peru;ENAHO 3;2016;d4;5,4753566
+Peru;ENAHO 3;2016;d5;6,700675
+Peru;ENAHO 3;2016;d6;8,106039
+Peru;ENAHO 3;2016;d7;9,8533554
+Peru;ENAHO 3;2016;d8;12,199167
+Peru;ENAHO 3;2016;d9;16,242754
+Peru;ENAHO 3;2016;ratio_10_1;20,076291
+Peru;ENAHO 3;2017;d1;1,6598327
+Peru;ENAHO 3;2017;d10;32,299809
+Peru;ENAHO 3;2017;d2;3,0726528
+Peru;ENAHO 3;2017;d3;4,2820144
+Peru;ENAHO 3;2017;d4;5,4492574
+Peru;ENAHO 3;2017;d5;6,7159247
+Peru;ENAHO 3;2017;d6;8,1682501
+Peru;ENAHO 3;2017;d7;9,9363356
+Peru;ENAHO 3;2017;d8;12,289989
+Peru;ENAHO 3;2017;d9;16,125933
+Peru;ENAHO 3;2017;ratio_10_1;19,458519
+Peru;ENAHO 3;2018;d1;1,7724382
+Peru;ENAHO 3;2018;d10;31,624573
+Peru;ENAHO 3;2018;d2;3,2101157
+Peru;ENAHO 3;2018;d3;4,4080911
+Peru;ENAHO 3;2018;d4;5,5720181
+Peru;ENAHO 3;2018;d5;6,7976618
+Peru;ENAHO 3;2018;d6;8,1633987
+Peru;ENAHO 3;2018;d7;9,8960142
+Peru;ENAHO 3;2018;d8;12,288386
+Peru;ENAHO 3;2018;d9;16,267305
+Peru;ENAHO 3;2018;ratio_10_1;17,842016
+Peru;ENAHO 3;2019;d1;1,8582902
+Peru;ENAHO 3;2019;d10;31,148785
+Peru;ENAHO 3;2019;d2;3,3320363
+Peru;ENAHO 3;2019;d3;4,520854
+Peru;ENAHO 3;2019;d4;5,6737213
+Peru;ENAHO 3;2019;d5;6,8770685
+Peru;ENAHO 3;2019;d6;8,2790718
+Peru;ENAHO 3;2019;d7;10,007289
+Peru;ENAHO 3;2019;d8;12,247272
+Peru;ENAHO 3;2019;d9;16,055613
+Peru;ENAHO 3;2019;ratio_10_1;16,759352
+Peru;ENAHO 3;2020;d1;1,7288461
+Peru;ENAHO 3;2020;d10;32,898254
+Peru;ENAHO 3;2020;d2;3,0696859
+Peru;ENAHO 3;2020;d3;4,240952
+Peru;ENAHO 3;2020;d4;5,3430414
+Peru;ENAHO 3;2020;d5;6,5669293
+Peru;ENAHO 3;2020;d6;7,9942951
+Peru;ENAHO 3;2020;d7;9,7622032
+Peru;ENAHO 3;2020;d8;12,181631
+Peru;ENAHO 3;2020;d9;16,214159
+Peru;ENAHO 3;2020;ratio_10_1;19,028376
+Peru;ENAHO 3;2021;d1;2,1196079
+Peru;ENAHO 3;2021;d10;30,602026
+Peru;ENAHO 3;2021;d2;3,6429374
+Peru;ENAHO 3;2021;d3;4,7341785
+Peru;ENAHO 3;2021;d4;5,7974949
+Peru;ENAHO 3;2021;d5;6,917273
+Peru;ENAHO 3;2021;d6;8,25807
+Peru;ENAHO 3;2021;d7;9,9408274
+Peru;ENAHO 3;2021;d8;12,19373
+Peru;ENAHO 3;2021;d9;15,793854
+Peru;ENAHO 3;2021;ratio_10_1;14,435868
+Peru;ENAHO 3;2022;d1;2,0651333
+Peru;ENAHO 3;2022;d10;30,830322
+Peru;ENAHO 3;2022;d2;3,5778394
+Peru;ENAHO 3;2022;d3;4,6849122
+Peru;ENAHO 3;2022;d4;5,7980928
+Peru;ENAHO 3;2022;d5;6,91048
+Peru;ENAHO 3;2022;d6;8,2442551
+Peru;ENAHO 3;2022;d7;9,8987188
+Peru;ENAHO 3;2022;d8;12,157991
+Peru;ENAHO 3;2022;d9;15,832254
+Peru;ENAHO 3;2022;ratio_10_1;14,920365
+Peru;ENAHO 3;2023;d1;1,9757292
+Peru;ENAHO 3;2023;d10;30,605534
+Peru;ENAHO 3;2023;d2;3,5183337
+Peru;ENAHO 3;2023;d3;4,6618338
+Peru;ENAHO 3;2023;d4;5,7704573
+Peru;ENAHO 3;2023;d5;6,9657397
+Peru;ENAHO 3;2023;d6;8,2801943
+Peru;ENAHO 3;2023;d7;9,9251947
+Peru;ENAHO 3;2023;d8;12,285338
+Peru;ENAHO 3;2023;d9;16,011646
+Peru;ENAHO 3;2023;ratio_10_1;15,486823
+Peru;ENAHO 3;2024;d1;2,0503676
+Peru;ENAHO 3;2024;d10;30,335884
+Peru;ENAHO 3;2024;d2;3,5803518
+Peru;ENAHO 3;2024;d3;4,7373977
+Peru;ENAHO 3;2024;d4;5,8587322
+Peru;ENAHO 3;2024;d5;7,0545878
+Peru;ENAHO 3;2024;d6;8,3870974
+Peru;ENAHO 3;2024;d7;9,9436226
+Peru;ENAHO 3;2024;d8;12,145957
+Peru;ENAHO 3;2024;d9;15,906
+Peru;ENAHO 3;2024;ratio_10_1;14,794379
+Uruguay;National;2006;d1;1,9207718
+Uruguay;National;2006;d10;35,034401
+Uruguay;National;2006;d2;2,9705346
+Uruguay;National;2006;d3;3,8788908
+Uruguay;National;2006;d4;4,9002771
+Uruguay;National;2006;d5;6,0826416
+Uruguay;National;2006;d6;7,4623098
+Uruguay;National;2006;d7;9,2729769
+Uruguay;National;2006;d8;11,906305
+Uruguay;National;2006;d9;16,57089
+Uruguay;National;2006;ratio_10_1;18,23874
+Uruguay;National;2007;d1;1,8764855
+Uruguay;National;2007;d10;35,424706
+Uruguay;National;2007;d2;2,910856
+Uruguay;National;2007;d3;3,8416843
+Uruguay;National;2007;d4;4,8558669
+Uruguay;National;2007;d5;6,0084414
+Uruguay;National;2007;d6;7,427309
+Uruguay;National;2007;d7;9,2687817
+Uruguay;National;2007;d8;11,869001
+Uruguay;National;2007;d9;16,516867
+Uruguay;National;2007;ratio_10_1;18,877276
+Uruguay;National;2008;d1;1,9513714
+Uruguay;National;2008;d10;34,280975
+Uruguay;National;2008;d2;3,0594997
+Uruguay;National;2008;d3;4,0115938
+Uruguay;National;2008;d4;5,0304008
+Uruguay;National;2008;d5;6,2001252
+Uruguay;National;2008;d6;7,6007743
+Uruguay;National;2008;d7;9,4153166
+Uruguay;National;2008;d8;11,946609
+Uruguay;National;2008;d9;16,503334
+Uruguay;National;2008;ratio_10_1;17,565
+Uruguay;National;2009;d1;1,8468606
+Uruguay;National;2009;d10;34,556732
+Uruguay;National;2009;d2;2,9559646
+Uruguay;National;2009;d3;3,9570026
+Uruguay;National;2009;d4;4,9986243
+Uruguay;National;2009;d5;6,183342
+Uruguay;National;2009;d6;7,6270947
+Uruguay;National;2009;d7;9,4363575
+Uruguay;National;2009;d8;12,022588
+Uruguay;National;2009;d9;16,415432
+Uruguay;National;2009;ratio_10_1;18,704815
+Uruguay;National;2010;d1;1,9666111
+Uruguay;National;2010;d10;33,602634
+Uruguay;National;2010;d2;3,0829284
+Uruguay;National;2010;d3;4,0579453
+Uruguay;National;2010;d4;5,131918
+Uruguay;National;2010;d5;6,3011694
+Uruguay;National;2010;d6;7,6905332
+Uruguay;National;2010;d7;9,5310392
+Uruguay;National;2010;d8;12,098486
+Uruguay;National;2010;d9;16,536736
+Uruguay;National;2010;ratio_10_1;17,085957
+Uruguay;National;2011;d1;2,0493646
+Uruguay;National;2011;d10;31,619076
+Uruguay;National;2011;d2;3,3161032
+Uruguay;National;2011;d3;4,3660231
+Uruguay;National;2011;d4;5,4623904
+Uruguay;National;2011;d5;6,6544738
+Uruguay;National;2011;d6;8,047266
+Uruguay;National;2011;d7;9,8068733
+Uruguay;National;2011;d8;12,260003
+Uruguay;National;2011;d9;16,418428
+Uruguay;National;2011;ratio_10_1;15,42753
+Uruguay;National;2012;d1;2,1073034
+Uruguay;National;2012;d10;29,23472
+Uruguay;National;2012;d2;3,4977608
+Uruguay;National;2012;d3;4,6272659
+Uruguay;National;2012;d4;5,7293043
+Uruguay;National;2012;d5;6,9660397
+Uruguay;National;2012;d6;8,4208775
+Uruguay;National;2012;d7;10,20364
+Uruguay;National;2012;d8;12,603101
+Uruguay;National;2012;d9;16,609987
+Uruguay;National;2012;ratio_10_1;13,871055
+Uruguay;National;2013;d1;2,0871327
+Uruguay;National;2013;d10;30,050928
+Uruguay;National;2013;d2;3,4477167
+Uruguay;National;2013;d3;4,5806742
+Uruguay;National;2013;d4;5,7440209
+Uruguay;National;2013;d5;6,9642615
+Uruguay;National;2013;d6;8,3306112
+Uruguay;National;2013;d7;10,033888
+Uruguay;National;2013;d8;12,384773
+Uruguay;National;2013;d9;16,375996
+Uruguay;National;2013;ratio_10_1;14,396538
+Uruguay;National;2014;d1;2,1053617
+Uruguay;National;2014;d10;29,804508
+Uruguay;National;2014;d2;3,4829569
+Uruguay;National;2014;d3;4,6410656
+Uruguay;National;2014;d4;5,7904954
+Uruguay;National;2014;d5;6,999898
+Uruguay;National;2014;d6;8,3737764
+Uruguay;National;2014;d7;10,082939
+Uruguay;National;2014;d8;12,441291
+Uruguay;National;2014;d9;16,277706
+Uruguay;National;2014;ratio_10_1;14,155773
+Uruguay;National;2015;d1;2,1109345
+Uruguay;National;2015;d10;29,817717
+Uruguay;National;2015;d2;3,470737
+Uruguay;National;2015;d3;4,6023889
+Uruguay;National;2015;d4;5,7772193
+Uruguay;National;2015;d5;7,0152817
+Uruguay;National;2015;d6;8,4255762
+Uruguay;National;2015;d7;10,121138
+Uruguay;National;2015;d8;12,427801
+Uruguay;National;2015;d9;16,231209
+Uruguay;National;2015;ratio_10_1;14,123814
+Uruguay;National;2016;d1;2,2001815
+Uruguay;National;2016;d10;29,629574
+Uruguay;National;2016;d2;3,5462177
+Uruguay;National;2016;d3;4,6934137
+Uruguay;National;2016;d4;5,8249865
+Uruguay;National;2016;d5;7,0243359
+Uruguay;National;2016;d6;8,4196234
+Uruguay;National;2016;d7;10,089533
+Uruguay;National;2016;d8;12,384941
+Uruguay;National;2016;d9;16,187193
+Uruguay;National;2016;ratio_10_1;13,465831
+Uruguay;National;2017;d1;2,2759945
+Uruguay;National;2017;d10;29,63636
+Uruguay;National;2017;d2;3,6131771
+Uruguay;National;2017;d3;4,7188244
+Uruguay;National;2017;d4;5,8589931
+Uruguay;National;2017;d5;7,0510559
+Uruguay;National;2017;d6;8,3724566
+Uruguay;National;2017;d7;10,019723
+Uruguay;National;2017;d8;12,344537
+Uruguay;National;2017;d9;16,108877
+Uruguay;National;2017;ratio_10_1;13,019937
+Uruguay;National;2018;d1;2,2744358
+Uruguay;National;2018;d10;29,677902
+Uruguay;National;2018;d2;3,5935261
+Uruguay;National;2018;d3;4,6756797
+Uruguay;National;2018;d4;5,7717419
+Uruguay;National;2018;d5;6,9733458
+Uruguay;National;2018;d6;8,3494949
+Uruguay;National;2018;d7;10,05145
+Uruguay;National;2018;d8;12,411847
+Uruguay;National;2018;d9;16,220575
+Uruguay;National;2018;ratio_10_1;13,047576
+Uruguay;National;2019;d1;2,278012
+Uruguay;National;2019;d10;29,684504
+Uruguay;National;2019;d2;3,5606441
+Uruguay;National;2019;d3;4,6589255
+Uruguay;National;2019;d4;5,790205
+Uruguay;National;2019;d5;7,0047755
+Uruguay;National;2019;d6;8,3785305
+Uruguay;National;2019;d7;10,087805
+Uruguay;National;2019;d8;12,375371
+Uruguay;National;2019;d9;16,181229
+Uruguay;National;2019;ratio_10_1;13,029546
+Uruguay;National;2020;d1;2,1965365
+Uruguay;National;2020;d10;29,874975
+Uruguay;National;2020;d2;3,4937568
+Uruguay;National;2020;d3;4,5768609
+Uruguay;National;2020;d4;5,718411
+Uruguay;National;2020;d5;6,9600129
+Uruguay;National;2020;d6;8,3808193
+Uruguay;National;2020;d7;10,114404
+Uruguay;National;2020;d8;12,41395
+Uruguay;National;2020;d9;16,270273
+Uruguay;National;2020;ratio_10_1;13,599287
+Uruguay;National;2021;d1;2,2142818
+Uruguay;National;2021;d10;30,847559
+Uruguay;National;2021;d2;3,4914961
+Uruguay;National;2021;d3;4,5377846
+Uruguay;National;2021;d4;5,6425829
+Uruguay;National;2021;d5;6,8939857
+Uruguay;National;2021;d6;8,2305174
+Uruguay;National;2021;d7;9,963357
+Uruguay;National;2021;d8;12,208905
+Uruguay;National;2021;d9;15,969529
+Uruguay;National;2021;ratio_10_1;13,922332
+Uruguay;National;2022;d1;2,1655091
+Uruguay;National;2022;d10;30,505375
+Uruguay;National;2022;d2;3,4848281
+Uruguay;National;2022;d3;4,5704979
+Uruguay;National;2022;d4;5,7340467
+Uruguay;National;2022;d5;6,9190593
+Uruguay;National;2022;d6;8,2846952
+Uruguay;National;2022;d7;9,9368361
+Uruguay;National;2022;d8;12,205301
+Uruguay;National;2022;d9;16,193851
+Uruguay;National;2022;ratio_10_1;14,082609
+Uruguay;National;2023;d1;2,1219835
+Uruguay;National;2023;d10;30,772379
+Uruguay;National;2023;d2;3,4536266
+Uruguay;National;2023;d3;4,5754991
+Uruguay;National;2023;d4;5,6981807
+Uruguay;National;2023;d5;6,9005957
+Uruguay;National;2023;d6;8,2376814
+Uruguay;National;2023;d7;9,8537292
+Uruguay;National;2023;d8;12,234084
+Uruguay;National;2023;d9;16,152241
+Uruguay;National;2023;ratio_10_1;14,499874
+Uruguay;Urban;1989;d1;1,9333279
+Uruguay;Urban;1989;d10;32,228703
+Uruguay;Urban;1989;d2;3,3311608
+Uruguay;Urban;1989;d3;4,4359469
+Uruguay;Urban;1989;d4;5,5602026
+Uruguay;Urban;1989;d5;6,7525029
+Uruguay;Urban;1989;d6;8,1143227
+Uruguay;Urban;1989;d7;9,7586555
+Uruguay;Urban;1989;d8;12,037947
+Uruguay;Urban;1989;d9;15,847235
+Uruguay;Urban;1989;ratio_10_1;16,664906
+Uruguay;Urban;1992;d1;1,974292
+Uruguay;Urban;1992;d10;31,384541
+Uruguay;Urban;1992;d2;3,4387183
+Uruguay;Urban;1992;d3;4,5342293
+Uruguay;Urban;1992;d4;5,6236973
+Uruguay;Urban;1992;d5;6,8382568
+Uruguay;Urban;1992;d6;8,2064266
+Uruguay;Urban;1992;d7;9,8796787
+Uruguay;Urban;1992;d8;12,149891
+Uruguay;Urban;1992;d9;15,970268
+Uruguay;Urban;1992;ratio_10_1;15,893757
+Uruguay;Urban;1995;d1;1,9880034
+Uruguay;Urban;1995;d10;30,521097
+Uruguay;Urban;1995;d2;3,4233201
+Uruguay;Urban;1995;d3;4,570241
+Uruguay;Urban;1995;d4;5,6901178
+Uruguay;Urban;1995;d5;6,9314651
+Uruguay;Urban;1995;d6;8,2779198
+Uruguay;Urban;1995;d7;9,9766521
+Uruguay;Urban;1995;d8;12,339769
+Uruguay;Urban;1995;d9;16,281412
+Uruguay;Urban;1995;ratio_10_1;15,349974
+Uruguay;Urban;1996;d1;1,9824877
+Uruguay;Urban;1996;d10;30,358532
+Uruguay;Urban;1996;d2;3,4232321
+Uruguay;Urban;1996;d3;4,6098704
+Uruguay;Urban;1996;d4;5,7715921
+Uruguay;Urban;1996;d5;6,9531407
+Uruguay;Urban;1996;d6;8,2563887
+Uruguay;Urban;1996;d7;9,9597187
+Uruguay;Urban;1996;d8;12,29044
+Uruguay;Urban;1996;d9;16,394598
+Uruguay;Urban;1996;ratio_10_1;15,310723
+Uruguay;Urban;1997;d1;1,9999082
+Uruguay;Urban;1997;d10;31,176878
+Uruguay;Urban;1997;d2;3,3815322
+Uruguay;Urban;1997;d3;4,4912176
+Uruguay;Urban;1997;d4;5,6071563
+Uruguay;Urban;1997;d5;6,8512907
+Uruguay;Urban;1997;d6;8,2034674
+Uruguay;Urban;1997;d7;9,8866291
+Uruguay;Urban;1997;d8;12,208352
+Uruguay;Urban;1997;d9;16,193567
+Uruguay;Urban;1997;ratio_10_1;15,586472
+Uruguay;Urban;1998;d1;1,8665905
+Uruguay;Urban;1998;d10;31,735613
+Uruguay;Urban;1998;d2;3,1868958
+Uruguay;Urban;1998;d3;4,3689852
+Uruguay;Urban;1998;d4;5,5113401
+Uruguay;Urban;1998;d5;6,7671118
+Uruguay;Urban;1998;d6;8,1206236
+Uruguay;Urban;1998;d7;9,8254642
+Uruguay;Urban;1998;d8;12,225637
+Uruguay;Urban;1998;d9;16,391737
+Uruguay;Urban;1998;ratio_10_1;16,99863
+Uruguay;Urban;2000;d1;1,9085977
+Uruguay;Urban;2000;d10;32,198109
+Uruguay;Urban;2000;d2;3,1964788
+Uruguay;Urban;2000;d3;4,2697906
+Uruguay;Urban;2000;d4;5,4161892
+Uruguay;Urban;2000;d5;6,6480675
+Uruguay;Urban;2000;d6;8,0348721
+Uruguay;Urban;2000;d7;9,7394257
+Uruguay;Urban;2000;d8;12,184484
+Uruguay;Urban;2000;d9;16,403986
+Uruguay;Urban;2000;ratio_10_1;16,866886
+Uruguay;Urban;2001;d1;1,8012112
+Uruguay;Urban;2001;d10;33,730568
+Uruguay;Urban;2001;d2;2,9826841
+Uruguay;Urban;2001;d3;4,0159073
+Uruguay;Urban;2001;d4;5,0614705
+Uruguay;Urban;2001;d5;6,2105331
+Uruguay;Urban;2001;d6;7,7061043
+Uruguay;Urban;2001;d7;9,6138716
+Uruguay;Urban;2001;d8;12,195807
+Uruguay;Urban;2001;d9;16,681843
+Uruguay;Urban;2001;ratio_10_1;18,724832
+Uruguay;Urban;2002;d1;1,8145803
+Uruguay;Urban;2002;d10;34,212608
+Uruguay;Urban;2002;d2;2,9296639
+Uruguay;Urban;2002;d3;3,897085
+Uruguay;Urban;2002;d4;4,9576368
+Uruguay;Urban;2002;d5;6,1857891
+Uruguay;Urban;2002;d6;7,6234112
+Uruguay;Urban;2002;d7;9,5317364
+Uruguay;Urban;2002;d8;12,171349
+Uruguay;Urban;2002;d9;16,676142
+Uruguay;Urban;2002;ratio_10_1;18,842154
+Uruguay;Urban;2003;d1;1,9814529
+Uruguay;Urban;2003;d10;34,281563
+Uruguay;Urban;2003;d2;3,0981166
+Uruguay;Urban;2003;d3;3,9784486
+Uruguay;Urban;2003;d4;4,9856038
+Uruguay;Urban;2003;d5;6,2127428
+Uruguay;Urban;2003;d6;7,6063108
+Uruguay;Urban;2003;d7;9,3996897
+Uruguay;Urban;2003;d8;11,95837
+Uruguay;Urban;2003;d9;16,4977
+Uruguay;Urban;2003;ratio_10_1;17,298076
+Uruguay;Urban;2004;d1;1,807555
+Uruguay;Urban;2004;d10;34,679634
+Uruguay;Urban;2004;d2;2,9385529
+Uruguay;Urban;2004;d3;3,8688321
+Uruguay;Urban;2004;d4;4,9013624
+Uruguay;Urban;2004;d5;6,1527615
+Uruguay;Urban;2004;d6;7,5916009
+Uruguay;Urban;2004;d7;9,4166241
+Uruguay;Urban;2004;d8;12,080351
+Uruguay;Urban;2004;d9;16,562727
+Uruguay;Urban;2004;ratio_10_1;19,181875
+Uruguay;Urban;2005;d1;1,8471112
+Uruguay;Urban;2005;d10;33,606136
+Uruguay;Urban;2005;d2;2,9816177
+Uruguay;Urban;2005;d3;4,0155053
+Uruguay;Urban;2005;d4;5,1168818
+Uruguay;Urban;2005;d5;6,3544183
+Uruguay;Urban;2005;d6;7,7798028
+Uruguay;Urban;2005;d7;9,5480433
+Uruguay;Urban;2005;d8;12,143929
+Uruguay;Urban;2005;d9;16,606556
+Uruguay;Urban;2005;ratio_10_1;18,191917
+Uruguay;Urban;2006;d1;1,7989405
+Uruguay;Urban;2006;d10;34,870773
+Uruguay;Urban;2006;d2;2,9251125
+Uruguay;Urban;2006;d3;3,8380778
+Uruguay;Urban;2006;d4;4,8826652
+Uruguay;Urban;2006;d5;6,0903664
+Uruguay;Urban;2006;d6;7,504704
+Uruguay;Urban;2006;d7;9,3460722
+Uruguay;Urban;2006;d8;12,020398
+Uruguay;Urban;2006;d9;16,722891
+Uruguay;Urban;2006;ratio_10_1;19,382822
+Venezuela;;1989;d1;1,8608451
+Venezuela;;1989;d10;31,950554
+Venezuela;;1989;d2;3,2933345
+Venezuela;;1989;d3;4,3810487
+Venezuela;;1989;d4;5,4821444
+Venezuela;;1989;d5;6,7275929
+Venezuela;;1989;d6;8,1477718
+Venezuela;;1989;d7;9,8554859
+Venezuela;;1989;d8;12,164004
+Venezuela;;1989;d9;16,048021
+Venezuela;;1989;ratio_10_1;17,171362
+Venezuela;;1992;d1;1,9850395
+Venezuela;;1992;d10;31,324858
+Venezuela;;1992;d2;3,4994905
+Venezuela;;1992;d3;4,6086788
+Venezuela;;1992;d4;5,6790142
+Venezuela;;1992;d5;6,8398881
+Venezuela;;1992;d6;8,1757927
+Venezuela;;1992;d7;9,7959671
+Venezuela;;1992;d8;12,060986
+Venezuela;;1992;d9;16,030287
+Venezuela;;1992;ratio_10_1;15,779932
+Venezuela;;1995;d1;1,5210505
+Venezuela;;1995;d10;35,35918
+Venezuela;;1995;d2;2,8546
+Venezuela;;1995;d3;3,873203
+Venezuela;;1995;d4;4,9723725
+Venezuela;;1995;d5;6,196537
+Venezuela;;1995;d6;7,5918069
+Venezuela;;1995;d7;9,4191828
+Venezuela;;1995;d8;11,930556
+Venezuela;;1995;d9;16,281509
+Venezuela;;1995;ratio_10_1;23,245238
+Venezuela;;1998;d1;1,3289495
+Venezuela;;1998;d10;35,438332
+Venezuela;;1998;d2;2,757432
+Venezuela;;1998;d3;3,807467
+Venezuela;;1998;d4;4,8990855
+Venezuela;;1998;d5;6,1660886
+Venezuela;;1998;d6;7,6347632
+Venezuela;;1998;d7;9,4122276
+Venezuela;;1998;d8;11,965011
+Venezuela;;1998;d9;16,590641
+Venezuela;;1998;ratio_10_1;26,66043
+Venezuela;;1999;d1;1,3879136
+Venezuela;;1999;d10;35,68853
+Venezuela;;1999;d2;2,7913039
+Venezuela;;1999;d3;3,8725202
+Venezuela;;1999;d4;4,9845161
+Venezuela;;1999;d5;6,1800389
+Venezuela;;1999;d6;7,6003499
+Venezuela;;1999;d7;9,3615351
+Venezuela;;1999;d8;11,860726
+Venezuela;;1999;d9;16,272562
+Venezuela;;1999;ratio_10_1;25,709155
+Venezuela;;2001;d1;1,5047331
+Venezuela;;2001;d10;34,948521
+Venezuela;;2001;d2;2,8844185
+Venezuela;;2001;d3;3,9299624
+Venezuela;;2001;d4;4,9854169
+Venezuela;;2001;d5;6,1490364
+Venezuela;;2001;d6;7,581923
+Venezuela;;2001;d7;9,4042196
+Venezuela;;2001;d8;12,02784
+Venezuela;;2001;d9;16,583929
+Venezuela;;2001;ratio_10_1;23,225236
+Venezuela;;2002;d1;1,3201947
+Venezuela;;2002;d10;35,632927
+Venezuela;;2002;d2;2,705369
+Venezuela;;2002;d3;3,7996938
+Venezuela;;2002;d4;4,8718472
+Venezuela;;2002;d5;6,0725031
+Venezuela;;2002;d6;7,5005484
+Venezuela;;2002;d7;9,3394585
+Venezuela;;2002;d8;12,018992
+Venezuela;;2002;d9;16,738466
+Venezuela;;2002;ratio_10_1;26,99001
+Venezuela;;2003;d1;1,3801496
+Venezuela;;2003;d10;34,369919
+Venezuela;;2003;d2;2,8143659
+Venezuela;;2003;d3;3,9282391
+Venezuela;;2003;d4;5,040246
+Venezuela;;2003;d5;6,2638359
+Venezuela;;2003;d6;7,7459598
+Venezuela;;2003;d7;9,5627546
+Venezuela;;2003;d8;12,199538
+Venezuela;;2003;d9;16,694992
+Venezuela;;2003;ratio_10_1;24,902311
+Venezuela;;2004;d1;1,4729826
+Venezuela;;2004;d10;33,876709
+Venezuela;;2004;d2;2,9071429
+Venezuela;;2004;d3;4,0363116
+Venezuela;;2004;d4;5,1582274
+Venezuela;;2004;d5;6,3898139
+Venezuela;;2004;d6;7,7826495
+Venezuela;;2004;d7;9,6029625
+Venezuela;;2004;d8;12,145028
+Venezuela;;2004;d9;16,62817
+Venezuela;;2004;ratio_10_1;22,995644
+Venezuela;;2005;d1;1,0305161
+Venezuela;;2005;d10;35,737373
+Venezuela;;2005;d2;2,6667914
+Venezuela;;2005;d3;3,8748627
+Venezuela;;2005;d4;5,0009718
+Venezuela;;2005;d5;6,256331
+Venezuela;;2005;d6;7,7072539
+Venezuela;;2005;d7;9,5078287
+Venezuela;;2005;d8;12,019553
+Venezuela;;2005;d9;16,198515
+Venezuela;;2005;ratio_10_1;34,678164
+Venezuela;;2006;d1;1,7161708
+Venezuela;;2006;d10;32,714523
+Venezuela;;2006;d2;3,1972728
+Venezuela;;2006;d3;4,2994566
+Venezuela;;2006;d4;5,4158754
+Venezuela;;2006;d5;6,6011
+Venezuela;;2006;d6;7,9819999
+Venezuela;;2006;d7;9,7305136
+Venezuela;;2006;d8;12,166225
+Venezuela;;2006;d9;16,158514
+Venezuela;;2006;ratio_10_1;19,062573
