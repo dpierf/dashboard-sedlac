@@ -74,10 +74,10 @@ abas e cabeçalhos mesclados). O script `parser.py` realiza:
 pip install pandas openpyxl
 
 # Executar o parser
-python sedlac_parser.py
+python parser.py
 ```
 
-Este código busco os arquivos de entrada em `data/raw/`, enquanto os arquivos
+Este código busca os arquivos de entrada em `data/raw/`, enquanto os arquivos
 gerados serão salvos em `data/parsed/`, para facilitar a identificação posterior.
 
 ---
@@ -93,10 +93,20 @@ Citação recomendada: *"Source: SEDLAC (CEDLAS and The World Bank)"*
 
 ---
 
+## Uso de inteligência artificial generativa
+
+O código Python para parsing dos dados (`parser.py`) foi desenvolvido com o suporte de inteligência artificial generativa (GenAI). A ferramenta utilizada foi:
+
+> ANTHROPIC. **Claude Sonnet 4.6**. San Francisco: Anthropic, 2026. Disponível em: https://claude.ai. Acesso em: 10 mai. 2026.
+
+O uso de IA não substitui a responsabilidade intelectual do autor sobre as escolhas metodológicas, interpretações e resultados apresentados.
+
+---
+
 ## Tecnologias
 
-- **Python** — parsing e tratamento dos dados (`pandas`, `openpyxl`)
-- **Tableau Public** — visualização e publicação
+- **Python**: parsing e tratamento dos dados (`pandas`, `openpyxl`)
+- **Tableau Public**: visualização e publicação
 
 ---
 
